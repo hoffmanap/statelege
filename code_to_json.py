@@ -120,9 +120,19 @@ def convert_docx_table(path, output_dir, table_label="Appendix B", title_num=20)
     the first two columns identify zoning district and permitted use —
     matches the structure of Appendix B as provided. Adjust column indices
     if a different table has a different layout.
+
+    Rows where the 'permitted use' or 'zoning district' cell is much
+    longer than a normal label (e.g. a full legal description or overlay
+    boundary paragraph embedded in an unrelated table in the same
+    document) are skipped rather than converted — those aren't standards
+    rows, and forcing them through produces garbage records and, on
+    Windows, filenames that blow past the path length limit.
     """
+    MAX_LABEL_LEN = 80
+
     doc = Document(path)
     written = 0
+    skipped = 0
 
     for table in doc.tables:
         rows = table.rows
@@ -143,6 +153,10 @@ def convert_docx_table(path, output_dir, table_label="Appendix B", title_num=20)
             zoning_district = cells[1] if len(cells) > 1 else ""
             permitted_use = cells[3] if len(cells) > 3 else ""
 
+            if len(permitted_use) > MAX_LABEL_LEN or len(zoning_district) > 40:
+                skipped += 1
+                continue
+
             standards = {}
             for h, c in zip(headers, cells):
                 if h and h not in ("A", "B", "C"):  # skip bare row-label columns
@@ -157,13 +171,13 @@ def convert_docx_table(path, output_dir, table_label="Appendix B", title_num=20)
                 "source_doc": path.name,
             }
 
-            safe_district = re.sub(r"[^\w\-]", "_", zoning_district or "row")
-            safe_use = re.sub(r"[^\w\-]", "_", (permitted_use or "use")[:30])
-            out_path = output_dir / f"{table_label.replace(' ', '_')}_{safe_district}_{safe_use}_{written}.json"
-            out_path.write_text(json.dumps(record, indent=2))
+            safe_district = re.sub(r"[^\w\-]", "_", zoning_district or "row")[:25]
+            safe_use = re.sub(r"[^\w\-]", "_", (permitted_use or "use"))[:25]
+            out_path = output_dir / f"{table_label.replace(' ', '_')[:20]}_{safe_district}_{safe_use}_{written}.json"
+            out_path.write_text(json.dumps(record, indent=2), encoding="utf-8")
             written += 1
 
-    return written
+    return written, skipped
 
 
 def run(input_dir, output_root):
@@ -182,32 +196,36 @@ def run(input_dir, output_root):
     for path in docx_files:
         print(f"Processing {path.name}")
 
-        if has_table(path):
-            # Table-bearing docs (Appendix B and similar) go into a flat
-            # 'tables' subfolder rather than a title_XX folder, since a
-            # table can span multiple zoning districts across the whole
-            # zoning title rather than living under one section number.
-            table_out = output_root / "tables"
-            table_out.mkdir(exist_ok=True)
-            n = convert_docx_table(path, table_out)
-            total_rows += n
-            print(f"  wrote {n} table row(s) to {table_out}")
-        else:
-            # Narrative sections: figure out which title folder to use from
-            # the first section number found, default to title_20 if unclear.
-            lines = read_docx_paragraphs(path)
-            sections = split_narrative_sections(lines, path.name)
-            if not sections:
-                print(f"  WARNING: no sections extracted from {path.name}")
-                continue
+        # Narrative sections: extract from paragraph text regardless of
+        # whether the file ALSO contains a table. A single docx (like a
+        # full Title 20 export) can have both ordinance text and an
+        # embedded table — these aren't mutually exclusive.
+        lines = read_docx_paragraphs(path)
+        sections = split_narrative_sections(lines, path.name)
+        if sections:
             title_num = sections[0]["title_num"]
             title_out = output_root / f"title_{title_num}"
             title_out.mkdir(exist_ok=True)
             for s in sections:
                 out_path = title_out / f"{s['section']}.json"
-                out_path.write_text(json.dumps(s, indent=2))
+                out_path.write_text(json.dumps(s, indent=2), encoding="utf-8")
             total_sections += len(sections)
-            print(f"  wrote {len(sections)} section(s) to {title_out}")
+            print(f"  wrote {len(sections)} narrative section(s) to {title_out}")
+        else:
+            print(f"  no narrative section headers found in {path.name}")
+
+        # Tables: extract separately if present. Skips rows whose
+        # "permitted use" cell is implausibly long (a sign it's not a
+        # standards table row but something like a legal description or
+        # overlay boundary text) rather than trying to force it into the
+        # Appendix-B-shaped record.
+        if has_table(path):
+            table_out = output_root / "tables"
+            table_out.mkdir(exist_ok=True)
+            n, skipped = convert_docx_table(path, table_out)
+            total_rows += n
+            print(f"  wrote {n} table row(s) to {table_out}"
+                  + (f" ({skipped} row(s) skipped — didn't match expected table shape)" if skipped else ""))
 
     print(f"\nDone. {total_sections} narrative section(s), {total_rows} table row(s) written.")
     print("Spot-check a few JSON files before committing — section-header "
