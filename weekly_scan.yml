@@ -1,0 +1,44 @@
+name: Weekly Legislative Watch Update
+
+on:
+  schedule:
+    # Every Monday at 7am Central (13:00 UTC during CDT, 12:00 UTC during CST)
+    # Cron is UTC-only — adjust if daylight saving matters to you, or just
+    # accept it'll drift by an hour twice a year.
+    - cron: '0 13 * * 1'
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install python-docx requests scikit-learn pdfplumber --break-system-packages
+
+      - name: Run LegiScan ingestion
+        env:
+          LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+        run: python legiscan_ingest.py
+
+      - name: Run rule-based conflict pre-screen (no API key, no cost)
+        run: python prescreen_conflicts.py
+
+      - name: Generate weekly digest
+        run: python weekly_digest.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "legislative-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ bill_tracker.db bill_texts/
+          git diff --quiet --cached || git commit -m "Weekly legislative data update"
+          git push
