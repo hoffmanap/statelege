@@ -23,7 +23,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR = Path(__file__).parent / "docs" / "data"
 BILLS_DIR = DATA_DIR / "bills"
 
 # Only include bills whose priority/severity meets this floor in the
