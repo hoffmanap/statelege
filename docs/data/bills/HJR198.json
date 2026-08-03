@@ -1,0 +1,14 @@
+{
+  "bill_id": 2006738,
+  "bill_number": "HJR198",
+  "title": "Proposing a constitutional amendment to reserve to the people the powers of initiative and referendum.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to State Affairs",
+  "last_action_date": "2025-04-03",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

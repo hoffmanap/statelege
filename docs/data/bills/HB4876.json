@@ -1,0 +1,145 @@
+{
+  "bill_id": 2006458,
+  "bill_number": "HB4876",
+  "title": "Relating to the withdrawal of certain deposits placed in escrow in connection with the purchase or reservation of a condominium unit.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Placed on General State Calendar",
+  "last_action_date": "2025-05-13",
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "19.21.030",
+      "code_text_excerpt": "Sidewalk requirements for new streets\n19.21.030\u00a0Sidewalk requirements for new streets.\nA.\tSides of the Street. Sidewalks shall be required on both sides of all new streets except in accordance with Chapter 13.04.\nB.\tTiming of improvements.\n1.\tSidewalks, landscape and curb ramps shall be provided by the developer at the time of road construction on all new freeway frontage roads unless disallowed b",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.1
+    },
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.077
+    },
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.071
+    },
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.069
+    },
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.067
+    },
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.064
+    },
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "19.15.150",
+      "code_text_excerpt": "Private streets\n19.15.150\u00a0Private streets.\nA.\tPermitted Only as Local Street. Private streets shall require approval as an exception at the time of preliminary plat approval by the city plan commission in accordance with this title. No streets or thoroughfares shown on the adopted thoroughfare plan may be a nonpublic street. Construction and development of private streets shall meet the standards ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.06
+    },
+    {
+      "bill_section": "Sec. 82.158. ESCROW OF DEPOSITS.",
+      "bill_text_excerpt": "Sec. 82.158. ESCROW OF DEPOSITS. (a) Except as provided by Subsection (b), a [ A ] deposit for [ made in connection with ] the purchase or reservation of a unit from a declarant shall be placed in escrow and held in this state in an account designated for that purpose by a real estate broker, an attorney, a title insurance company licensed in this state, an independent bonded escrow company, or an",
+      "bill_numbers_found": [],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.056
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

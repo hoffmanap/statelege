@@ -1,0 +1,183 @@
+{
+  "bill_id": 2032605,
+  "bill_number": "HR1304",
+  "title": "Commemorating the 60th anniversary of Ethicon San Angelo.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "last_action": "Reported enrolled",
+  "last_action_date": "2025-06-01",
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 4,000 square feet minimum per unit / ",
+      "code_text_excerpt": "4,000 square feet minimum per unit  Land area: Lot area 4 acre minimum: 4,000 square feet minimum per unit",
+      "code_numbers_found": [
+        "4,000 square feet",
+        "4 acre",
+        "4,000 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.074
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 4,000 square feet minimum per unit / ",
+      "code_text_excerpt": "4,000 square feet minimum per unit  Land area: Lot area 4 acre minimum: 4,000 square feet minimum per unit",
+      "code_numbers_found": [
+        "4,000 square feet",
+        "4 acre",
+        "4,000 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.074
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 Laundromat, laundry (<5,000 square feet) / X",
+      "code_text_excerpt": "Laundromat, laundry (<5,000 square feet) X Use: Laundromat, laundry (<5,000 square feet) Residential: X Commercial: P Manufacturing: X Special Purpose: X Supplemental \nStandards: \u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.300 Accessory \nUses \nPermitted to \nSpecific Use: ",
+      "code_numbers_found": [
+        "5,000 square feet",
+        "5,000 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.072
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 Laundromat, laundry (>5,000 square feet) / X",
+      "code_text_excerpt": "Laundromat, laundry (>5,000 square feet) X Use: Laundromat, laundry (>5,000 square feet) Residential: S Commercial: X Manufacturing: X Special Purpose: X Supplemental \nStandards: \u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.300 Accessory \nUses \nPermitted to \nSpecific Use: ",
+      "code_numbers_found": [
+        "5,000 square feet",
+        "5,000 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.072
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 Dry cleaning shop (>2,500 square feet) / X",
+      "code_text_excerpt": "Dry cleaning shop (>2,500 square feet) X Use: Dry cleaning shop (>2,500 square feet) Residential: X Commercial: P Manufacturing: X Special Purpose: X Supplemental \nStandards: \u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.190 Accessory \nUses \nPermitted to \nSpecific Use: ",
+      "code_numbers_found": [
+        "2,500 square feet",
+        "2,500 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.058
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 Dry cleaning shop (< 2,500 square feet) / X",
+      "code_text_excerpt": "Dry cleaning shop (< 2,500 square feet) X Use: Dry cleaning shop (< 2,500 square feet) Residential: X Commercial: P Manufacturing: X Special Purpose: X Supplemental \nStandards: \u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.190 Accessory \nUses \nPermitted to \nSpecific Use: ",
+      "code_numbers_found": [
+        "2,500 square feet",
+        "2,500 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.058
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 Yes / 25 feet",
+      "code_text_excerpt": "Yes 25 feet Districts: Detached buildings in shopping centers in C-2, C-3, C-4, M-1, M-2 and M-3 (See A.1-7 after Table for additional information). Permit \nRequired: Yes Maximum Number: One per detached building Maximum Height: 25 feet Maximum Sign Area: 80 square feet",
+      "code_numbers_found": [
+        "25 feet",
+        "25 feet",
+        "80 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.053
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1304 R E S O L U T I O N WHEREAS, Ethicon San Angelo, a Johnson & Johnson MedTech manufacturing plant, celebrated its 60th anniversary in 2024; and WHEREAS, Originally founded as the Johnson Suture Company in 1921, Ethicon established a plant in San Angelo in 1964; the 80,000-square-foot facility",
+      "bill_numbers_found": [
+        "305,000 square feet"
+      ],
+      "code_section": "20.02.220",
+      "code_text_excerpt": "Collection facility\n20.02.220\u00a0Collection facility.\nSee \"Recycling collection facility, large (greater than two thousand square feet)\" or \"Recycling collection facility, small (less than or equal to two thousand square feet).\"\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.052
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

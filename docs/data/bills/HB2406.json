@@ -1,0 +1,145 @@
+{
+  "bill_id": 1954456,
+  "bill_number": "HB2406",
+  "title": "Relating to the regulation of group home facilities, including optional county or municipal permitting requirements; authorizing a fee; creating criminal offenses.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to Human Services",
+  "last_action_date": "2025-03-17",
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.02.738",
+      "code_text_excerpt": "Provider\n20.02.738\u00a0Provider.\n\"Provider\" means a person residing or working in a personal care facility, whose duties include, but are not limited to, direct care, supervision and guidance of personal care recipients.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.222
+    },
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.10.140",
+      "code_text_excerpt": "Child care facilities\n20.10.140\u00a0Child care facilities.\nA.\tHome occupation - child care facilities shall comply with the following:\n1.\tA license shall be maintained at all times as required by law or ordinance;\n2.\tThe home child care facility shall be clearly incidental and secondary to the principal use of the property;\n3.\tA caregiver shall be required;\n4.\tThe front, side and side street yards sha",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.134
+    },
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.10.450",
+      "code_text_excerpt": "Personal care facilities\n20.10.450\u00a0Personal care facilities.\nPersonal care facilities operated in a residential zoning district shall comply with the following:\n1.\tBe licensed in accordance with state and/or city regulations;\n2.\tPermitted signs shall be limited to a one square foot nameplate attached to and not projecting more than one inch beyond the face of the building. The nameplate shall cont",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.12
+    },
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.099
+    },
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.18.050",
+      "code_text_excerpt": "Definitions\n20.18.050\u00a0Definitions.\nDefinitions. For purposes of this chapter, the following terms have these specially defined meanings. If a term is not defined hereunder, the definition contained in chapter 20.02 shall apply, provided, however, where there is conflict the definition contained in this chapter shall apply.\n\"Add-ons,\" in the context of billboards, means a design element that extend",
+      "code_numbers_found": [
+        "72 square feet"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.073
+    },
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.04.150",
+      "code_text_excerpt": "Procedure\n20.04.150\u00a0Procedure.\nA.\tAn application for detailed site development plan shall be prepared in accordance with the specifications outlined in Section 20.04.160, except where the development is for apartments, or mixed-use residential development that meet all minimum requirements set forth in Chapter 20.12 (Density and Dimensional Standards) and Section 20.10.363, a detailed site develop",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.052
+    },
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.044
+    },
+    {
+      "bill_section": "Sec. 260E.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 260E.001. DEFINITIONS. In this chapter: (1) \"Assistance with self-administering medication\" means assisting a resident by: (A) reminding the resident to take a medication; (B) opening or removing the resident's medication from a container; or (C) reminding the resident when a prescription medication needs to be refilled. (2) \"Commission\" means the Health and Human Services Commission. (3) \"El",
+      "bill_numbers_found": [],
+      "code_section": "20.10.610",
+      "code_text_excerpt": "Self-storage warehousing\n20.10.610\u00a0Self-storage warehousing.\nIn A-1, A-2 and A-3 (Apartment), A-M (Apartment-Manufactured home), A-O (Apartment/Office), A/3-0 (Apartment/Office High Density), RMU (Residential Mixed Use), GMU (General Mixed Use), C-1 and C-2 (Commercial) Districts the following conditions apply:\nA.\tA minimum site area of two acres shall be required, unless adjacent to and abutting ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.04
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

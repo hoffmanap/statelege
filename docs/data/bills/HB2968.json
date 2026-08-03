@@ -1,0 +1,111 @@
+{
+  "bill_id": 1973874,
+  "bill_number": "HB2968",
+  "title": "Relating to single-family homes held by corporate owners for rental purposes; requiring information by and registration of certain corporate owners; authorizing a fee and civil penalty.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to Trade, Workforce & Economic Development",
+  "last_action_date": "2025-03-20",
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 121.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 121.001. DEFINITIONS. In this chapter: (1) \"Corporate owner\" means a corporation, limited or general partnership, limited liability company, business trust, investment asset manager, real estate investment trust, joint venture, joint stock company, or bank that holds an interest in multiple single-family homes in this state that are offered or used as a rental property to produce income direc",
+      "bill_numbers_found": [],
+      "code_section": "20.02.126",
+      "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.109
+    },
+    {
+      "bill_section": "Sec. 121.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 121.001. DEFINITIONS. In this chapter: (1) \"Corporate owner\" means a corporation, limited or general partnership, limited liability company, business trust, investment asset manager, real estate investment trust, joint venture, joint stock company, or bank that holds an interest in multiple single-family homes in this state that are offered or used as a rental property to produce income direc",
+      "bill_numbers_found": [],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.073
+    },
+    {
+      "bill_section": "Sec. 121.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 121.001. DEFINITIONS. In this chapter: (1) \"Corporate owner\" means a corporation, limited or general partnership, limited liability company, business trust, investment asset manager, real estate investment trust, joint venture, joint stock company, or bank that holds an interest in multiple single-family homes in this state that are offered or used as a rental property to produce income direc",
+      "bill_numbers_found": [],
+      "code_section": "20.02.124",
+      "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.036
+    },
+    {
+      "bill_section": "Sec. 12.00125. INSTRUMENTS CONCERNING SINGLE-FAMILY HOMES PURCHASED BY CORPORATE OWNERS.",
+      "bill_text_excerpt": "Sec. 12.00125. INSTRUMENTS CONCERNING SINGLE-FAMILY HOMES PURCHASED BY CORPORATE OWNERS. (a) In this section, \"corporate owner\" and \"single-family home\" have the meanings assigned by Section 121.001, Business & Commerce Code. (b) If a corporate owner purchases a single-family home in this state, the county clerk in the county in which the single-family home is located may not record an instrument ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.048
+    },
+    {
+      "bill_section": "Sec. 12.00125. INSTRUMENTS CONCERNING SINGLE-FAMILY HOMES PURCHASED BY CORPORATE OWNERS.",
+      "bill_text_excerpt": "Sec. 12.00125. INSTRUMENTS CONCERNING SINGLE-FAMILY HOMES PURCHASED BY CORPORATE OWNERS. (a) In this section, \"corporate owner\" and \"single-family home\" have the meanings assigned by Section 121.001, Business & Commerce Code. (b) If a corporate owner purchases a single-family home in this state, the county clerk in the county in which the single-family home is located may not record an instrument ",
+      "bill_numbers_found": [],
+      "code_section": "20.02.126",
+      "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.044
+    },
+    {
+      "bill_section": "Sec. 12.00125. INSTRUMENTS CONCERNING SINGLE-FAMILY HOMES PURCHASED BY CORPORATE OWNERS.",
+      "bill_text_excerpt": "Sec. 12.00125. INSTRUMENTS CONCERNING SINGLE-FAMILY HOMES PURCHASED BY CORPORATE OWNERS. (a) In this section, \"corporate owner\" and \"single-family home\" have the meanings assigned by Section 121.001, Business & Commerce Code. (b) If a corporate owner purchases a single-family home in this state, the county clerk in the county in which the single-family home is located may not record an instrument ",
+      "bill_numbers_found": [],
+      "code_section": "20.02.124",
+      "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.024
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

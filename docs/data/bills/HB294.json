@@ -1,0 +1,165 @@
+{
+  "bill_id": 1890376,
+  "bill_number": "HB294",
+  "title": "Relating to the regulation by a property owners' association of food production on single-family residential lots.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "last_action": "Referred to Local Government",
+  "last_action_date": "2025-05-05",
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.173
+    },
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "19.23.040",
+      "code_text_excerpt": "Lots\u2014Determination and regulation of size\n19.23.040\u00a0Lots\u2014Determination and regulation of size.\nA.\tZoning Lot District Requirements, if Applicable. Lots shall conform to the minimum requirements of the established zoning district in which they are located, if located within the city's corporate limits. For small lot development as defined in El Paso City Code Title 20, the development shall meet th",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.143
+    },
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "Appendix B \u2014 A-3/0 / Other permitted uses, except as otherwise specified in this title",
+      "code_text_excerpt": "A-3/0 Other permitted uses, except as otherwise specified in this title SUBPART A: No minimum SUBPART B: Minimum lot area of 750 sf per dwelling unit; unless 3 or more stories, then minimum lot area of 600 sf per dwelling unit; open space requirement of 40% of the lot area of an interior lot and 30% of a corner lot SUBPART C: See Chapter 20.10 SUBPART D: Max height equal to the distance between th",
+      "code_numbers_found": [
+        "40 %",
+        "30 %"
+      ],
+      "shared_categories": [
+        "setback",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.136
+    },
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "19.23.020",
+      "code_text_excerpt": "Lot area\n19.23.020\u00a0Lot area.\nEasements Included. Lot area shall be computed inclusive of all required public and utility easements. However, the area of required easements on a lot shall in no case exceed one-half of the lot size. If the property owner disputes the total easement area required for any lot, the owner shall submit a written computation of the percentage of the lot occupied by easeme",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.135
+    },
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "20.10.500",
+      "code_text_excerpt": "Quarries\n20.10.500\u00a0Quarries.\nA.\tThis district is established in order to reasonably and uniformly limit, safeguard and control future mining, quarrying, excavating, processing and stockpiling of rock, sand, gravel, clay and aggregate, for commercial or retail sales in a manner and location which is in the public interest and which is consistent with the comprehensive plan and any supplemental land",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.132
+    },
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.132
+    },
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "20.02.1003",
+      "code_text_excerpt": "Small Lot\n20.02.1003\u00a0Small Lot.\n\"Small lot\" means a residential lot that is four thousand square feet or less and meets the criteria found in El Paso City Code section 20.10.625.\n(Ord. No. 019815, \u00a7 1, 11-18-2025)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.131
+    },
+    {
+      "bill_section": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT.",
+      "bill_text_excerpt": "Sec. 202.025. FOOD PRODUCTION ALLOWED ON SINGLE-FAMILY RESIDENTIAL LOT. (a) Notwithstanding any other law and except as provided by this section, a property owners' association may not adopt or enforce a restrictive covenant that prohibits any of the following activities on a single-family residential lot: (1) growing fruits and vegetables; (2) raising or keeping: (A) six or fewer domestic fowl; o",
+      "bill_numbers_found": [
+        "20 square feet"
+      ],
+      "code_section": "20.10.430",
+      "code_text_excerpt": "Outdoor flea markets\n20.10.430\u00a0Outdoor flea markets.\nA.\tCompliance Required. Where permitted in a district, outdoor flea markets shall comply with the following:\n1.\tOne vendor off-street parking space and one customer off-street parking space shall be provided per stall/space. Each off-street parking space shall meet the minimum requirements of Chapter 20.14 (Off-Street Parking and Loading Regulat",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.13
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

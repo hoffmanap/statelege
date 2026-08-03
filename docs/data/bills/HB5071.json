@@ -1,0 +1,149 @@
+{
+  "bill_id": 2006849,
+  "bill_number": "HB5071",
+  "title": "Relating to the applicability of limits on the authority of political subdivisions to regulate the issuance of permits.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to Land & Resource Management",
+  "last_action_date": "2025-04-07",
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "lot_size",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.223
+    },
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "19.23.020",
+      "code_text_excerpt": "Lot area\n19.23.020\u00a0Lot area.\nEasements Included. Lot area shall be computed inclusive of all required public and utility easements. However, the area of required easements on a lot shall in no case exceed one-half of the lot size. If the property owner disputes the total easement area required for any lot, the owner shall submit a written computation of the percentage of the lot occupied by easeme",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.203
+    },
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "20.02.620",
+      "code_text_excerpt": "Nonconforming structure\n20.02.620\u00a0Nonconforming structure.\n\"Nonconforming structure\" means an otherwise legal building or structure that does not conform with the lot area, yard, height, fence or screening wall, lot coverage, or other area regulations of this title, for the zoning district in which it is located, either at the effective date of the ordinance codified herein or as a result of subse",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.178
+    },
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "20.12.020",
+      "code_text_excerpt": "Table of density and dimensional standards\n20.12.020\u00a0Table of density and dimensional standards.\nThe Table of Density and Dimensional Standards found in Appendix B, adopted in its entirety and incorporated herein by reference, sets forth the regulations for minimum zoning district areas, minimum lot sizes, densities and heights, required setbacks, and other general standards as applicable to speci",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "lot_size",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.174
+    },
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "20.02.544",
+      "code_text_excerpt": "Lot width, average\n20.02.544\u00a0Lot width, average.\n\"Average lot width\" means the lot area divided by the lot depth.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.168
+    },
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "20.06.020",
+      "code_text_excerpt": "Purpose of districts\n20.06.020\u00a0Purpose of districts.\nA.\tResidential Districts.\n1.\tLight Residential Districts. The purpose of these districts is to promote and preserve residential development within the city to create basic neighborhood units. It is intended that the district regulations maintain a low density of dwelling units supporting a suburban-urban interface that permits developments utili",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.165
+    },
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "19.20.110",
+      "code_text_excerpt": "Fee in lieu of parkland dedication\n19.20.110\u00a0Fee in lieu of parkland dedication.\nA.\tWhen Applicable.\n1.\tResidential Subdivisions. The city may require a cash payment in lieu of parkland dedication under the following circumstances:\na.\tWhen an area of parkland less than one acre is required to be dedicated, or less than two acres if there is an existing park within one-half mile, and upon the recom",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.164
+    },
+    {
+      "bill_section": "Sec. 245.004. EXEMPTIONS.",
+      "bill_text_excerpt": "Sec. 245.004. EXEMPTIONS. This chapter does not apply to: (1) a permit that is [ at least two years old, is ] issued for the construction of a building or structure intended for human occupancy or habitation, and is issued under laws, ordinances, procedures, rules, or regulations adopting only: (A) uniform building, fire, electrical, plumbing, or mechanical codes adopted by a recognized national c",
+      "bill_numbers_found": [],
+      "code_section": "20.02.164",
+      "code_text_excerpt": "Building site\n20.02.164\u00a0Building site.\n\"Building site\" means a lot for a building or structure together with all yards and open space.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.185
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

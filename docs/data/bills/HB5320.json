@@ -1,0 +1,143 @@
+{
+  "bill_id": 2007804,
+  "bill_number": "HB5320",
+  "title": "Relating to the powers, duties, and governance of the Starr County Drainage District, the change of the name of the Starr County Drainage District to the Starr County Drainage and Groundwater Conservation District, the dissolution of the Starr County Groundwater Conservation District, and the transfer of the assets and liabilities of the Starr County Groundwater Conservation District to the Starr County Drainage and Groundwater Conservation District; authorizing the imposition of a tax.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "last_action": "Effective on 9/1/25",
+  "last_action_date": "2025-06-20",
+  "overall_severity": 2,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.232
+    },
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.201
+    },
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.201
+    },
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.152
+    },
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "20.02.1150",
+      "code_text_excerpt": "Water and wastewater utility facility\n20.02.1150\u00a0Water and wastewater utility facility.\nSee \"Public utility facility.\"\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.144
+    },
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "20.02.754",
+      "code_text_excerpt": "Public utility facility\n20.02.754\u00a0Public utility facility.\n\"Public utility facility\" means the buildings, structures and facilities relating to the furnishing of public utility services to the public. Public utility facilities shall be categorized as follows:\nA.\tMinor Utility Facilities. Minor utility facilities shall include facilities which are necessary to support principal development includin",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.141
+    },
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.14
+    },
+    {
+      "bill_section": "Sec. 6606.102. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 6606.102. CONFIRMATION ELECTION. (a) The board shall hold an election to confirm the creation of the district. [ (b) Section 41.001(a), Election Code, does not apply to a confirmation election under this section. [ (c) Except as provided by this section, the confirmation election must be conducted as provided by Sections 49.102(a)-(f), Water Code, and the Election Code. [ (d) The district is ",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Water & wastewater utility facility / NOTE 1",
+      "code_text_excerpt": "Water & wastewater utility facility NOTE 1 19.00: 19.10 Utility & Miscellaneous Governmental Facilities: Water & wastewater utility facility Automobile & Light Truck: NOTE 1 Bicycle: NOTE 3 Heavy Truck Trailer: None Gravel Screen Parking: 2F",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.117
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

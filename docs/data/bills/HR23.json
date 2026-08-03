@@ -1,0 +1,143 @@
+{
+  "bill_id": 1891269,
+  "bill_number": "HR23",
+  "title": "In memory of former Austin City Council member Chris Riley.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "last_action": "Reported enrolled",
+  "last_action_date": "2025-03-06",
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.135
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.134
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Residential/Commercial/Mixed Use / Low-Medium Density Residential",
+      "code_text_excerpt": "Residential/Commercial/Mixed Use Low-Medium Density Residential Alternate Park Type Table:: Mixed Use/High Density Residential @ Intersection roads on the City's MTP with street frontage on 4 sides; abutting buildings must face the square.",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.12
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "19.20.030",
+      "code_text_excerpt": "Parkland calculation\n19.20.030\u00a0Parkland calculation.\nA.\tRate.\n1.\tWhere a residential subdivision application is filed, the amount of parkland required to be deeded to the city shall be as follows:\na.\tSingle-Family and Two-Family Units. One acre of parkland for every one hundred dwelling units calculated as follows:\n\"x\" = \"y\"/100\nWhere:\n\"x\"\u2002is the amount of acres of parkland required to be deeded, ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Apartment/Office High Density District / ",
+      "code_text_excerpt": "Apartment/Office High Density District  Light Density Residential Districts: Apartment/Office High Density District",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.112
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Apartment/Office High Density District / ",
+      "code_text_excerpt": "Apartment/Office High Density District  Light Density Residential Districts: Apartment/Office High Density District",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.112
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "20.06.075",
+      "code_text_excerpt": "Annexation procedures\n20.06.075\u00a0Annexation procedures.\nA.\tAnnexation of property shall follow the procedures stated in Chapter 43 of the Local Government Code.\n1.\tApplication. The owner(s) of a tract of land, or the owner's agent if authorized in writing, who desires that the tract be annexed into the corporate limits of the city, shall submit an annexation application, using the application form ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.11
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 23 R E S O L U T I O N WHEREAS, Residents of Austin lost a visionary civic leader with the passing of former city council member Chris Riley on July 28, 2024, at the age of 60; and WHEREAS, The son of Eva and Peter Riley, Chris Riley was born in Austin in 1964; he worked as a congressional page i",
+      "bill_numbers_found": [],
+      "code_section": "19.20.020",
+      "code_text_excerpt": "Dedication required\n19.20.020\u00a0Dedication required.\nA.\tDedication Required. All subdivisions located within the corporate limits of the City of El Paso and within those areas designated in the city's extra territorial jurisdiction (ETJ), as identified on an official map kept in the office of the planning official.\n1.\tThe land conveyed and deeded to the city shall not be subject to reservations of r",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.109
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

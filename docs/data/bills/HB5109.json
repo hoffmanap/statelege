@@ -1,0 +1,145 @@
+{
+  "bill_id": 2006745,
+  "bill_number": "HB5109",
+  "title": "Relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Committee report sent to Calendars",
+  "last_action_date": "2025-04-29",
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.243
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.02.446",
+      "code_text_excerpt": "Historic landmark\n20.02.446\u00a0Historic landmark.\n\"Historic landmark\" means a building, structure, site district, area or land of architectural, historical, archaeological or cultural importance or value, which the city council determines shall be protected, enhanced and preserved in the interest of the culture, prosperity, education and general welfare of the people.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.199
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.20.050",
+      "code_text_excerpt": "Historic landmarks designation criteria\n20.20.050\u00a0Historic landmarks designation criteria.\nIn making designations set forth in this chapter, the HLC, the city plan commission, and city council shall consider, but shall not be limited to, one or more of the following criteria:\nA.\tCharacter, interest or value as part of the development, heritage or cultural characteristics of the city, state or the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.197
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.166
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.149
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.18.480",
+      "code_text_excerpt": "Historic overlay zones, historic districts and designated significant landmarks\n20.18.480\u00a0Historic overlay zones, historic districts and designated significant landmarks.\nA.\tHome occupation signs shall comply with the following requirements:\n1.\tPermit required: no;\n2.\tMaximum number: one per dwelling;\n3.\tMaximum sign area: one square foot;\n4.\tPlacement: no portion of the sign shall project more th",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.147
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.125
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R3851 MP-D By: Darby H.B. No. 5109 A BILL TO BE ENTITLED AN ACT relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 3000.002(c), Government C",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

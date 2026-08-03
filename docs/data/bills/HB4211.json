@@ -1,0 +1,14 @@
+{
+  "bill_id": 1996300,
+  "bill_number": "HB4211",
+  "title": "Relating to certain residential property interests controlled by certain entities.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "last_action": "Effective immediately",
+  "last_action_date": "2025-06-20",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

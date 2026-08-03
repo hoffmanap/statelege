@@ -1,0 +1,161 @@
+{
+  "bill_id": 2005764,
+  "bill_number": "HB4754",
+  "title": "Relating to access to universal changing facilities in places of public accommodation and public buildings.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to State Affairs",
+  "last_action_date": "2025-04-03",
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.219
+    },
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "20.10.490",
+      "code_text_excerpt": "Processing facilities\n20.10.490\u00a0Processing facilities.\nA.\tLight Processing Facilities. Light processing facilities are limited to baling, briqueting, crushing, compacting, grinding, shredding and sorting of source-separated recyclable materials and repairing of reusable materials. Where permitted in a district, by special permit, light processing facilities shall comply with the following standard",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.164
+    },
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "20.10.520",
+      "code_text_excerpt": "Recycling collection facilities\n20.10.520\u00a0Recycling collection facilities.\nA.\tSmall Collection Facilities. Small collection facilities may be located in commercial, manufacturing and industrial zones provided they comply with the following standards:\n1.\tShall be established as an accessory use to a permitted commercial, manufacturing or industrial use which is in compliance with the zoning, buildi",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.142
+    },
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "20.18.450",
+      "code_text_excerpt": "C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts\n20.18.450\u00a0C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts.\nA.\tMonument signs shall comply with the following requirements:\n1.\tLocation: No portion of the sign shall be closer than fifteen feet from the back of the curbline; if the property line is located more than fifteen feet from the curbline, signs shall be erected within the property line, and no port",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.141
+    },
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "20.18.470",
+      "code_text_excerpt": "U-P district\n20.18.470\u00a0U-P district.\nA.\tMonument signs shall comply with the following requirements:\n1.\tPermit required: yes;\n2.\tMaximum number: one monument sign per street frontage, not to exceed two signs per premise;\n3.\tMaximum sign area: eighty square feet;\n4.\tMaximum sign height: ten feet;\n5.\tLocation: no portion of the sign shall be closer than fifteen feet from the back of the curbline; if",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.139
+    },
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.136
+    },
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.132
+    },
+    {
+      "bill_section": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES.",
+      "bill_text_excerpt": "Sec. 341.070. UNIVERSAL CHANGING FACILITIES. (a) In this section: (1) \"Person with a disability\" means a person with a physical, intellectual, behavioral, or cognitive impairment resulting in the person's inability to perform the activities of daily life. (2) \"Place of public accommodation\" means any of the following locations: (A) a place of exhibition, entertainment, or gathering, including a mo",
+      "bill_numbers_found": [
+        "40,000 square feet"
+      ],
+      "code_section": "20.18.480",
+      "code_text_excerpt": "Historic overlay zones, historic districts and designated significant landmarks\n20.18.480\u00a0Historic overlay zones, historic districts and designated significant landmarks.\nA.\tHome occupation signs shall comply with the following requirements:\n1.\tPermit required: no;\n2.\tMaximum number: one per dwelling;\n3.\tMaximum sign area: one square foot;\n4.\tPlacement: no portion of the sign shall project more th",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.131
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

@@ -1,0 +1,14 @@
+{
+  "bill_id": 2006501,
+  "bill_number": "HB4902",
+  "title": "Relating to voter registration.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to Elections",
+  "last_action_date": "2025-04-03",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

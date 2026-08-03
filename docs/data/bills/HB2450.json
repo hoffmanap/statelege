@@ -1,0 +1,14 @@
+{
+  "bill_id": 1957021,
+  "bill_number": "HB2450",
+  "title": "Relating to elevator inspection requirements in buildings with four stories or less.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Placed on General State Calendar",
+  "last_action_date": "2025-05-13",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

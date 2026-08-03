@@ -41,7 +41,7 @@ def load_all_bills():
                           f"prescreen_conflicts.py first.")
     for path in sorted(BILLS_DIR.glob("*.json")):
         try:
-            bills.append(json.loads(path.read_text()))
+            bills.append(json.loads(path.read_text(encoding="utf-8")))
         except json.JSONDecodeError:
             print(f"  WARNING: could not parse {path.name}, skipping")
     return bills
@@ -140,7 +140,7 @@ def run():
     generated_at = datetime.now(timezone.utc).isoformat()
 
     markdown = render_markdown(summary, generated_at)
-    (DATA_DIR / "weekly_digest.md").write_text(markdown)
+    (DATA_DIR / "weekly_digest.md").write_text(markdown, encoding="utf-8")
 
     json_out = {
         "generated_at": generated_at,
@@ -150,7 +150,7 @@ def run():
         "high_priority_count": summary["high_priority_count"],
         "high_priority_bill_numbers": [b["bill_number"] for b in summary["high_priority_bills"]],
     }
-    (DATA_DIR / "weekly_digest.json").write_text(json.dumps(json_out, indent=2))
+    (DATA_DIR / "weekly_digest.json").write_text(json.dumps(json_out, indent=2), encoding="utf-8")
 
     print("Wrote data/weekly_digest.md and data/weekly_digest.json")
     print(f"{summary['flagged_count']} bill(s) flagged, "

@@ -1,0 +1,14 @@
+{
+  "bill_id": 1988751,
+  "bill_number": "SB1758",
+  "title": "Relating to the operation of a cement kiln and the production of aggregates near a semiconductor wafer manufacturing facility.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "last_action": "Effective immediately",
+  "last_action_date": "2025-06-22",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

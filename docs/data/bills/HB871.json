@@ -1,0 +1,14 @@
+{
+  "bill_id": 1890893,
+  "bill_number": "HB871",
+  "title": "Relating to the residential and commercial building codes of municipalities.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "last_action": "Received from the House",
+  "last_action_date": "2025-05-19",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

@@ -1,0 +1,399 @@
+{
+  "bill_id": 1973740,
+  "bill_number": "SB1359",
+  "title": "Relating to the creation, powers, duties, and financing of the Wise Regional Water District; granting a limited power of eminent domain; providing authority to issue bonds; providing authority to impose fees; creating a criminal offense.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "last_action": "Reported favorably w/o amendment(s)",
+  "last_action_date": "2025-05-24",
+  "overall_severity": 2,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.245
+    },
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.192
+    },
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.188
+    },
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.185
+    },
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "20.02.754",
+      "code_text_excerpt": "Public utility facility\n20.02.754\u00a0Public utility facility.\n\"Public utility facility\" means the buildings, structures and facilities relating to the furnishing of public utility services to the public. Public utility facilities shall be categorized as follows:\nA.\tMinor Utility Facilities. Minor utility facilities shall include facilities which are necessary to support principal development includin",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.171
+    },
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "20.02.1150",
+      "code_text_excerpt": "Water and wastewater utility facility\n20.02.1150\u00a0Water and wastewater utility facility.\nSee \"Public utility facility.\"\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.134
+    },
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Water & wastewater utility facility. / P",
+      "code_text_excerpt": "Water & wastewater utility facility. P Use: Water & wastewater utility facility. Residential: P Commercial: P Manufacturing: P Special Purpose: X Supplemental \nStandards: \u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.730 Accessory \nUses \nPermitted to \nSpecific Use: ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.134
+    },
+    {
+      "bill_section": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES.",
+      "bill_text_excerpt": "Sec. 11021.0302. PLANNING AND ACQUISITION OF WORKS AND FACILITIES. The district may plan, lay out, purchase, construct, acquire, own, operate, maintain, repair, and improve, inside or outside the territory of the district, any works, improvements, facilities, plants, equipment, and appliances, including: (1) any administrative properties and facilities; (2) any permits, franchises, licenses, or co",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Water & wastewater utility facility / NOTE 1",
+      "code_text_excerpt": "Water & wastewater utility facility NOTE 1 19.00: 19.10 Utility & Miscellaneous Governmental Facilities: Water & wastewater utility facility Automobile & Light Truck: NOTE 1 Bicycle: NOTE 3 Heavy Truck Trailer: None Gravel Screen Parking: 2F",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.124
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.127
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.118
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "20.02.754",
+      "code_text_excerpt": "Public utility facility\n20.02.754\u00a0Public utility facility.\n\"Public utility facility\" means the buildings, structures and facilities relating to the furnishing of public utility services to the public. Public utility facilities shall be categorized as follows:\nA.\tMinor Utility Facilities. Minor utility facilities shall include facilities which are necessary to support principal development includin",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.098
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.098
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "20.02.1150",
+      "code_text_excerpt": "Water and wastewater utility facility\n20.02.1150\u00a0Water and wastewater utility facility.\nSee \"Public utility facility.\"\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.068
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.062
+    },
+    {
+      "bill_section": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS.",
+      "bill_text_excerpt": "Sec. 11021.0404. BONDS, NOTES, AND OTHER OBLIGATIONS. (a) The district may issue its revenue bonds, notes, revenue anticipation notes, bond anticipation notes, short-term obligations, refunding bonds, or other obligations for any of its purposes without an election and on those terms the board determines to be appropriate. (b) Obligations issued by the district may be made payable from all or part",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Water & wastewater utility facility / NOTE 1",
+      "code_text_excerpt": "Water & wastewater utility facility NOTE 1 19.00: 19.10 Utility & Miscellaneous Governmental Facilities: Water & wastewater utility facility Automobile & Light Truck: NOTE 1 Bicycle: NOTE 3 Heavy Truck Trailer: None Gravel Screen Parking: 2F",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.062
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.13
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.092
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.064
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.057
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.054
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.05
+    },
+    {
+      "bill_section": "Sec. 11021.0507. STATUS OF SUBDISTRICTS.",
+      "bill_text_excerpt": "Sec. 11021.0507. STATUS OF SUBDISTRICTS. (a) A subdistrict is a conservation and reclamation district under Section 59, Article XVI, Texas Constitution, with the powers granted in that section. (b) Except as otherwise provided by this chapter, a subdistrict has the powers specified in this chapter and the same powers as the district, including the power of eminent domain, and is subject to the sam",
+      "bill_numbers_found": [],
+      "code_section": "19.04.070",
+      "code_text_excerpt": "Plat recordation\n19.04.070\u00a0Plat recordation.\nA.\tProcedure.\n1.\tSignatures. After approval of the final plat, the city manager, or designee shall procure the signature of the chairperson of the city plan commission on the final plat ready for recording, the signature of the secretary of the city plan commission who shall attest to the signature of the chairperson, and the signature of the planning a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.045
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

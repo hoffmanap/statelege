@@ -1,0 +1,143 @@
+{
+  "bill_id": 1967101,
+  "bill_number": "HB2737",
+  "title": "Relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to Land & Resource Management",
+  "last_action_date": "2025-03-18",
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.183
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "20.12.020",
+      "code_text_excerpt": "Table of density and dimensional standards\n20.12.020\u00a0Table of density and dimensional standards.\nThe Table of Density and Dimensional Standards found in Appendix B, adopted in its entirety and incorporated herein by reference, sets forth the regulations for minimum zoning district areas, minimum lot sizes, densities and heights, required setbacks, and other general standards as applicable to speci",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.127
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.123
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "19.20.030",
+      "code_text_excerpt": "Parkland calculation\n19.20.030\u00a0Parkland calculation.\nA.\tRate.\n1.\tWhere a residential subdivision application is filed, the amount of parkland required to be deeded to the city shall be as follows:\na.\tSingle-Family and Two-Family Units. One acre of parkland for every one hundred dwelling units calculated as follows:\n\"x\" = \"y\"/100\nWhere:\n\"x\"\u2002is the amount of acres of parkland required to be deeded, ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.122
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "20.06.075",
+      "code_text_excerpt": "Annexation procedures\n20.06.075\u00a0Annexation procedures.\nA.\tAnnexation of property shall follow the procedures stated in Chapter 43 of the Local Government Code.\n1.\tApplication. The owner(s) of a tract of land, or the owner's agent if authorized in writing, who desires that the tract be annexed into the corporate limits of the city, shall submit an annexation application, using the application form ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.12
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "19.02.070",
+      "code_text_excerpt": "Revisions following approval of a land study\n19.02.070\u00a0Revisions following approval of a land study.\nA.\tMinor changes. The city manager or designee may deem a revision to be minor and may authorize the amendment administratively. An amendment shall be considered minor if the city manager or designee determines that it does not alter any of the following by more than ten percent: the arrangement of",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.113
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Residential Mobile Home District / ",
+      "code_text_excerpt": "Residential Mobile Home District  Light Density Residential Districts: Residential Mobile Home District",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.112
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R9933 SCL-D By: Kitzman H.B. No. 2737 A BILL TO BE ENTITLED AN ACT relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 232.001, Local Go",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Residential Mobile Home District / ",
+      "code_text_excerpt": "Residential Mobile Home District  Light Density Residential Districts: Residential Mobile Home District",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.112
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

@@ -1,0 +1,14 @@
+{
+  "bill_id": 1891745,
+  "bill_number": "HB509",
+  "title": "Relating to the authority of certain entities and individuals to prevent individuals from accessing private property for the purpose of registering voters or communicating political messages.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to Elections",
+  "last_action_date": "2025-03-03",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

@@ -208,7 +208,7 @@ def write_bill_base_json(bill_number, bill_id, title, lifecycle, status, history
 
     existing = {}
     if out_path.exists():
-        existing = json.loads(out_path.read_text())
+        existing = json.loads(out_path.read_text(encoding="utf-8"))
 
     existing.update({
         "bill_id": bill_id,
@@ -228,7 +228,7 @@ def write_bill_base_json(bill_number, bill_id, title, lifecycle, status, history
     existing.setdefault("overall_severity", None)
     existing.setdefault("scope", None)
 
-    out_path.write_text(json.dumps(existing, indent=2))
+    out_path.write_text(json.dumps(existing, indent=2), encoding="utf-8")
 
 
 def run():
@@ -347,11 +347,30 @@ def export_manifest(conn):
     Write data/manifest.json for the GitHub Pages front end. This is the
     lightweight index the list view loads first — full per-bill conflict
     detail (severity, code sections, required changes) gets merged in by
-    the downstream scoring script, which should update the same file's
-    entries rather than overwrite this manifest wholesale.
+    the downstream scoring script.
+
+    BUG FIX: this used to reset overall_severity/scope to null placeholders
+    for EVERY bill on every run, which silently wiped out real scoring
+    results from prescreen_conflicts.py for any bill that wasn't rescanned
+    that particular week (i.e. most bills, most weeks, since only changed
+    bills get needs_review=1). Now it loads the existing manifest first (if
+    one exists) and carries forward each bill's previously-scored severity/
+    scope, only defaulting to null for bills that are genuinely new.
     """
     out_dir = Path(__file__).parent / "docs" / "data"
     out_dir.mkdir(exist_ok=True)
+
+    manifest_path = out_dir / "manifest.json"
+    previous_scores = {}
+    if manifest_path.exists():
+        try:
+            previous = json.loads(manifest_path.read_text(encoding="utf-8"))
+            previous_scores = {
+                b["bill_number"]: (b.get("overall_severity"), b.get("scope"))
+                for b in previous
+            }
+        except (json.JSONDecodeError, KeyError):
+            pass  # if the existing file is somehow malformed, just start fresh
 
     rows = conn.execute("""
         SELECT bill_number, title, lifecycle, status, last_action,
@@ -362,26 +381,27 @@ def export_manifest(conn):
 
     manifest = []
     for r in rows:
+        bill_number = r[0]
+        prev_severity, prev_scope = previous_scores.get(bill_number, (None, None))
         manifest.append({
             "bill_id": r[6],
-            "bill_number": r[0],
+            "bill_number": bill_number,
             "title": r[1],
             "lifecycle": r[2],          # active / passed / dead
             "legiscan_status": r[3],
             "last_action": r[4],
             "last_action_date": r[5],
-            # These get filled in by the scoring step once it runs;
-            # placeholders here so the UI has a consistent shape even
-            # before scoring has happened for a newly-ingested bill.
-            "overall_severity": None,
-            "scope": None,
+            # Carried forward from the previous manifest if this bill was
+            # already scored; only null for bills seen for the first time.
+            "overall_severity": prev_severity,
+            "scope": prev_scope,
         })
 
-    (out_dir / "manifest.json").write_text(json.dumps(manifest, indent=2))
+    (out_dir / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
     (out_dir / "last_updated.json").write_text(json.dumps({
         "updated_at": datetime.now(timezone.utc).isoformat()
-    }, indent=2))
+    }, indent=2), encoding="utf-8")
 
     print(f"Wrote data/manifest.json ({len(manifest)} bills) and last_updated.json")
 

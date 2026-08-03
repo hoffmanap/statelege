@@ -1,0 +1,415 @@
+{
+  "bill_id": 1946871,
+  "bill_number": "HB2246",
+  "title": "Relating to the terminology used in statute to refer to the partially landlocked body of water on the southeastern periphery of the North American continent.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "last_action": "Referred to State Affairs",
+  "last_action_date": "2025-03-14",
+  "overall_severity": 2,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.108
+    },
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.076
+    },
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "20.02.754",
+      "code_text_excerpt": "Public utility facility\n20.02.754\u00a0Public utility facility.\n\"Public utility facility\" means the buildings, structures and facilities relating to the furnishing of public utility services to the public. Public utility facilities shall be categorized as follows:\nA.\tMinor Utility Facilities. Minor utility facilities shall include facilities which are necessary to support principal development includin",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.066
+    },
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "19.10.050",
+      "code_text_excerpt": "Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision\n19.10.050\u00a0Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision.\nA.\tImprovement of the proportional share of a substandard road within or abutting the subdivision. When an area within a proposed plat, whether residential or nonresidential, abut",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.059
+    },
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.051
+    },
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "20.10.510",
+      "code_text_excerpt": "Recreational vehicle parks\n20.10.510\u00a0Recreational vehicle parks.\nAll recreational vehicle parks shall be constructed and maintained in accordance with all applicable provisions of the city code.\nA.\tAll recreational vehicle parks and extensions and additions to recreational vehicle parks shall be constructed and maintained in compliance with the following requirements:\n1.\tA recreational vehicle par",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.05
+    },
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.049
+    },
+    {
+      "bill_section": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES.",
+      "bill_text_excerpt": "Sec. 1505.053. AUTHORITY FOR NAVIGATIONAL FACILITIES. A municipality may: (1) own, purchase, construct, operate, improve, enlarge, repair, or maintain a bridge over or across any stream, inlet, or arm of the Gulf of America [ Gulf of Mexico ] or entrance canal to the deepwater port of the municipality that connects any of the public streets, highways, or thoroughfares of the municipality; (2) own,",
+      "bill_numbers_found": [],
+      "code_section": "19.02.020",
+      "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.048
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "19.10.050",
+      "code_text_excerpt": "Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision\n19.10.050\u00a0Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision.\nA.\tImprovement of the proportional share of a substandard road within or abutting the subdivision. When an area within a proposed plat, whether residential or nonresidential, abut",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.128
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.121
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.091
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "19.03.050",
+      "code_text_excerpt": "Effect of approval of a preliminary plat\n19.03.050\u00a0Effect of approval of a preliminary plat.\nA.\tRight to proceed. The approval of a preliminary plat application shall allow the applicant to proceed with the development and platting process by submitting subdivision improvement plans and a final plat. The city will not require non-engineering related significant changes in the final subdivision imp",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.087
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "19.04.070",
+      "code_text_excerpt": "Plat recordation\n19.04.070\u00a0Plat recordation.\nA.\tProcedure.\n1.\tSignatures. After approval of the final plat, the city manager, or designee shall procure the signature of the chairperson of the city plan commission on the final plat ready for recording, the signature of the secretary of the city plan commission who shall attest to the signature of the chairperson, and the signature of the planning a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.074
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.069
+    },
+    {
+      "bill_section": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS.",
+      "bill_text_excerpt": "Sec. 501.103. CERTAIN INFRASTRUCTURE IMPROVEMENT PROJECTS. In this subtitle, \"project\" includes expenditures that are found by the board of directors to be required or suitable for infrastructure necessary to promote or develop new or expanded business enterprises, limited to: (1) streets and roads, rail spurs, water and sewer utilities, electric utilities, or gas utilities, drainage, site improve",
+      "bill_numbers_found": [],
+      "code_section": "19.20.050",
+      "code_text_excerpt": "Standards for deeded parkland\n19.20.050\u00a0Standards for deeded parkland.\nA.\tGeneral Characteristics. Parkland deeded to the city as provided in this chapter shall meet the standards set forth below and in the SDM:\n1.\tThe parkland shall be placed in a location near the center of the subdivision or subdivisions that it serves, with the expressed goal that the park is no further than one-quarter mile m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.066
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.19
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.161
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.152
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.133
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.101
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "19.20.050",
+      "code_text_excerpt": "Standards for deeded parkland\n19.20.050\u00a0Standards for deeded parkland.\nA.\tGeneral Characteristics. Parkland deeded to the city as provided in this chapter shall meet the standards set forth below and in the SDM:\n1.\tThe parkland shall be placed in a location near the center of the subdivision or subdivisions that it serves, with the expressed goal that the park is no further than one-quarter mile m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.098
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.093
+    },
+    {
+      "bill_section": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK.",
+      "bill_text_excerpt": "Sec. 2025.152. LOCATION RESTRICTION FOR GREYHOUND RACETRACK. Each greyhound racetrack must be located in a county that: (1) has a population of more than 190,000; (2) borders the Gulf of America [ Gulf of Mexico ]; and (3) includes all or part of an island that borders the Gulf of America [ Gulf of Mexico ]. ARTICLE 13. PROPERTY CODE PROVISIONS SECTION 13.01. Section 5.008(b), Property Code, is am",
+      "bill_numbers_found": [
+        "1,000 feet"
+      ],
+      "code_section": "20.10.510",
+      "code_text_excerpt": "Recreational vehicle parks\n20.10.510\u00a0Recreational vehicle parks.\nAll recreational vehicle parks shall be constructed and maintained in accordance with all applicable provisions of the city code.\nA.\tAll recreational vehicle parks and extensions and additions to recreational vehicle parks shall be constructed and maintained in compliance with the following requirements:\n1.\tA recreational vehicle par",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.085
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

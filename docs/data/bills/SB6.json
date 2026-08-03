@@ -1,0 +1,143 @@
+{
+  "bill_id": 1967724,
+  "bill_number": "SB6",
+  "title": "Relating to the planning for, interconnection and operation of, and costs related to providing service for certain electrical loads and to the generation of electric power by a water supply or sewer service corporation.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "last_action": "Effective immediately",
+  "last_action_date": "2025-06-20",
+  "overall_severity": 2,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.186
+    },
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "20.02.754",
+      "code_text_excerpt": "Public utility facility\n20.02.754\u00a0Public utility facility.\n\"Public utility facility\" means the buildings, structures and facilities relating to the furnishing of public utility services to the public. Public utility facilities shall be categorized as follows:\nA.\tMinor Utility Facilities. Minor utility facilities shall include facilities which are necessary to support principal development includin",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.157
+    },
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.153
+    },
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.128
+    },
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.121
+    },
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "20.02.1150",
+      "code_text_excerpt": "Water and wastewater utility facility\n20.02.1150\u00a0Water and wastewater utility facility.\nSee \"Public utility facility.\"\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.12
+    },
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.104
+    },
+    {
+      "bill_section": "Sec. 67.0115. ELECTRIC GENERATION.",
+      "bill_text_excerpt": "Sec. 67.0115. ELECTRIC GENERATION. (a) A corporation may generate electric power for use in the corporation's operations, limited to: (1) powering water well pumps, service pumps, and other equipment for the production, treatment, and transportation of raw water; and (2) powering infrastructure for the treatment and delivery of potable drinking water. (b) For the purposes of Subsection (a), a corp",
+      "bill_numbers_found": [],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.103
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

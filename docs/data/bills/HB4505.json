@@ -1,0 +1,72 @@
+{
+  "bill_id": 2003050,
+  "bill_number": "HB4505",
+  "title": "Relating to the establishment of the workforce housing capital investment fund program to fund the development of workforce housing in this state; authorizing a fee.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "last_action": "Received from the House",
+  "last_action_date": "2025-05-19",
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "conflicts": [
+    {
+      "bill_section": "Sec. 2306.704. USE OF FUND.",
+      "bill_text_excerpt": "Sec. 2306.704. USE OF FUND. (a) The department shall provide money from the fund to the program administrator to make and disburse zero-interest loans to program recipients in accordance with this subchapter. (b) Money provided from the fund to program recipients may be used only to pay the costs associated with the development and construction of workforce, single-family housing projects primaril",
+      "bill_numbers_found": [
+        "80 percent",
+        "80 percent"
+      ],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.031
+    },
+    {
+      "bill_section": "Sec. 2306.704. USE OF FUND.",
+      "bill_text_excerpt": "Sec. 2306.704. USE OF FUND. (a) The department shall provide money from the fund to the program administrator to make and disburse zero-interest loans to program recipients in accordance with this subchapter. (b) Money provided from the fund to program recipients may be used only to pay the costs associated with the development and construction of workforce, single-family housing projects primaril",
+      "bill_numbers_found": [
+        "80 percent",
+        "80 percent"
+      ],
+      "code_section": "20.02.126",
+      "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.015
+    },
+    {
+      "bill_section": "Sec. 2306.704. USE OF FUND.",
+      "bill_text_excerpt": "Sec. 2306.704. USE OF FUND. (a) The department shall provide money from the fund to the program administrator to make and disburse zero-interest loans to program recipients in accordance with this subchapter. (b) Money provided from the fund to program recipients may be used only to pay the costs associated with the development and construction of workforce, single-family housing projects primaril",
+      "bill_numbers_found": [
+        "80 percent",
+        "80 percent"
+      ],
+      "code_section": "20.02.124",
+      "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.014
+    }
+  ],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

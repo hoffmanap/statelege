@@ -1,0 +1,14 @@
+{
+  "bill_id": 2000017,
+  "bill_number": "HB4398",
+  "title": "Relating to municipal permitting requirements for certain development projects supported with low income housing tax credit allocations.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "last_action": "Received from the House",
+  "last_action_date": "2025-05-15",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}

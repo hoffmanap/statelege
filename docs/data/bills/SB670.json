@@ -1,0 +1,14 @@
+{
+  "bill_id": 1897725,
+  "bill_number": "SB670",
+  "title": "Relating to patient authorization to access certain investigational sun protection products.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "last_action": "Effective immediately",
+  "last_action_date": "2025-06-20",
+  "overall_severity": null,
+  "scope": null,
+  "conflicts": [],
+  "gaps": [],
+  "scoring_method": "rule_based_prescreen"
+}
