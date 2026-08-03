@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Bowling alley",
+  "permitted_use": "1/185 sf GFA",
+  "standards": {
+    "11.00": "11.09",
+    "Recreation Amusement & Entertainment": "Bowling alley",
+    "Automobile & Light Truck": "1/185 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "One",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Greenhouse (industrial-scale)",
+  "permitted_use": "1/2000 sf GFA of buildings",
+  "standards": {
+    "1.00": "1.12",
+    "Agricultural & Related Operations": "Greenhouse (industrial-scale)",
+    "Automobile & Light Truck": "1/2000 sf GFA of buildings",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-0",
+  "permitted_use": "Other permitted uses, except as",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Chapter 20.10",
+    "SUBPART C": "See Chapter 20.10",
+    "SUBPART D": "Max height equal to the distance between the centerline of abutting street and face of the building abutting that street."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

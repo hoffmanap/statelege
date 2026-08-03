@@ -1,0 +1,38 @@
+{
+  "bill_id": 2020159,
+  "bill_number": "SR376",
+  "title": "Recognizing the City of Palestine for its contributions to the Lone Star State.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/SR376/2025",
+  "progress": [
+    {
+      "date": "2025-04-03",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Read & adopted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Reported enrolled",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Reported enrolled",
+  "last_action_date": "2025-04-08",
+  "scoring_method": "rule_based_prescreen"
+}

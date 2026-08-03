@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Resource recovery plant",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Resource recovery plant",
+    "Residential": "X",
+    "Commercial": "X",
+    "Manufacturing": "S",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.730",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "Buildings, equipment, supplies or land used for processing, storage, maintenance or sale of materials; operating and security personnel offices."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

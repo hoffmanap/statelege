@@ -1,0 +1,38 @@
+{
+  "bill_id": 1982921,
+  "bill_number": "HB3299",
+  "title": "Relating to the regulation of building products by governmental entities.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3299/2025",
+  "progress": [
+    {
+      "date": "2025-02-25",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Referred to State Affairs",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to State Affairs",
+  "last_action_date": "2025-03-20",
+  "scoring_method": "rule_based_prescreen"
+}

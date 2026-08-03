@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Conservation easements",
+  "permitted_use": "P",
+  "standards": {
+    "Use": "Conservation easements",
+    "Residential": "P",
+    "Commercial": "P",
+    "Manufacturing": "P",
+    "Special Purpose": "P",
+    "Supplemental \nStandards": "20.02.254",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "P-C",
+  "permitted_use": "Neighborhood shopping center",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Development Standards in Section 20.10.360 of this title",
+    "SUBPART C": "Principal access shall be from collector or arterial streets. No access from a residential street.",
+    "SUBPART D": "25"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

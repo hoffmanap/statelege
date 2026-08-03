@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Disabled group dwelling",
+  "permitted_use": "No more than 1 motor vehicle per bedroom",
+  "standards": {
+    "13.00": "13.065",
+    "Residential": "Disabled group dwelling",
+    "Automobile & Light Truck": "No more than 1 motor vehicle per bedroom",
+    "Bicycle": "Note 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2H"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

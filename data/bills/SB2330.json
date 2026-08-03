@@ -1,0 +1,255 @@
+{
+  "bill_id": 2002118,
+  "bill_number": "SB2330",
+  "title": "Relating to payroll deductions for certain state and local government employee organizations.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2330/2025",
+  "progress": [
+    {
+      "date": "2025-03-12",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred to Business & Commerce",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Left pending in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Reported favorably as substituted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Read 2nd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Amendment(s) offered FA1 Parker",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Vote recorded in Journal",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Amendment(s) offered FA2 Alvarado",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Amendment fails of adoption",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Passed to engrossment as amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Read 3rd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Passed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Reported engrossed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Received from the Senate",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Received from the Senate",
+  "last_action_date": "2025-05-01",
+  "scoring_method": "rule_based_prescreen"
+}

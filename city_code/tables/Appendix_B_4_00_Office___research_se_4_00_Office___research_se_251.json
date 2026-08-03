@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "4.00 Office & research services",
+  "permitted_use": "4.00 Office & research services",
+  "standards": {
+    "Use": "4.00 Office & research services",
+    "Residential": "4.00 Office & research services",
+    "Commercial": "4.00 Office & research services",
+    "Manufacturing": "4.00 Office & research services",
+    "Special Purpose": "4.00 Office & research services",
+    "Supplemental \nStandards": "4.00 Office & research services",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "4.00 Office & research services"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Stormwater open space",
+  "permitted_use": "P",
+  "standards": {
+    "Use": "Stormwater open space",
+    "Residential": "P",
+    "Commercial": "P",
+    "Manufacturing": "P",
+    "Special Purpose": "P",
+    "Supplemental \nStandards": "20.02.1031",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

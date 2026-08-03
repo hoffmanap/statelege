@@ -1,0 +1,38 @@
+{
+  "bill_id": 1956183,
+  "bill_number": "HB2432",
+  "title": "Relating to ad valorem taxation.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2432/2025",
+  "progress": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Ways & Means",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Ways & Means",
+  "last_action_date": "2025-03-17",
+  "scoring_method": "rule_based_prescreen"
+}

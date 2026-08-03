@@ -1,0 +1,276 @@
+{
+  "bill_id": 1987066,
+  "bill_number": "SB1708",
+  "title": "Relating to exceptions to county platting requirements.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1708/2025",
+  "progress": [
+    {
+      "date": "2025-02-27",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Left pending in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Reported favorably as substituted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Recommended for local & uncontested calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Read 2nd time & passed to engrossment",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Vote recorded in Journal",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Three day rule suspended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Read 3rd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Passed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reported engrossed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Received from the Senate",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Considered in formal meeting",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-24",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-24",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Placed on General State Calendar",
+  "last_action_date": "2025-05-26",
+  "scoring_method": "rule_based_prescreen"
+}

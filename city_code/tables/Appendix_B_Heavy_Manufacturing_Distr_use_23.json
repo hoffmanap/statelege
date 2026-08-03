@@ -1,0 +1,10 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Heavy Manufacturing District",
+  "permitted_use": "",
+  "standards": {
+    "Light Industrial Districts": "Heavy Manufacturing District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

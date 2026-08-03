@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "I-MU",
+  "permitted_use": "Determined by master zoning plan",
+  "standards": {
+    "SUBPART A": "3 acres; except that City Council may approve a reduction in the minimum district area for a mixed-use development.",
+    "SUBPART B": "See Development Standards in Section 20.10.360 of this title",
+    "SUBPART C": "See Chapter 20.10",
+    "SUBPART D": "No maximum; determined by master zoning plan"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Mobile home park",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Mobile home park",
+    "Residential": "P",
+    "Commercial": "X",
+    "Manufacturing": "X",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.340",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "Management office, community building, recreational facilities, toilets, showers, laundry and vending machines."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

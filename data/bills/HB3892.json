@@ -1,0 +1,429 @@
+{
+  "bill_id": 1993456,
+  "bill_number": "HB3892",
+  "title": "Relating to county regulation related to infrastructure planning for subdivisions and county authority to regulate building and set-back lines.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3892/2025",
+  "progress": [
+    {
+      "date": "2025-03-06",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Reported favorably as substituted",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Read 2nd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Postponed 5/8/25 2:00 PM",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Laid out as postponed business",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Postponed 5/9/25 3:00 PM",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Laid out as postponed business",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Postponed 5/10/25 3:00 PM",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Laid out as postponed business",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Postponed 5/12/25 2:00 PM",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Laid out as postponed business",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Point of order withdrawn Rule 8, Section 1(a)(1); Article III, Section 30",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amended 1-Vasut, Harris Davila, Zwiener, Patterson, Luther, Troxclair, Noble, Gerdes, M. Gonz\u00e1lez, More",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2181",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Passed to engrossment as amended",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2182",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Read 3rd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Postponed 5/13/25 11:40 AM",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Laid out as postponed business",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Failed to pass",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Record vote RV#2327",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "1 hr. notice-for reconsideration",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Vote reconsidered",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Failed to pass",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Record vote RV#2361",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "20.02.544",
+      "code_text_excerpt": "Lot width, average\n20.02.544\u00a0Lot width, average.\n\"Average lot width\" means the lot area divided by the lot depth.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.149
+    },
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "20.02.1003",
+      "code_text_excerpt": "Small Lot\n20.02.1003\u00a0Small Lot.\n\"Small lot\" means a residential lot that is four thousand square feet or less and meets the criteria found in El Paso City Code section 20.10.625.\n(Ord. No. 019815, \u00a7 1, 11-18-2025)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.14
+    },
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "19.23.020",
+      "code_text_excerpt": "Lot area\n19.23.020\u00a0Lot area.\nEasements Included. Lot area shall be computed inclusive of all required public and utility easements. However, the area of required easements on a lot shall in no case exceed one-half of the lot size. If the property owner disputes the total easement area required for any lot, the owner shall submit a written computation of the percentage of the lot occupied by easeme",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.125
+    },
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 A-3/0 / Other permitted uses, except as otherwise specified in this title",
+      "code_text_excerpt": "A-3/0 Other permitted uses, except as otherwise specified in this title SUBPART A: No minimum SUBPART B: Minimum lot area of 750 sf per dwelling unit; unless 3 or more stories, then minimum lot area of 600 sf per dwelling unit; open space requirement of 40% of the lot area of an interior lot and 30% of a corner lot SUBPART C: See Chapter 20.10 SUBPART D: Max height equal to the distance between th",
+      "code_numbers_found": [
+        "40 %",
+        "30 %"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.121
+    },
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "20.12.020",
+      "code_text_excerpt": "Table of density and dimensional standards\n20.12.020\u00a0Table of density and dimensional standards.\nThe Table of Density and Dimensional Standards found in Appendix B, adopted in its entirety and incorporated herein by reference, sets forth the regulations for minimum zoning district areas, minimum lot sizes, densities and heights, required setbacks, and other general standards as applicable to speci",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.12
+    },
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    },
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.115
+    },
+    {
+      "bill_section": "Sec. 232.103. LOT FRONTAGES.",
+      "bill_text_excerpt": "Sec. 232.103. LOT FRONTAGES. (a) By an order adopted and entered in the minutes of the commissioners court and after a notice is published in a newspaper of general circulation in the county, the commissioners court may adopt reasonable standards for minimum lot frontages on existing county roads and establish reasonable standards for the lot frontages in relation to curves in the road. (b) Except",
+      "bill_numbers_found": [],
+      "code_section": "20.10.625",
+      "code_text_excerpt": "Small lot development\n20.10.625\u00a0Small lot development.\nA.\tThe standards in this section supersede the base zoning districts standards.\nB.\tTo meet the requirements of a small lot development, the parcel to be platted shall meet all the following requirements:\n1.\tShall be five acres or more:\n2.\tHave no previously recorded plat: and\n3.\tLots shall not exceed four thousand square feet.\nC.\tWhen all the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.114
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "last_action": "Statement(s) of vote recorded in Journal",
+  "last_action_date": "2025-05-13",
+  "scoring_method": "rule_based_prescreen"
+}

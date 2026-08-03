@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Planned Commercial District",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"P-C\"",
+    "Ranch and Farm District": "Planned Commercial District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

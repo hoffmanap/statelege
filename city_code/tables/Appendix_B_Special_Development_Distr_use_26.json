@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Special Development District",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"S-D\"",
+    "Ranch and Farm District": "Special Development District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

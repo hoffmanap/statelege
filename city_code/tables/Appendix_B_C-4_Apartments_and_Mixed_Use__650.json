@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "C-4",
+  "permitted_use": "Apartments and Mixed Use Residential development",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre",
+    "SUBPART C": "See Development Standards in Section 20.10.380 and 20.10.363 of this title",
+    "SUBPART D": "60; may exceed 60' when an additional setback of one foot is provided from all adjacent yardlines for each foot of height in excess of 60."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

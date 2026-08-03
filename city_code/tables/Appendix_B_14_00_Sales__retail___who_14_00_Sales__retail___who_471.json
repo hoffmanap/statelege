@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "14.00 Sales, retail & wholesale",
+  "permitted_use": "14.00 Sales, retail & wholesale",
+  "standards": {
+    "Use": "14.00 Sales, retail & wholesale",
+    "Residential": "14.00 Sales, retail & wholesale",
+    "Commercial": "14.00 Sales, retail & wholesale",
+    "Manufacturing": "14.00 Sales, retail & wholesale",
+    "Special Purpose": "14.00 Sales, retail & wholesale",
+    "Supplemental \nStandards": "14.00 Sales, retail & wholesale",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "14.00 Sales, retail & wholesale"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,169 @@
+{
+  "bill_id": 1973077,
+  "bill_number": "HB2943",
+  "title": "Relating to post-release housing for inmates released on parole or to mandatory supervision.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2943/2025",
+  "progress": [
+    {
+      "date": "2025-02-18",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Referred to Corrections",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.04.150",
+      "code_text_excerpt": "Procedure\n20.04.150\u00a0Procedure.\nA.\tAn application for detailed site development plan shall be prepared in accordance with the specifications outlined in Section 20.04.160, except where the development is for apartments, or mixed-use residential development that meet all minimum requirements set forth in Chapter 20.12 (Density and Dimensional Standards) and Section 20.10.363, a detailed site develop",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.091
+    },
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.085
+    },
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.680",
+      "code_text_excerpt": "Temporary uses\n20.10.680\u00a0Temporary uses.\nA.\tIntent and purpose. The intent of this section is to accommodate reasonable requests for interim or temporary uses when such activities are desirable for the community, or are temporarily required in the process of establishing a permitted use or constructing a public facility. Temporary uses allowed under this section shall be consistent with the health",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.077
+    },
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.075
+    },
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.140",
+      "code_text_excerpt": "Child care facilities\n20.10.140\u00a0Child care facilities.\nA.\tHome occupation - child care facilities shall comply with the following:\n1.\tA license shall be maintained at all times as required by law or ordinance;\n2.\tThe home child care facility shall be clearly incidental and secondary to the principal use of the property;\n3.\tA caregiver shall be required;\n4.\tThe front, side and side street yards sha",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.071
+    },
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.066
+    },
+    {
+      "bill_section": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT.",
+      "bill_text_excerpt": "Sec. 508.158. POST-RELEASE HOUSING PLANNING PROCEDURE AND REPORT. (a) In this section, \"residential correctional facility\" has the meaning assigned by Section 508.157. (b) The department shall implement a post-release housing planning procedure for releasees that includes the early identification and assessment of inmates who do not have an established plan for housing following release on parole ",
+      "bill_numbers_found": [],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.064
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to Corrections",
+  "last_action_date": "2025-03-19",
+  "scoring_method": "rule_based_prescreen"
+}

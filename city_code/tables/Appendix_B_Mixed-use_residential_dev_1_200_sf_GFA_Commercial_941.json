@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Mixed-use residential development",
+  "permitted_use": "1/200 sf GFA Commercial",
+  "standards": {
+    "13.00": "13.235",
+    "Residential": "Mixed-use residential development",
+    "Automobile & Light Truck": "1/200 sf GFA Commercial",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2I"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

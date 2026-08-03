@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Model dwelling",
+  "permitted_use": "2/unit",
+  "standards": {
+    "16.00": "16.10",
+    "Temporary Uses": "Model dwelling",
+    "Automobile & Light Truck": "2/unit",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

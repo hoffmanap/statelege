@@ -1,0 +1,465 @@
+{
+  "bill_id": 1978025,
+  "bill_number": "SB1509",
+  "title": "Relating to the authority of a municipality to regulate within its extraterritorial jurisdiction.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1509/2025",
+  "progress": [
+    {
+      "date": "2025-02-20",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "19.04.040",
+      "code_text_excerpt": "Criteria for approval\n19.04.040\u00a0Criteria for approval.\nThe following criteria shall be used to determine whether the application for a final plat shall be approved, approved with conditions or denied:\nA.\tThe final subdivision improvement plans have been submitted and reviewed by the city manager, or designee. The final plat approval shall note:\n1.\tSubdivision improvement plans are complete and app",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.132
+    },
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "20.18.050",
+      "code_text_excerpt": "Definitions\n20.18.050\u00a0Definitions.\nDefinitions. For purposes of this chapter, the following terms have these specially defined meanings. If a term is not defined hereunder, the definition contained in chapter 20.02 shall apply, provided, however, where there is conflict the definition contained in this chapter shall apply.\n\"Add-ons,\" in the context of billboards, means a design element that extend",
+      "code_numbers_found": [
+        "72 square feet"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.128
+    },
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "20.18.450",
+      "code_text_excerpt": "C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts\n20.18.450\u00a0C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts.\nA.\tMonument signs shall comply with the following requirements:\n1.\tLocation: No portion of the sign shall be closer than fifteen feet from the back of the curbline; if the property line is located more than fifteen feet from the curbline, signs shall be erected within the property line, and no port",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.102
+    },
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "19.03.040",
+      "code_text_excerpt": "Criteria for approval\n19.03.040\u00a0Criteria for approval.\nThe following criteria shall be used to determine whether the application for a preliminary plat shall be approved, approved with conditions or denied:\nA.\tThe preliminary plat is consistent with any zoning requirements for the property, and any approved development agreement, or is approved subject to any proposed zoning submitted concurrently",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.102
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.173
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.144
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "19.10.050",
+      "code_text_excerpt": "Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision\n19.10.050\u00a0Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision.\nA.\tImprovement of the proportional share of a substandard road within or abutting the subdivision. When an area within a proposed plat, whether residential or nonresidential, abut",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.115
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.114
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.098
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "19.02.010",
+      "code_text_excerpt": "Purpose, applicability and effect\n19.02.010\u00a0Purpose, applicability and effect.\nA.\tPurpose and Intent. The purpose of a land study shall be to delineate the sequence and timing of development within a proposed subdivision, where the tract to be developed is part of a larger parcel of land owned or controlled by the applicant, in order to determine compliance with the city's comprehensive plan and t",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.088
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "19.03.050",
+      "code_text_excerpt": "Effect of approval of a preliminary plat\n19.03.050\u00a0Effect of approval of a preliminary plat.\nA.\tRight to proceed. The approval of a preliminary plat application shall allow the applicant to proceed with the development and platting process by submitting subdivision improvement plans and a final plat. The city will not require non-engineering related significant changes in the final subdivision imp",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.077
+    },
+    {
+      "bill_section": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION.",
+      "bill_text_excerpt": "Sec. 51.004. AUTHORITY TO REGULATE IN EXTRATERRITORIAL JURISDICTION. (a) Notwithstanding any other law and except as provided by Subsection (b), a municipality may not adopt or enforce an ordinance, rule, or other measure that regulates the municipality's extraterritorial jurisdiction. (b) This section may not be construed to prohibit a municipality from providing municipal services to a resident ",
+      "bill_numbers_found": [
+        "200 feet"
+      ],
+      "code_section": "19.20.050",
+      "code_text_excerpt": "Standards for deeded parkland\n19.20.050\u00a0Standards for deeded parkland.\nA.\tGeneral Characteristics. Parkland deeded to the city as provided in this chapter shall meet the standards set forth below and in the SDM:\n1.\tThe parkland shall be placed in a location near the center of the subdivision or subdivisions that it serves, with the expressed goal that the park is no further than one-quarter mile m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.075
+    },
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.165
+    },
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    },
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "19.10.050",
+      "code_text_excerpt": "Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision\n19.10.050\u00a0Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision.\nA.\tImprovement of the proportional share of a substandard road within or abutting the subdivision. When an area within a proposed plat, whether residential or nonresidential, abut",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.109
+    },
+    {
+      "bill_section": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT.",
+      "bill_text_excerpt": "Sec. 212.047. APPROVAL OF DEVELOPMENT PLAT. The municipality shall endorse approval on a development plat filed with it if the plat conforms to: (1) the general plans, rules, and ordinances of the municipality concerning its current and future streets, sidewalks, alleys, parks, playgrounds, and public utility facilities; (2) the general plans, rules, and ordinances for the extension of the municip",
+      "bill_numbers_found": [
+        "1,500 feet"
+      ],
+      "code_section": "19.03.050",
+      "code_text_excerpt": "Effect of approval of a preliminary plat\n19.03.050\u00a0Effect of approval of a preliminary plat.\nA.\tRight to proceed. The approval of a preliminary plat application shall allow the applicant to proceed with the development and platting process by submitting subdivision improvement plans and a final plat. The city will not require non-engineering related significant changes in the final subdivision imp",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.105
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "20.06.075",
+      "code_text_excerpt": "Annexation procedures\n20.06.075\u00a0Annexation procedures.\nA.\tAnnexation of property shall follow the procedures stated in Chapter 43 of the Local Government Code.\n1.\tApplication. The owner(s) of a tract of land, or the owner's agent if authorized in writing, who desires that the tract be annexed into the corporate limits of the city, shall submit an annexation application, using the application form ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.218
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension",
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.168
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.142
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "19.10.050",
+      "code_text_excerpt": "Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision\n19.10.050\u00a0Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision.\nA.\tImprovement of the proportional share of a substandard road within or abutting the subdivision. When an area within a proposed plat, whether residential or nonresidential, abut",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.127
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.127
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "19.05.040",
+      "code_text_excerpt": "Criteria for approval\n19.05.040\u00a0Criteria for approval.\nA.\tThe following criteria shall be used to determine whether the application for a development plat shall be approved, approved with conditions, or denied:\n1.\tThe development plat is consistent with the city's comprehensive plan, any applicable zoning requirements for the property, and any approved development agreement;\n2.\tThe development pla",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.124
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "20.10.385",
+      "code_text_excerpt": "Natural open space\n20.10.385\u00a0Natural open space.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within the mountain, hillside, arroyo, bosque, and desert flatland areas, as well as other natural open space areas:\n1.\tTo protect and promote ecologically sensitive areas in conformance with the goals and policies of the city's comprehensive plan and open space",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.119
+    },
+    {
+      "bill_section": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY.",
+      "bill_text_excerpt": "Sec. 551.007. WATER CONSERVATION BY HOME-RULE MUNICIPALITY. A home-rule municipality may adopt and enforce ordinances requiring water conservation in the municipality [ and by customers of the municipality's municipally owned water and sewer utility in the extraterritorial jurisdiction of the municipality ]. SECTION 2.46. Section 552.044(8), Local Government Code, is amended to read as follows: (8",
+      "bill_numbers_found": [],
+      "code_section": "20.10.550",
+      "code_text_excerpt": "Restricted residential mixed-use development\n20.10.550\u00a0Restricted residential mixed-use development.\nA.\tPurpose. The purpose of a restricted residential mixed-use development is to create a unique environment for a hub of activity and a focal point for a given area, reflecting the identity of the area by providing a variety of land uses that coexist in a multi-use residential setting. The mix of l",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.115
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to Local Government",
+  "last_action_date": "2025-03-06",
+  "scoring_method": "rule_based_prescreen"
+}

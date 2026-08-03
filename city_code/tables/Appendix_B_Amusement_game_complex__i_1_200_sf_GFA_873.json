@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Amusement game complex (indoor)",
+  "permitted_use": "1/200 sf GFA",
+  "standards": {
+    "11.00": "11.02",
+    "Recreation Amusement & Entertainment": "Amusement game complex (indoor)",
+    "Automobile & Light Truck": "1/200 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/50,000 sf GFA of buildings",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

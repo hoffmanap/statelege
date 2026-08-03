@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Recreation Amusement & Entertainment",
+  "permitted_use": "Maximum",
+  "standards": {
+    "11.00": "11.00",
+    "Recreation Amusement & Entertainment": "Recreation Amusement & Entertainment",
+    "Automobile & Light Truck": "Maximum",
+    "Bicycle": "Bicycle",
+    "Heavy Truck Trailer": "Heavy Truck Trailer",
+    "Gravel Screen Parking": "Notes"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

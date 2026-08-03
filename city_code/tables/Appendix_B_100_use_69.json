@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "100",
+  "permitted_use": "",
+  "standards": {
+    "Use": "Passenger station",
+    "Setback (in feet)": "100"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

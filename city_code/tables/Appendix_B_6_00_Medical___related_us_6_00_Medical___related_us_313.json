@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "6.00 Medical & related uses",
+  "permitted_use": "6.00 Medical & related uses",
+  "standards": {
+    "Use": "6.00 Medical & related uses",
+    "Residential": "6.00 Medical & related uses",
+    "Commercial": "6.00 Medical & related uses",
+    "Manufacturing": "6.00 Medical & related uses",
+    "Special Purpose": "6.00 Medical & related uses",
+    "Supplemental \nStandards": "6.00 Medical & related uses",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "6.00 Medical & related uses"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

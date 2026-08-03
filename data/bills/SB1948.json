@@ -1,0 +1,360 @@
+{
+  "bill_id": 1992613,
+  "bill_number": "SB1948",
+  "title": "Relating to the regulation of fire prevention standards for certain agricultural facilities.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1948/2025",
+  "progress": [
+    {
+      "date": "2025-03-05",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Water, Agriculture, & Rural Affairs",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Reported favorably as substituted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Recommended for local & uncontested calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Read 2nd time & passed to engrossment",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Three day rule suspended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Read 3rd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Passed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Reported engrossed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Received from the Senate",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Read 2nd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Postponed 5/21/25 10:00 AM",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Laid out as postponed business",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Passed to 3rd reading",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Record vote RV#3159",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Read 3rd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Passed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Record vote RV#3197",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "House passage reported",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Reported enrolled",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Signed in the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Signed in the House",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Sent to the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Signed by the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 1
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Effective on 9/1/25",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Effective on 9/1/25",
+  "last_action_date": "2025-06-20",
+  "scoring_method": "rule_based_prescreen"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "M-1/ M-2/ M-3",
+  "permitted_use": "All uses, except as otherwise specified in this title",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Chapter 20.10",
+    "SUBPART C": "See Chapter 20.10; Floor area ratio of 1.0",
+    "SUBPART D": "60; may exceed 60' when an additional setback of one foot is provided"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

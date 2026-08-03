@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Convent",
+  "permitted_use": "0.5/resident/bedroom",
+  "standards": {
+    "3.00": "3.11",
+    "Educational, Institutional & Social": "Convent",
+    "Automobile & Light Truck": "0.5/resident/bedroom",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2A, B"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

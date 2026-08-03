@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "R-5",
+  "permitted_use": "Single-family dwelling",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "None",
+    "SUBPART C": "Accessory structures, see Section 20.10.030",
+    "SUBPART D": "35"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Ice cream parlor",
+  "permitted_use": "1/100 sf GFA",
+  "standards": {
+    "14.00": "14.20",
+    "Sales, Retail & Wholesale": "Ice cream parlor",
+    "Automobile & Light Truck": "1/100 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

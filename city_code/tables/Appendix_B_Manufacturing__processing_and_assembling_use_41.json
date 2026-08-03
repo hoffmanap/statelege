@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Manufacturing, processing and assembling",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "5.0",
+    "Agricultural and related operations": "Manufacturing, processing and assembling"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

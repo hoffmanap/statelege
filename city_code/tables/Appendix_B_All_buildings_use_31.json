@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "All buildings",
+  "permitted_use": "",
+  "standards": {
+    "Flow Rates \n(gallons per minute)": "500 to 999",
+    "Structures Sprinklered": "All buildings"
+  },
+  "source_doc": "Title_19___SUBDIVISION_AND_DEVELOPMENT_PLATS.docx"
+}

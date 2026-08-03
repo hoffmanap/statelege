@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Transportation related uses",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "18.0",
+    "Agricultural and related operations": "Transportation related uses"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

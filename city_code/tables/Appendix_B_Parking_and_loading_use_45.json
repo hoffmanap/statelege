@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Parking and loading",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "9.0",
+    "Agricultural and related operations": "Parking and loading"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

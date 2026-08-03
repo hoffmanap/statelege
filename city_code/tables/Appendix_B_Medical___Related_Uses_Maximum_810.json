@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Medical & Related Uses",
+  "permitted_use": "Maximum",
+  "standards": {
+    "6.00": "6.00",
+    "Medical & Related Uses": "Medical & Related Uses",
+    "Automobile & Light Truck": "Maximum",
+    "Bicycle": "Bicycle",
+    "Heavy Truck Trailer": "Heavy Truck Trailer",
+    "Gravel Screen Parking": "Notes"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

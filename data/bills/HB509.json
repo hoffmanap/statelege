@@ -1,0 +1,38 @@
+{
+  "bill_id": 1891745,
+  "bill_number": "HB509",
+  "title": "Relating to the authority of certain entities and individuals to prevent individuals from accessing private property for the purpose of registering voters or communicating political messages.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB509/2025",
+  "progress": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Referred to Elections",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Elections",
+  "last_action_date": "2025-03-03",
+  "scoring_method": "rule_based_prescreen"
+}

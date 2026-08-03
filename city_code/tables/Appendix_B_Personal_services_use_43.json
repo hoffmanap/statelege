@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Personal services",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "10.0",
+    "Agricultural and related operations": "Personal services"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

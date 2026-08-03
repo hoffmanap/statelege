@@ -1,0 +1,14 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Yes",
+  "permitted_use": "25 feet",
+  "standards": {
+    "Districts": "Detached buildings in shopping centers in C-2, C-3, C-4, M-1, M-2 and M-3",
+    "Permit \nRequired": "Yes",
+    "Maximum Number": "One per detached building",
+    "Maximum Height": "25 feet",
+    "Maximum Sign Area": "80 square feet"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

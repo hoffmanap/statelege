@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Homeless shelter",
+  "permitted_use": "NOTE 1",
+  "standards": {
+    "3.00": "3.1265",
+    "Educational, Institutional & Social": "Homeless shelter",
+    "Automobile & Light Truck": "NOTE 1",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2A,B"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

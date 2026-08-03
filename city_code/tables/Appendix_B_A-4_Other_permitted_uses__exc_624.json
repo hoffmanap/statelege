@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-4",
+  "permitted_use": "Other permitted uses, except as otherwise specified in this title",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Chapter 20.10; mixed-use development shall be designed in a manner that separates the residential and nonresidential uses",
+    "SUBPART C": "Perimeter designed to ensure compatibility with adjacent development thru the use of setbacks, screening walls or landscaping; minimum setback of 10 feet between any structure and adjoining ROW",
+    "SUBPART D": "Per approved site development plan"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "R-MU",
+  "permitted_use": "Apartments and Mixed Use Residential development",
+  "standards": {
+    "SUBPART A": "1 acre; except that City Council may approve a reduction in the minimum district area for a mixed-use development.",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre",
+    "SUBPART C": "See Development Standards in Section 20.10.360 and 20.10.363 of this title",
+    "SUBPART D": "No maximum"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

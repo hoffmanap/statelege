@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Mobile home (sales, display & repair)",
+  "permitted_use": "1/400 sf of GFA of buildings; plus merchandise parking areas",
+  "standards": {
+    "8.00": "8.19",
+    "Motor Vehicle Sale & Service": "Mobile home (sales, display & repair)",
+    "Automobile & Light Truck": "1/400 sf of GFA of buildings; plus merchandise parking areas",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

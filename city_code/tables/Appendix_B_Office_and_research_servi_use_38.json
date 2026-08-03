@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Office and research services",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "4.0",
+    "Agricultural and related operations": "Office and research services"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

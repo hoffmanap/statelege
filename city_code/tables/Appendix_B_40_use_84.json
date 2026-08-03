@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "40",
+  "permitted_use": "",
+  "standards": {
+    "Percent Average Slope": "20.1 to 25",
+    "Open Space Required/Percent of Total Gross Acreage to Remain Percent Average Slope Undisturbed": "40"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

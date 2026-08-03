@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "P-C",
+  "permitted_use": "Regional shopping center",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Development Standards in Section 20.10.360 of this title",
+    "SUBPART C": "Principal access shall be from collector or arterial streets. No access from a residential street.",
+    "SUBPART D": "100' or 8 stories, provided any building over 45' is located at least 300' from any residential or apartment district where the height limit is less than 100'"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

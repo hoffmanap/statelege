@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Bed and breakfast (residence)",
+  "permitted_use": "1/rented bedroom plus number required for operator's residence",
+  "standards": {
+    "13.00": "13.03",
+    "Residential": "Bed and breakfast (residence)",
+    "Automobile & Light Truck": "1/rented bedroom plus number required for operator's residence",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

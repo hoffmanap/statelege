@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-0",
+  "permitted_use": "Single-family attached dwellings (Atrium, Patio, and Townhomes)",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Minimum lot area of 750 sf per dwelling unit; lot coverage not to exceed 50%",
+    "SUBPART C": "N/A",
+    "SUBPART D": "45"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,14 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "180",
+  "permitted_use": "150",
+  "standards": {
+    "0\u201429.9%": "180",
+    "30\u201434.9%": "160",
+    "35\u201439.9%": "150",
+    "40\u201444.9%": "140",
+    "45\u201450%": "120"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

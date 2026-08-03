@@ -1,0 +1,350 @@
+{
+  "bill_id": 1989473,
+  "bill_number": "HB3578",
+  "title": "Relating to the authority of a county that borders the United Mexican States to regulate residential land use; creating a criminal offense.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3578/2025",
+  "progress": [
+    {
+      "date": "2025-03-03",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "20.04.280",
+      "code_text_excerpt": "Special permits for planned residential developments\u2014Maximum dwelling units\n20.04.280\u00a0Special permits for planned residential developments\u2014Maximum dwelling units.\nThe maximum number of dwelling units that may be permitted shall be obtained by dividing the site area by the minimum lot area required in the underlying district per dwelling unit. The minimum lot area is used only as a factor for calcu",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.211
+    },
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "20.02.290",
+      "code_text_excerpt": "Density\n20.02.290\u00a0Density.\n\"Density\" means the number of dwelling units that may be constructed per acre, calculated by dividing the site area by minimum required lot area in the underlying zoning district.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.195
+    },
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "20.12.050",
+      "code_text_excerpt": "Supplemental density regulations\n20.12.050\u00a0Supplemental density regulations.\nDensity regulations may be modified in the following instances:\nA.\tLot area per unit requirements shall not apply to dormitories, fraternities, sororities, nursing homes or other similar group quarters where no cooking facilities are provided in individual rooms or apartments;\nB.\tIn any special use permit for a planned re",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.137
+    },
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 R-MU / Apartments and Mixed Use Residential development",
+      "code_text_excerpt": "R-MU Apartments and Mixed Use Residential development SUBPART A: 1 acre; except that City Council may approve a reduction in the minimum district area for a mixed-use development. SUBPART B: Multi-family: maximum of 145 units per acre SUBPART C: See Development Standards in Section 20.10.360 and 20.10.363 of this title SUBPART D: No maximum",
+      "code_numbers_found": [
+        "1 acre",
+        "145 units per acre"
+      ],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.124
+    },
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 P-R I / Apartments and Mixed Use Residential development",
+      "code_text_excerpt": "P-R I Apartments and Mixed Use Residential development SUBPART A: 1 acre; extensions to the original district from a common boundary may be considered in increments of 1 acre or less. SUBPART B: Multi-family: maximum of 145 units per acre SUBPART C: See Section 20.10.360 and 20.10.363 SUBPART D: 45, except as approved by City Council",
+      "code_numbers_found": [
+        "1 acre",
+        "1 acre",
+        "145 units per acre"
+      ],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.122
+    },
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 P-R II / Apartments and Mixed Use Residential development",
+      "code_text_excerpt": "P-R II Apartments and Mixed Use Residential development SUBPART A: 1 acre; extensions to the original district from a common boundary may be considered in increments of 1 acre or less. SUBPART B: Multi-family: maximum of 145 units per acre SUBPART C: See Section 20.10.360 and 20.10.363 SUBPART D: 45, except as approved by City Council",
+      "code_numbers_found": [
+        "1 acre",
+        "1 acre",
+        "145 units per acre"
+      ],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.121
+    },
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 PMD / Apartments and Mixed Use Residential development",
+      "code_text_excerpt": "PMD Apartments and Mixed Use Residential development SUBPART A: 1 acre where common or public open space is dedicated; provided that extensions of 1 acre or less to an existing PMD from a common boundary may be considered SUBPART B: Multi-family: maximum of 145 units per acre SUBPART C: N/A SUBPART D: 45; measured from the lowest living area floor level & shall not exceed 45 from the highest eleva",
+      "code_numbers_found": [
+        "1 acre",
+        "1 acre",
+        "145 units per acre"
+      ],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.12
+    },
+    {
+      "bill_section": "Sec. 231.303. AREAS SUBJECT TO REGULATION.",
+      "bill_text_excerpt": "Sec. 231.303. AREAS SUBJECT TO REGULATION. An order adopted under this subchapter applies only to an area that: (1) is in the unincorporated area of a county; and (2) has more than two dwelling units per acre.",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 P-R I / Single-family detached",
+      "code_text_excerpt": "P-R I Single-family detached SUBPART A: 1 acre; extensions to the original district from a common boundary may be considered in increments of 1 acre or less. SUBPART B: Maximum of 7 units per acre; lot size may be reduced by site development plan. See Development Standards in Section 20.10.360 SUBPART C: See Section 20.10.360 of this title; setbacks may be reduced if approved on site development p",
+      "code_numbers_found": [
+        "1 acre",
+        "1 acre",
+        "7 units per acre"
+      ],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.102
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "20.12.010",
+      "code_text_excerpt": "Purpose\n20.12.010\u00a0Purpose.\nThis chapter is adopted to regulate and restrict the location, height, and size of buildings hereafter erected or structurally altered, the size of yards and open spaces, and the density of population.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.306
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "20.04.280",
+      "code_text_excerpt": "Special permits for planned residential developments\u2014Maximum dwelling units\n20.04.280\u00a0Special permits for planned residential developments\u2014Maximum dwelling units.\nThe maximum number of dwelling units that may be permitted shall be obtained by dividing the site area by the minimum lot area required in the underlying district per dwelling unit. The minimum lot area is used only as a factor for calcu",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.188
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "20.06.010",
+      "code_text_excerpt": "Districts established and enumerated\n20.06.010\u00a0Districts established and enumerated.\nIn order to classify, regulate and restrict the location of businesses, trades, industries, residences and other land uses in accordance with the objectives of \"The Plan for El Paso\"; to regulate and restrict the location of buildings erected, reconstructed, altered or enlarged for specified uses; to regulate and ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.163
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "setback",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.156
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "20.02.562",
+      "code_text_excerpt": "Master zoning plan\n20.02.562\u00a0Master zoning plan.\n\"Master zoning plan\" means the conceptual site plan and narrative proposal submitted with an application for a mixed-use zoning district (RMU, GMU or IMU), that, if approved by city council, sets out the zoning regulations for the mixed-use district. The master zoning plan must show the proposed uses, lot sizes, setbacks, height of buildings and des",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.147
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "20.02.290",
+      "code_text_excerpt": "Density\n20.02.290\u00a0Density.\n\"Density\" means the number of dwelling units that may be constructed per acre, calculated by dividing the site area by minimum required lot area in the underlying zoning district.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.137
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 A-3/0 / Other permitted uses, except as otherwise specified in this title",
+      "code_text_excerpt": "A-3/0 Other permitted uses, except as otherwise specified in this title SUBPART A: No minimum SUBPART B: Minimum lot area of 750 sf per dwelling unit; unless 3 or more stories, then minimum lot area of 600 sf per dwelling unit; open space requirement of 40% of the lot area of an interior lot and 30% of a corner lot SUBPART C: See Chapter 20.10 SUBPART D: Max height equal to the distance between th",
+      "code_numbers_found": [
+        "40 %",
+        "30 %"
+      ],
+      "shared_categories": [
+        "setback",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.136
+    },
+    {
+      "bill_section": "Sec. 231.304. ZONING REGULATIONS GENERALLY.",
+      "bill_text_excerpt": "Sec. 231.304. ZONING REGULATIONS GENERALLY. The commissioners court of a county by order may adopt zoning regulations that regulate: (1) the size or height of a building; (2) the percentage of a lot that may be occupied or developed; (3) the number of dwelling units per acre; (4) the size of a setback or open space; and (5) the location, design, construction, extension, size, and installation of u",
+      "bill_numbers_found": [],
+      "code_section": "20.02.278",
+      "code_text_excerpt": "Court\n20.02.278\u00a0Court.\n\"Court\" means an open space that may or may not have direct street access and around which is arranged a single building or a group of related buildings.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.188
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "last_action": "Left pending in committee",
+  "last_action_date": "2025-05-01",
+  "scoring_method": "rule_based_prescreen"
+}

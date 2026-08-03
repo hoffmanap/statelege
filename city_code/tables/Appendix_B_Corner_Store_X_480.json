@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Corner Store",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Corner Store",
+    "Residential": "X",
+    "Commercial": "P",
+    "Manufacturing": "X",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

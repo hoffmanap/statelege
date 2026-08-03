@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Household goods repair",
+  "permitted_use": "1/300 sf GFA",
+  "standards": {
+    "12.00": "12.03",
+    "Repair & Service": "Household goods repair",
+    "Automobile & Light Truck": "1/300 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/100,000 sf GFA",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,599 @@
+{
+  "bill_id": 1979524,
+  "bill_number": "HB3172",
+  "title": "Relating to municipal regulation of multifamily and mixed-use development on religious land.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3172/2025",
+  "progress": [
+    {
+      "date": "2025-02-21",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "20.04.200",
+      "code_text_excerpt": "Master zoning plan\n20.04.200\u00a0Master zoning plan.\nA.\tMaster Zoning Plan (MZP).\n1.\tAs part of any zoning application for a mixed use district, a master zoning plan shall be required and shall accompany the application. The MZP shall provide sufficient details necessary about the proposed land uses and proposed development so that the El Paso City Council may determine their compatibility within the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "height",
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.314
+    },
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.262
+    },
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.550",
+      "code_text_excerpt": "Restricted residential mixed-use development\n20.10.550\u00a0Restricted residential mixed-use development.\nA.\tPurpose. The purpose of a restricted residential mixed-use development is to create a unique environment for a hub of activity and a focal point for a given area, reflecting the identity of the area by providing a variety of land uses that coexist in a multi-use residential setting. The mix of l",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "height"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.25
+    },
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.680",
+      "code_text_excerpt": "Temporary uses\n20.10.680\u00a0Temporary uses.\nA.\tIntent and purpose. The intent of this section is to accommodate reasonable requests for interim or temporary uses when such activities are desirable for the community, or are temporarily required in the process of establishing a permitted use or constructing a public facility. Temporary uses allowed under this section shall be consistent with the health",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.197
+    },
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 2.3 / Allowable Increases in Maximum Height Permitted",
+      "code_text_excerpt": "2.3 Allowable Increases in Maximum Height Permitted 0.0:  Zoning Districts: Allowable Increases in Maximum Height Permitted A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD): N/A B. C-1, C-2, P-C and C-OP Commercial Districts, S-D Special Development, and Special Purpose Districts (excluding RF, SRR, PR-I, PR-II, PMD, and P-I): Up to 15' above the Maximum Height Permit",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "height"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.194
+    },
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 2.3 / Allowable Increases in Maximum Height Permitted",
+      "code_text_excerpt": "2.3 Allowable Increases in Maximum Height Permitted 0.0:  Zoning Districts: Allowable Increases in Maximum Height Permitted A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD): N/A B. C-1, C-2, P-C and C-OP Commercial Districts, S-D Special Development, and Special Purpose Districts (excluding RF, SRR, PR-I, PR-II, PMD, and P-I): Up to 15' above the Maximum Height Permit",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "height"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.194
+    },
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "20.02.562",
+      "code_text_excerpt": "Master zoning plan\n20.02.562\u00a0Master zoning plan.\n\"Master zoning plan\" means the conceptual site plan and narrative proposal submitted with an application for a mixed-use zoning district (RMU, GMU or IMU), that, if approved by city council, sets out the zoning regulations for the mixed-use district. The master zoning plan must show the proposed uses, lot sizes, setbacks, height of buildings and des",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.193
+    },
+    {
+      "bill_section": "Sec. 212.253. ALLOWABLE USES.",
+      "bill_text_excerpt": "Sec. 212.253. ALLOWABLE USES. (a) A municipality must permit multifamily and mixed-use as allowable uses on religious land. (b) Notwithstanding any other law, a municipality may not require a proposed multifamily or mixed-use development on religious land to obtain a zoning or land use change, special exception, variance, conditional use approval, special use permit, comprehensive plan amendment, ",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 SRR / Apartments and Mixed Use Residential development",
+      "code_text_excerpt": "SRR Apartments and Mixed Use Residential development SUBPART A: 3,000 SUBPART B: Multi-family: maximum of 145 units per acre SUBPART C: Reduction in side yard setbacks may be considered with site plan approval SUBPART D: 45 feet; additional height may be granted by special permit",
+      "code_numbers_found": [
+        "145 units per acre",
+        "45 feet"
+      ],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.187
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.286
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "20.10.625",
+      "code_text_excerpt": "Small lot development\n20.10.625\u00a0Small lot development.\nA.\tThe standards in this section supersede the base zoning districts standards.\nB.\tTo meet the requirements of a small lot development, the parcel to be platted shall meet all the following requirements:\n1.\tShall be five acres or more:\n2.\tHave no previously recorded plat: and\n3.\tLots shall not exceed four thousand square feet.\nC.\tWhen all the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.24
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "density",
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.235
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.229
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "20.04.200",
+      "code_text_excerpt": "Master zoning plan\n20.04.200\u00a0Master zoning plan.\nA.\tMaster Zoning Plan (MZP).\n1.\tAs part of any zoning application for a mixed use district, a master zoning plan shall be required and shall accompany the application. The MZP shall provide sufficient details necessary about the proposed land uses and proposed development so that the El Paso City Council may determine their compatibility within the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.221
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.217
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "Appendix B \u2014 5 feet minimum / ",
+      "code_text_excerpt": "5 feet minimum  Land area: Rear yard 4 acre minimum: 5 feet minimum",
+      "code_numbers_found": [
+        "5 feet",
+        "4 acre",
+        "5 feet"
+      ],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.209
+    },
+    {
+      "bill_section": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 212.254. PROHIBITED MUNICIPAL REQUIREMENTS. For a multifamily or mixed-use development on religious land, a municipality may not: (1) restrict the height of a proposed development to less than 40 feet and three full stories; (2) require front setbacks greater than 15 feet, rear setbacks greater than 10 feet, or side setbacks greater than 5 feet; (3) establish minimum parking requirements exce",
+      "bill_numbers_found": [
+        "40 feet",
+        "15 feet",
+        "10 feet",
+        "5 feet"
+      ],
+      "code_section": "Appendix B \u2014 5 feet minimum / ",
+      "code_text_excerpt": "5 feet minimum  Land area: Rear yard 4 acre minimum: 5 feet minimum",
+      "code_numbers_found": [
+        "5 feet",
+        "4 acre",
+        "5 feet"
+      ],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.209
+    },
+    {
+      "bill_section": "Sec. 212.256. DUTY TO APPROVE.",
+      "bill_text_excerpt": "Sec. 212.256. DUTY TO APPROVE. (a) A municipality shall approve an application for a multifamily or mixed-use development on religious land if the development satisfies the municipality's land development regulations for multifamily or mixed-use developments, as applicable, other than a regulation involving a matter described by Section 212.254. (b) The municipality's duty to approve a development",
+      "bill_numbers_found": [],
+      "code_section": "19.26.020",
+      "code_text_excerpt": "Infill development\n19.26.020\u00a0Infill development.\nA.\tIntent and Purpose. The following guidelines are designed to meet the intent and purpose of the infill sections, requirements and references in Title 20, the zoning ordinance to reinvigorate existing communities and neighborhoods and support new compact, single or mixed-use development. This chapter is intended to reduce barriers to infill develo",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.104
+    },
+    {
+      "bill_section": "Sec. 212.256. DUTY TO APPROVE.",
+      "bill_text_excerpt": "Sec. 212.256. DUTY TO APPROVE. (a) A municipality shall approve an application for a multifamily or mixed-use development on religious land if the development satisfies the municipality's land development regulations for multifamily or mixed-use developments, as applicable, other than a regulation involving a matter described by Section 212.254. (b) The municipality's duty to approve a development",
+      "bill_numbers_found": [],
+      "code_section": "20.12.050",
+      "code_text_excerpt": "Supplemental density regulations\n20.12.050\u00a0Supplemental density regulations.\nDensity regulations may be modified in the following instances:\nA.\tLot area per unit requirements shall not apply to dormitories, fraternities, sororities, nursing homes or other similar group quarters where no cooking facilities are provided in individual rooms or apartments;\nB.\tIn any special use permit for a planned re",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.069
+    },
+    {
+      "bill_section": "Sec. 212.256. DUTY TO APPROVE.",
+      "bill_text_excerpt": "Sec. 212.256. DUTY TO APPROVE. (a) A municipality shall approve an application for a multifamily or mixed-use development on religious land if the development satisfies the municipality's land development regulations for multifamily or mixed-use developments, as applicable, other than a regulation involving a matter described by Section 212.254. (b) The municipality's duty to approve a development",
+      "bill_numbers_found": [],
+      "code_section": "20.10.240",
+      "code_text_excerpt": "Freight and passenger terminals\n20.10.240\u00a0Freight and passenger terminals.\nThe following uses are considered freight and passenger terminals: transportation terminal type A, transportation terminal type B, passenger station, motor-carrier terminal, railyard, auxiliary rail facilities, airport, intermodal facility, heliport, airpad, helistop, interlocking tower, diesel maintenance facility, and rai",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.039
+    },
+    {
+      "bill_section": "Sec. 212.256. DUTY TO APPROVE.",
+      "bill_text_excerpt": "Sec. 212.256. DUTY TO APPROVE. (a) A municipality shall approve an application for a multifamily or mixed-use development on religious land if the development satisfies the municipality's land development regulations for multifamily or mixed-use developments, as applicable, other than a regulation involving a matter described by Section 212.254. (b) The municipality's duty to approve a development",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.022
+    },
+    {
+      "bill_section": "Sec. 212.256. DUTY TO APPROVE.",
+      "bill_text_excerpt": "Sec. 212.256. DUTY TO APPROVE. (a) A municipality shall approve an application for a multifamily or mixed-use development on religious land if the development satisfies the municipality's land development regulations for multifamily or mixed-use developments, as applicable, other than a regulation involving a matter described by Section 212.254. (b) The municipality's duty to approve a development",
+      "bill_numbers_found": [],
+      "code_section": "19.07.010",
+      "code_text_excerpt": "General requirements for plat revisions\n19.07.010\u00a0General requirements for plat revisions.\nA.\tApplicability and Terminology.\n1.\tThe procedures in this chapter shall apply only if a property owner seeks to change any portion of a plat that has been filed of record with the county including a note or restriction on the face of the plat. If a property owner files an amending plat or a minor plat to m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.017
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.109
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.072
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.07
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.069
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Water & wastewater utility facility. / P",
+      "code_text_excerpt": "Water & wastewater utility facility. P Use: Water & wastewater utility facility. Residential: P Commercial: P Manufacturing: P Special Purpose: X Supplemental \nStandards: \u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.730 Accessory \nUses \nPermitted to \nSpecific Use: ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.064
+    },
+    {
+      "bill_section": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION.",
+      "bill_text_excerpt": "Sec. 212.255. PERMITTED MUNICIPAL REGULATION. This subchapter does not affect a municipality's authority to apply the following that are generally applicable to other developments in the municipality: (1) sewer and water access requirements; (2) stormwater mitigation requirements; and (3) except as otherwise provided by this subchapter, building codes.",
+      "bill_numbers_found": [],
+      "code_section": "20.02.1150",
+      "code_text_excerpt": "Water and wastewater utility facility\n20.02.1150\u00a0Water and wastewater utility facility.\nSee \"Public utility facility.\"\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.058
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "last_action": "Left pending in committee",
+  "last_action_date": "2025-03-27",
+  "scoring_method": "rule_based_prescreen"
+}

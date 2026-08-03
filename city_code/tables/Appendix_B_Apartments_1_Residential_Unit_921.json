@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Apartments",
+  "permitted_use": "1/Residential Unit",
+  "standards": {
+    "13.00": "13.02",
+    "Residential": "Apartments",
+    "Automobile & Light Truck": "1/Residential Unit",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

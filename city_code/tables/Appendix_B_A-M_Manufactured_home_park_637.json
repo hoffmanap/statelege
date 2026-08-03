@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-M",
+  "permitted_use": "Manufactured home park",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Development Standards in Section 20.10.340 of this title",
+    "SUBPART C": "See Development Standards in Section 20.10.340 of this Title",
+    "SUBPART D": "Maximum height for manufactured home or other buildings: 35'"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

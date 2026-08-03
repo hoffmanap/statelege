@@ -1,0 +1,566 @@
+{
+  "bill_id": 1983729,
+  "bill_number": "HB3333",
+  "title": "Relating to a restriction on permits authorizing direct discharges of waste or pollutants into water in certain river segments and drainage areas.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3333/2025",
+  "progress": [
+    {
+      "date": "2025-02-25",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Referred to Environmental Regulation",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Reported favorably as substituted",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-11",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Read 2nd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Passed to engrossment",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Record vote RV#2585",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read 3rd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Passed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Record vote RV#2688",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Reported engrossed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Received from the House",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Referred to Water, Agriculture, & Rural Affairs",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Posting rule suspended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Reported favorably as substituted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Recommended for local & uncontested calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Placed on local & uncontested calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Laid before the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Read 2nd time & passed to 3rd reading",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Vote recorded in Journal",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Three day rule suspended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Read 3rd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Passed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Senate passage as amended reported",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Senate Amendments distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Senate Amendments Analysis distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "House concurs in Senate amendment(s)",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Record vote RV#4084",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Text of Senate Amendment(s)",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "House concurs in Senate amendment(s)-reported",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-31",
+      "action": "Reported enrolled",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-06-01",
+      "action": "Signed in the House",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-01",
+      "action": "Signed in the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Sent to the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Filed without the Governor's signature",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 1
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Effective on 9/1/25",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.167
+    },
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.159
+    },
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.13
+    },
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.118
+    },
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.105
+    },
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Water & wastewater utility facility. / P",
+      "code_text_excerpt": "Water & wastewater utility facility. P Use: Water & wastewater utility facility. Residential: P Commercial: P Manufacturing: P Special Purpose: X Supplemental \nStandards: \u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.730 Accessory \nUses \nPermitted to \nSpecific Use: ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "20.02.1150",
+      "code_text_excerpt": "Water and wastewater utility facility\n20.02.1150\u00a0Water and wastewater utility facility.\nSee \"Public utility facility.\"\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.095
+    },
+    {
+      "bill_section": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS.",
+      "bill_text_excerpt": "Sec. 26.0275. RESTRICTION ON PERMITS FOR DISCHARGES INTO CERTAIN SEGMENTS AND DRAINAGE AREAS. (a) In this section: (1) \"Classified segment\" means any portion of Devils River located in Val Verde County and identified in Appendices A and C of 30 T.A.C. Section 307.10 as it existed on September 1, 2025. (2) \"Unclassified water body\" means a water body other than a classified segment. (b) Except as p",
+      "bill_numbers_found": [],
+      "code_section": "19.02.020",
+      "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 2,
+  "scope": "needs_manual_review",
+  "last_action": "Effective on 9/1/25",
+  "last_action_date": "2025-06-20",
+  "scoring_method": "rule_based_prescreen"
+}

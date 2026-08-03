@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Community center",
+  "permitted_use": "1/300 sf GFA",
+  "standards": {
+    "3.00": "3.10",
+    "Educational, Institutional & Social": "Community center",
+    "Automobile & Light Truck": "1/300 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2A, B"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

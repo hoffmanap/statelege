@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Sales, retail and wholesale",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "14.0",
+    "Agricultural and related operations": "Sales, retail and wholesale"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

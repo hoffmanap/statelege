@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "1.15",
+  "permitted_use": "Existing non-conforming ground-mounted PWSF",
+  "standards": {
+    "0.0": "",
+    "Zoning Districts": "Existing non-conforming ground-mounted PWSF",
+    "A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD)": "An existing ground-mounted PWSF shall be allowed to be modified under the FCC provisions of Section 6409(a) and Section 332(c)(7). All non-conforming ground-mounted PWSFs may continue in existence as a nonconforming structure and are allowed to be modified or rebuilt on the same property as permitted in Section 20.22.100.",
+    "B. C-1, C-2, P-C and C-OP Commercial Districts, S-D Special Development, and Special Purpose Districts (excluding RF, SRR, PR-I, PR-II, PMD, and P-I)": "An existing ground-mounted PWSF shall be allowed to be modified under the FCC provisions of Section 6409(a) and Section 332(c)(7). All non-conforming ground-mounted PWSFs may continue in existence as a nonconforming structure and are allowed to be modified or rebuilt on the same property as permitted in Section 20.22.100.",
+    "C. C-3, C-4 and C-5 Commercial Districts": "An existing ground-mounted PWSF shall be allowed to be modified under the FCC provisions of Section 6409(a) and Section 332(c)(7). All non-conforming ground-mounted PWSFs may continue in existence as a nonconforming structure and are allowed to be modified or rebuilt on the same property as permitted in Section 20.22.100.",
+    "D. M-1, M-2, M-3, P-I, & Q (Manufacturing, Industrial and Quarry Districts)": "An existing ground-mounted PWSF shall be allowed to be modified under the FCC provisions of Section 6409(a) and Section 332(c)(7). All non-conforming ground-mounted PWSFs may continue in existence as a nonconforming structure and are allowed to be modified or rebuilt on the same property as permitted in Section 20.22.100."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

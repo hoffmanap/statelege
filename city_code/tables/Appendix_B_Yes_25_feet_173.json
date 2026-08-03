@@ -1,0 +1,14 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Yes",
+  "permitted_use": "25 feet",
+  "standards": {
+    "Districts": "Primary signs in C-2, C-3, C-4, Q, M-1, M-2 and M-3 with arterial frontage",
+    "Permit \nRequired": "Yes",
+    "Maximum Number": "Premises up to one acre, not more than one per premise; premises greater than one acre up to six acres, not more than one per street frontage not to exceed two per premise; premises greater than six acres, not more than two per street frontage not to exceed four per premise",
+    "Maximum Height": "25 feet",
+    "Maximum Sign Area": "150 square feet"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

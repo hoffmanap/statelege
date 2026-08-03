@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "12.00 Repair services",
+  "permitted_use": "12.00 Repair services",
+  "standards": {
+    "Use": "12.00 Repair services",
+    "Residential": "12.00 Repair services",
+    "Commercial": "12.00 Repair services",
+    "Manufacturing": "12.00 Repair services",
+    "Special Purpose": "12.00 Repair services",
+    "Supplemental \nStandards": "12.00 Repair services",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "12.00 Repair services"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

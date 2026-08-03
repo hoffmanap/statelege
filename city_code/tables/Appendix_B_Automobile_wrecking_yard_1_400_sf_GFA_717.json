@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Automobile wrecking yard",
+  "permitted_use": "1/400 sf GFA",
+  "standards": {
+    "2.00": "2.01",
+    "Commercial Storage & Processing": "Automobile wrecking yard",
+    "Automobile & Light Truck": "1/400 sf GFA",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "1/acre; max 10",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

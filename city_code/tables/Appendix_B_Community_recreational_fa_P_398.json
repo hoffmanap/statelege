@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Community recreational facility",
+  "permitted_use": "P",
+  "standards": {
+    "Use": "Community recreational facility",
+    "Residential": "P",
+    "Commercial": "X",
+    "Manufacturing": "X",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.060",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "Sale of alcoholic beverages within a publicly owned facility provided they are consumed on the premises."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

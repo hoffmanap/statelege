@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Halfway house",
+  "permitted_use": "NOTE 1",
+  "standards": {
+    "3.00": "3.125[1]",
+    "Educational, Institutional & Social": "Halfway house",
+    "Automobile & Light Truck": "NOTE 1",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2A, B"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,357 @@
+{
+  "bill_id": 1976927,
+  "bill_number": "HB3064",
+  "title": "Relating to the exemption of tangible personal property from ad valorem taxation; making conforming changes.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3064/2025",
+  "progress": [
+    {
+      "date": "2025-02-20",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Referred to Ways & Means",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.10.680",
+      "code_text_excerpt": "Temporary uses\n20.10.680\u00a0Temporary uses.\nA.\tIntent and purpose. The intent of this section is to accommodate reasonable requests for interim or temporary uses when such activities are desirable for the community, or are temporarily required in the process of establishing a permitted use or constructing a public facility. Temporary uses allowed under this section shall be consistent with the health",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.13
+    },
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.108
+    },
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.18.500",
+      "code_text_excerpt": "Temporary on-premises signs\n20.18.500\u00a0Temporary on-premises signs.\nA.\tTemporary real estate signs shall comply with the following requirements:\n1.\tPermit required: no;\n2.\tMaximum number: no maximum, a minimum of fifty feet is required between each sign;\n3.\tMaximum sign area: thirty-two square feet for C-1, C-2, C-3, C-4, C-5, Q, M-1, M-2 and M-3 districts; six square feet for all other districts, ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.103
+    },
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.102
+    },
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.087
+    },
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.085
+    },
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.081
+    },
+    {
+      "bill_section": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.015. TANGIBLE PERSONAL PROPERTY. (a) Tangible personal property is not taxable for a tax year that begins on or after January 1, 2026. (b) On and after January 1, 2026, a provision of this code or another law that would otherwise apply to the taxation of tangible personal property for a tax year that begins on or after that date has no effect for that tax year. SECTION 5. Section 11.18(a),",
+      "bill_numbers_found": [
+        "15 percent",
+        "15 percent",
+        "30 percent",
+        "30 percent",
+        "60 percent",
+        "60 percent"
+      ],
+      "code_section": "20.18.050",
+      "code_text_excerpt": "Definitions\n20.18.050\u00a0Definitions.\nDefinitions. For purposes of this chapter, the following terms have these specially defined meanings. If a term is not defined hereunder, the definition contained in chapter 20.02 shall apply, provided, however, where there is conflict the definition contained in this chapter shall apply.\n\"Add-ons,\" in the context of billboards, means a design element that extend",
+      "code_numbers_found": [
+        "72 square feet"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.134
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "20.10.680",
+      "code_text_excerpt": "Temporary uses\n20.10.680\u00a0Temporary uses.\nA.\tIntent and purpose. The intent of this section is to accommodate reasonable requests for interim or temporary uses when such activities are desirable for the community, or are temporarily required in the process of establishing a permitted use or constructing a public facility. Temporary uses allowed under this section shall be consistent with the health",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.123
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.117
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "20.18.500",
+      "code_text_excerpt": "Temporary on-premises signs\n20.18.500\u00a0Temporary on-premises signs.\nA.\tTemporary real estate signs shall comply with the following requirements:\n1.\tPermit required: no;\n2.\tMaximum number: no maximum, a minimum of fifty feet is required between each sign;\n3.\tMaximum sign area: thirty-two square feet for C-1, C-2, C-3, C-4, C-5, Q, M-1, M-2 and M-3 districts; six square feet for all other districts, ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.111
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.111
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.091
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.089
+    },
+    {
+      "bill_section": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 23.014. EXCLUSION OF PROPERTY AS REAL PROPERTY. In [ Except as provided by Section 23.24(b), in ] determining the market value of real property, the chief appraiser shall analyze the effect on that value of, and exclude from that value the value of, any: (1) tangible personal property, including trade fixtures; (2) intangible personal property; (3) chicken coops or rabbit pens used for the no",
+      "bill_numbers_found": [],
+      "code_section": "19.15.150",
+      "code_text_excerpt": "Private streets\n19.15.150\u00a0Private streets.\nA.\tPermitted Only as Local Street. Private streets shall require approval as an exception at the time of preliminary plat approval by the city plan commission in accordance with this title. No streets or thoroughfares shown on the adopted thoroughfare plan may be a nonpublic street. Construction and development of private streets shall meet the standards ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.087
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to Ways & Means",
+  "last_action_date": "2025-03-20",
+  "scoring_method": "rule_based_prescreen"
+}

@@ -1,0 +1,14 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "18\u2032 \u2014 0\u2033",
+  "permitted_use": "0\u2032 - 0\u2033",
+  "standards": {
+    "Angle": "90 degrees",
+    "Stall \nDepth": "18\u2032 \u2014 0\u2033",
+    "Aisle \nWidth": "24\u2032 \u2014 0\u2033",
+    "Interlock \nReduction": "0\u2032 - 0\u2033",
+    "Overhang": "3\u2032 \u2014 0\u2033"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

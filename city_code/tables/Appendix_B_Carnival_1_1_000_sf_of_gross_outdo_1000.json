@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Carnival",
+  "permitted_use": "1/1,000 sf of gross outdoor & indoor rec. areas",
+  "standards": {
+    "16.00": "16.11",
+    "Temporary Uses": "Carnival",
+    "Automobile & Light Truck": "1/1,000 sf of gross outdoor & indoor rec. areas",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "1/100,000 sf of gross outdoor & indoor rec. areas",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

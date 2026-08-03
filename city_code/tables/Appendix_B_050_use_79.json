@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "050",
+  "permitted_use": "",
+  "standards": {
+    "Use": "Motor-carrier terminal",
+    "Setback (in feet)": "050"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

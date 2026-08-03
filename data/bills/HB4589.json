@@ -1,0 +1,171 @@
+{
+  "bill_id": 2005040,
+  "bill_number": "HB4589",
+  "title": "Relating to the operation and functions of the Texas Department of Housing and Community Affairs.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4589/2025",
+  "progress": [
+    {
+      "date": "2025-03-12",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to Intergovernmental Affairs",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review",
+        "density"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.173
+    },
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review",
+        "density"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.163
+    },
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.158
+    },
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "19.02.070",
+      "code_text_excerpt": "Revisions following approval of a land study\n19.02.070\u00a0Revisions following approval of a land study.\nA.\tMinor changes. The city manager or designee may deem a revision to be minor and may authorize the amendment administratively. An amendment shall be considered minor if the city manager or designee determines that it does not alter any of the following by more than ten percent: the arrangement of",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.243
+    },
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "20.04.170",
+      "code_text_excerpt": "Modification of detailed site development plan\n20.04.170\u00a0Modification of detailed site development plan.\nWhere the development is for apartments or mixed-use residential development that meet all minimum requirements set forth in Chapter 20.12 (Density and Dimensional Standards) and Section 20.10.363, approval of minor modifications shall not be required.\n(Ord. 16653 \u00a7 2 (part), 2007)\n(Ord. No. 01",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.241
+    },
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "20.04.200",
+      "code_text_excerpt": "Master zoning plan\n20.04.200\u00a0Master zoning plan.\nA.\tMaster Zoning Plan (MZP).\n1.\tAs part of any zoning application for a mixed use district, a master zoning plan shall be required and shall accompany the application. The MZP shall provide sufficient details necessary about the proposed land uses and proposed development so that the El Paso City Council may determine their compatibility within the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.226
+    },
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "19.02.020",
+      "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.163
+    },
+    {
+      "bill_section": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD.",
+      "bill_text_excerpt": "Sec. 2306.6712. AMENDMENT OF APPLICATION SUBSEQUENT TO ALLOCATION BY BOARD. (a) If a proposed modification would materially alter a development approved for an allocation of a housing tax credit or other multifamily funding , the department shall require the applicant to file a formal, written amendment to the application on a form prescribed by the department. (b) The director shall require the d",
+      "bill_numbers_found": [],
+      "code_section": "20.06.075",
+      "code_text_excerpt": "Annexation procedures\n20.06.075\u00a0Annexation procedures.\nA.\tAnnexation of property shall follow the procedures stated in Chapter 43 of the Local Government Code.\n1.\tApplication. The owner(s) of a tract of land, or the owner's agent if authorized in writing, who desires that the tract be annexed into the corporate limits of the city, shall submit an annexation application, using the application form ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.151
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to Intergovernmental Affairs",
+  "last_action_date": "2025-04-03",
+  "scoring_method": "rule_based_prescreen"
+}

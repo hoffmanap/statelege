@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Rummage sale",
+  "permitted_use": "A",
+  "standards": {
+    "Use": "Rummage sale",
+    "Residential": "A",
+    "Commercial": "X",
+    "Manufacturing": "X",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.680",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

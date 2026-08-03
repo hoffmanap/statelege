@@ -1,0 +1,38 @@
+{
+  "bill_id": 1898269,
+  "bill_number": "HB1688",
+  "title": "Relating to a local option exemption from ad valorem taxation of all or part of the appraised value of the residence homesteads of certain peace officers.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1688/2025",
+  "progress": [
+    {
+      "date": "2024-12-20",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Referred to Ways & Means",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Ways & Means",
+  "last_action_date": "2025-03-12",
+  "scoring_method": "rule_based_prescreen"
+}

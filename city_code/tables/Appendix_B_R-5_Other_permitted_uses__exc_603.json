@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "R-5",
+  "permitted_use": "Other permitted uses, except as otherwise specified in this title",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Chapter 20.10",
+    "SUBPART C": "See Chapter 20.10",
+    "SUBPART D": "35; except that buildings may increase the height about thirty-five (35) feet if an additional setback of two (2) feet for each one (1) foot of height in excess of thirty-five (35) feet is provided"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

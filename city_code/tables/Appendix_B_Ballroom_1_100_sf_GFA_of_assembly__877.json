@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Ballroom",
+  "permitted_use": "1/100 sf GFA of assembly area; plus 1/200 sf GFA of other areas",
+  "standards": {
+    "11.00": "11.06",
+    "Recreation Amusement & Entertainment": "Ballroom",
+    "Automobile & Light Truck": "1/100 sf GFA of assembly area; plus 1/200 sf GFA of other areas",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "One",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

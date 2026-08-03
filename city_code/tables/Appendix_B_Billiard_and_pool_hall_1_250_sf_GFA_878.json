@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Billiard and pool hall",
+  "permitted_use": "1/250 sf GFA",
+  "standards": {
+    "11.00": "11.07",
+    "Recreation Amusement & Entertainment": "Billiard and pool hall",
+    "Automobile & Light Truck": "1/250 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

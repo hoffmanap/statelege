@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "150",
+  "permitted_use": "",
+  "standards": {
+    "Use": "Helistop",
+    "Setback (in feet)": "150"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

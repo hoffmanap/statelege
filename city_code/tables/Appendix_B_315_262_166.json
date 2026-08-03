@@ -1,0 +1,14 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "315",
+  "permitted_use": "262",
+  "standards": {
+    "0\u201429.9%": "315",
+    "30\u201434.9%": "280",
+    "35\u201439.9%": "262",
+    "40\u201444.9%": "245",
+    "45\u201450%": "210"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

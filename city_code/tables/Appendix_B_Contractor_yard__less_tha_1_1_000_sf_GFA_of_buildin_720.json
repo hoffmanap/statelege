@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Contractor yard (less than one acre)",
+  "permitted_use": "1/1,000 sf GFA of buildings",
+  "standards": {
+    "2.00": "2.05",
+    "Commercial Storage & Processing": "Contractor yard (less than one acre)",
+    "Automobile & Light Truck": "1/1,000 sf GFA of buildings",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "One",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

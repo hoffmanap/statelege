@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "SRR",
+  "permitted_use": "Apartments and Mixed Use Residential development",
+  "standards": {
+    "SUBPART A": "3,000",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre",
+    "SUBPART C": "Reduction in side yard setbacks may be considered with site plan approval",
+    "SUBPART D": "45 feet; additional height may be granted by special permit"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Reserved.",
+  "permitted_use": "Reserved.",
+  "standards": {
+    "3.00": "3.175",
+    "Educational, Institutional & Social": "Reserved.",
+    "Automobile & Light Truck": "Reserved.",
+    "Bicycle": "Reserved.",
+    "Heavy Truck Trailer": "Reserved.",
+    "Gravel Screen Parking": "Reserved."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,38 @@
+{
+  "bill_id": 1994069,
+  "bill_number": "HB3999",
+  "title": "Relating to the transfer and statutory novation of insurance policies from a transferring insurer to an assuming insurer through an insurance business transfer plan; authorizing fees.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3999/2025",
+  "progress": [
+    {
+      "date": "2025-03-06",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Referred to Insurance",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Insurance",
+  "last_action_date": "2025-03-27",
+  "scoring_method": "rule_based_prescreen"
+}

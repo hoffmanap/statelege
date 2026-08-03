@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Outdoor Sporting Events",
+  "permitted_use": "None",
+  "standards": {
+    "16.00": "16.115",
+    "Temporary Uses": "Outdoor Sporting Events",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

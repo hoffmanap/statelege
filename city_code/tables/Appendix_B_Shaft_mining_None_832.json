@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Shaft mining",
+  "permitted_use": "None",
+  "standards": {
+    "7.00": "7.08",
+    "Mining & Quarrying Operations": "Shaft mining",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2F"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

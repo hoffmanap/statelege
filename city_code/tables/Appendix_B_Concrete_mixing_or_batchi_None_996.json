@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Concrete mixing or batching plant",
+  "permitted_use": "None",
+  "standards": {
+    "16.00": "16.05",
+    "Temporary Uses": "Concrete mixing or batching plant",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Motor vehicle storage yard",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Motor vehicle storage yard",
+    "Residential": "X",
+    "Commercial": "X",
+    "Manufacturing": "P",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \n\u00a7 20.10.020\n\u00a7 20.10.090",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

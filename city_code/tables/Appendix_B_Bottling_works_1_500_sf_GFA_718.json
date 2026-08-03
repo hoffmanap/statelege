@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Bottling works",
+  "permitted_use": "1/500 sf GFA",
+  "standards": {
+    "2.00": "2.02",
+    "Commercial Storage & Processing": "Bottling works",
+    "Automobile & Light Truck": "1/500 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/100,000 sf; min 1",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

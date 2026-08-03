@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Satellite receiving dish, antenna",
+  "permitted_use": "None",
+  "standards": {
+    "17.00": "17.07",
+    "Towers & Related Structures": "Satellite receiving dish, antenna",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "N/A"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

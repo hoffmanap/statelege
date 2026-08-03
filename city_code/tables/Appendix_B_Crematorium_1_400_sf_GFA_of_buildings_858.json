@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Crematorium",
+  "permitted_use": "1/400 sf GFA of buildings",
+  "standards": {
+    "10.00": "10.04",
+    "Personal Services": "Crematorium",
+    "Automobile & Light Truck": "1/400 sf GFA of buildings",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "One",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

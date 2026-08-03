@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Firewood sales",
+  "permitted_use": "1/1,000 sf of gross storage and sales areas",
+  "standards": {
+    "16.00": "16.06",
+    "Temporary Uses": "Firewood sales",
+    "Automobile & Light Truck": "1/1,000 sf of gross storage and sales areas",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

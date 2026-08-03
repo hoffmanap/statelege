@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Skateboarding facility (outdoor)",
+  "permitted_use": "1/1,000 sf outdoor rec. area",
+  "standards": {
+    "11.00": "11.42",
+    "Recreation Amusement & Entertainment": "Skateboarding facility (outdoor)",
+    "Automobile & Light Truck": "1/1,000 sf outdoor rec. area",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "15.00 Signs",
+  "permitted_use": "15.00 Signs",
+  "standards": {
+    "Use": "15.00 Signs",
+    "Residential": "15.00 Signs",
+    "Commercial": "15.00 Signs",
+    "Manufacturing": "15.00 Signs",
+    "Special Purpose": "15.00 Signs",
+    "Supplemental \nStandards": "15.00 Signs",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "15.00 Signs"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

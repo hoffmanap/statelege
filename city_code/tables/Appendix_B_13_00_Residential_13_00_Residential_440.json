@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "13.00 Residential",
+  "permitted_use": "13.00 Residential",
+  "standards": {
+    "Use": "13.00 Residential",
+    "Residential": "13.00 Residential",
+    "Commercial": "13.00 Residential",
+    "Manufacturing": "13.00 Residential",
+    "Special Purpose": "13.00 Residential",
+    "Supplemental \nStandards": "13.00 Residential",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "13.00 Residential"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Adult motion picture theatre",
+  "permitted_use": "1/100 sf GFA",
+  "standards": {
+    "11.00": "11.01",
+    "Recreation Amusement & Entertainment": "Adult motion picture theatre",
+    "Automobile & Light Truck": "1/100 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

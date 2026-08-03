@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Nursery (industrial-scale)",
+  "permitted_use": "1/1,000 sf GFA of buildings",
+  "standards": {
+    "1.00": "1.16",
+    "Agricultural & Related Operations": "Nursery (industrial-scale)",
+    "Automobile & Light Truck": "1/1,000 sf GFA of buildings",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

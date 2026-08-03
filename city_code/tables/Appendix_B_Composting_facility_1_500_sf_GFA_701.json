@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Composting facility",
+  "permitted_use": "1/500 sf GFA",
+  "standards": {
+    "1.00": "1.07",
+    "Agricultural & Related Operations": "Composting facility",
+    "Automobile & Light Truck": "1/500 sf GFA",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

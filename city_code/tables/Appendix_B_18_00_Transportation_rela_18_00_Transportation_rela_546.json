@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "18.00 Transportation related uses",
+  "permitted_use": "18.00 Transportation related uses",
+  "standards": {
+    "Use": "18.00 Transportation related uses",
+    "Residential": "18.00 Transportation related uses",
+    "Commercial": "18.00 Transportation related uses",
+    "Manufacturing": "18.00 Transportation related uses",
+    "Special Purpose": "18.00 Transportation related uses",
+    "Supplemental \nStandards": "18.00 Transportation related uses",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "18.00 Transportation related uses"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

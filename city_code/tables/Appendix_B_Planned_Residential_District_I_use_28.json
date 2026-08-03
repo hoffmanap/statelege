@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Planned Residential District I",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"P-R I\"",
+    "Ranch and Farm District": "Planned Residential District I"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

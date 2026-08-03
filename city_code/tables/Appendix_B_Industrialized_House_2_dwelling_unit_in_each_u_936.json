@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Industrialized House",
+  "permitted_use": "2/dwelling unit in each unit",
+  "standards": {
+    "13.00": "13.18",
+    "Residential": "Industrialized House",
+    "Automobile & Light Truck": "2/dwelling unit in each unit",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2H"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

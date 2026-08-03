@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "HUD-Code Manufactured Home Park",
+  "permitted_use": "2 for office and laundry building; plus number required for each unit",
+  "standards": {
+    "13.00": "13.17",
+    "Residential": "HUD-Code Manufactured Home Park",
+    "Automobile & Light Truck": "2 for office and laundry building; plus number required for each unit",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2H"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

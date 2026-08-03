@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "17.00 Towers & related structures",
+  "permitted_use": "17.00 Towers & related structures",
+  "standards": {
+    "Use": "17.00 Towers & related structures",
+    "Residential": "17.00 Towers & related structures",
+    "Commercial": "17.00 Towers & related structures",
+    "Manufacturing": "17.00 Towers & related structures",
+    "Special Purpose": "17.00 Towers & related structures",
+    "Supplemental \nStandards": "17.00 Towers & related structures",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "17.00 Towers & related structures"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

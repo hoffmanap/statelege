@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Barn",
+  "permitted_use": "None",
+  "standards": {
+    "1.00": "1.06",
+    "Agricultural & Related Operations": "Barn",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

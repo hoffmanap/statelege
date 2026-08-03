@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Residential Mixed Use District",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"R-MU\"",
+    "Ranch and Farm District": "Residential Mixed Use District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

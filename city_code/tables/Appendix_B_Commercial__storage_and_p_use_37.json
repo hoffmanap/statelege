@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Commercial, storage and processing",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "2.0",
+    "Agricultural and related operations": "Commercial, storage and processing"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

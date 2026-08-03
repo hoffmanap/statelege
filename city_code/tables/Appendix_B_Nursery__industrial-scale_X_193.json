@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Nursery (industrial-scale)",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Nursery (industrial-scale)",
+    "Residential": "X",
+    "Commercial": "X",
+    "Manufacturing": "X",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010\n\u00a7 20.10.020",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

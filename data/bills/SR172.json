@@ -1,0 +1,38 @@
+{
+  "bill_id": 1982706,
+  "bill_number": "SR172",
+  "title": "Recognizing March 5, 2025, as Wichita Falls Day.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/SR172/2025",
+  "progress": [
+    {
+      "date": "2025-02-25",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Read & adopted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Reported enrolled",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Reported enrolled",
+  "last_action_date": "2025-03-05",
+  "scoring_method": "rule_based_prescreen"
+}

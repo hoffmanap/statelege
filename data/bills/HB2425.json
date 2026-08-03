@@ -1,0 +1,38 @@
+{
+  "bill_id": 1955485,
+  "bill_number": "HB2425",
+  "title": "Relating to the purpose of and programs administered by the Texas State Affordable Housing Corporation.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2425/2025",
+  "progress": [
+    {
+      "date": "2025-02-04",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Intergovernmental Affairs",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Intergovernmental Affairs",
+  "last_action_date": "2025-03-17",
+  "scoring_method": "rule_based_prescreen"
+}

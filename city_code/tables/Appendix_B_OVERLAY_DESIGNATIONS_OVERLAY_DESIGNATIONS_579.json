@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "OVERLAY DESIGNATIONS",
+  "permitted_use": "OVERLAY DESIGNATIONS",
+  "standards": {
+    "Use": "OVERLAY DESIGNATIONS",
+    "Residential": "OVERLAY DESIGNATIONS",
+    "Commercial": "OVERLAY DESIGNATIONS",
+    "Manufacturing": "OVERLAY DESIGNATIONS",
+    "Special Purpose": "OVERLAY DESIGNATIONS",
+    "Supplemental \nStandards": "OVERLAY DESIGNATIONS",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "OVERLAY DESIGNATIONS"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

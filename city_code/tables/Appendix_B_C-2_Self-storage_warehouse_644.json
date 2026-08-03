@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "C-2",
+  "permitted_use": "Self-storage warehouse",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Development Standards in Section 20.10.610 of this title",
+    "SUBPART C": "See Development Standards in Section 20.10.610 of this Title",
+    "SUBPART D": "See Development Standards in Section 20.10.610 of this Title"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

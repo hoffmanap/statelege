@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Hotel",
+  "permitted_use": "0.9/rental room; plus 1/960 sf of public meeting and restaurant space",
+  "standards": {
+    "13.00": "13.15",
+    "Residential": "Hotel",
+    "Automobile & Light Truck": "0.9/rental room; plus 1/960 sf of public meeting and restaurant space",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "1/100,00 sf GFA",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

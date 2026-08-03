@@ -1,0 +1,164 @@
+{
+  "bill_id": 2007635,
+  "bill_number": "SB2911",
+  "title": "Relating to the creation of the Northeast Houston Redevelopment District; providing authority to issue bonds; providing authority to impose assessments or fees.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2911/2025",
+  "progress": [
+    {
+      "date": "2025-03-14",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "20.06.020",
+      "code_text_excerpt": "Purpose of districts\n20.06.020\u00a0Purpose of districts.\nA.\tResidential Districts.\n1.\tLight Residential Districts. The purpose of these districts is to promote and preserve residential development within the city to create basic neighborhood units. It is intended that the district regulations maintain a low density of dwelling units supporting a suburban-urban interface that permits developments utili",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.205
+    },
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.173
+    },
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.166
+    },
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.163
+    },
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.133
+    },
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "19.23.040",
+      "code_text_excerpt": "Lots\u2014Determination and regulation of size\n19.23.040\u00a0Lots\u2014Determination and regulation of size.\nA.\tZoning Lot District Requirements, if Applicable. Lots shall conform to the minimum requirements of the established zoning district in which they are located, if located within the city's corporate limits. For small lot development as defined in El Paso City Code Title 20, the development shall meet th",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.127
+    },
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "20.18.470",
+      "code_text_excerpt": "U-P district\n20.18.470\u00a0U-P district.\nA.\tMonument signs shall comply with the following requirements:\n1.\tPermit required: yes;\n2.\tMaximum number: one monument sign per street frontage, not to exceed two signs per premise;\n3.\tMaximum sign area: eighty square feet;\n4.\tMaximum sign height: ten feet;\n5.\tLocation: no portion of the sign shall be closer than fifteen feet from the back of the curbline; if",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.118
+    },
+    {
+      "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
+      "bill_text_excerpt": "Sec. 3961.0109. CONFIRMATION ELECTION. (a) Before issuing any bonds or other obligations, imposing any assessments, or recommending persons for appointment as succeeding directors, the initial directors shall hold an election in the boundaries of the district on a uniform election date provided by Section 41.001, Election Code, to determine if the district shall be created. (b) Notice of a confirm",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.115
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Filed",
+  "last_action_date": "2025-03-14",
+  "scoring_method": "rule_based_prescreen"
+}

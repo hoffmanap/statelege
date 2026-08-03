@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "7.00 Mining & quarrying operations",
+  "permitted_use": "7.00 Mining & quarrying operations",
+  "standards": {
+    "Use": "7.00 Mining & quarrying operations",
+    "Residential": "7.00 Mining & quarrying operations",
+    "Commercial": "7.00 Mining & quarrying operations",
+    "Manufacturing": "7.00 Mining & quarrying operations",
+    "Special Purpose": "7.00 Mining & quarrying operations",
+    "Supplemental \nStandards": "7.00 Mining & quarrying operations",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "7.00 Mining & quarrying operations"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

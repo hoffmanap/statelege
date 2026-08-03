@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Ground Mounted PWSF",
+  "permitted_use": "Ground Mounted PWSF",
+  "standards": {
+    "0.0": "1.0",
+    "Zoning Districts": "Ground Mounted PWSF",
+    "A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD)": "Ground Mounted PWSF",
+    "B. C-1, C-2, P-C and C-OP Commercial Districts, S-D Special Development, and Special Purpose Districts (excluding RF, SRR, PR-I, PR-II, PMD, and P-I)": "Ground Mounted PWSF",
+    "C. C-3, C-4 and C-5 Commercial Districts": "Ground Mounted PWSF",
+    "D. M-1, M-2, M-3, P-I, & Q (Manufacturing, Industrial and Quarry Districts)": "Ground Mounted PWSF"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

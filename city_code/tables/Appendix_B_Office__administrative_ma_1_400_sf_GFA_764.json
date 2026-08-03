@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Office, administrative/manager's",
+  "permitted_use": "1/400 sf GFA",
+  "standards": {
+    "4.00": "4.08",
+    "Office & Research Services": "Office, administrative/manager's",
+    "Automobile & Light Truck": "1/400 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/200,000 sf GFA",
+    "Gravel Screen Parking": "2A, B"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

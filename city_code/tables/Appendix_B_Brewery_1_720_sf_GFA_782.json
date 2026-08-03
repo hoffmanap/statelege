@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Brewery",
+  "permitted_use": "1/720 sf GFA",
+  "standards": {
+    "5.00": "5.06",
+    "Manufacturing, Processing & Assembling": "Brewery",
+    "Automobile & Light Truck": "1/720 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/50,000 sf GFA",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

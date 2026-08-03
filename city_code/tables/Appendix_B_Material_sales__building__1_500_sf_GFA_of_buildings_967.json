@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Material sales (building & construction)",
+  "permitted_use": "1/500 sf GFA of buildings and roofed structures",
+  "standards": {
+    "14.00": "14.21",
+    "Sales, Retail & Wholesale": "Material sales (building & construction)",
+    "Automobile & Light Truck": "1/500 sf GFA of buildings and roofed structures",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/50,000 sf GFA of buildings and roofed structures",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

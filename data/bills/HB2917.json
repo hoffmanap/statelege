@@ -1,0 +1,38 @@
+{
+  "bill_id": 1973104,
+  "bill_number": "HB2917",
+  "title": "Relating to the establishment of the Building Better Futures Program to support educational and occupational skills training opportunities and support services for students with intellectual and developmental disabilities at public and private institutions of higher education.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2917/2025",
+  "progress": [
+    {
+      "date": "2025-02-18",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Referred to Higher Education",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Higher Education",
+  "last_action_date": "2025-03-19",
+  "scoring_method": "rule_based_prescreen"
+}

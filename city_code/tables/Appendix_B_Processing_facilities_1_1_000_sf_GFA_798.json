@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Processing facilities",
+  "permitted_use": "1/1,000 sf GFA",
+  "standards": {
+    "5.00": "5.25.5",
+    "Manufacturing, Processing & Assembling": "Processing facilities",
+    "Automobile & Light Truck": "1/1,000 sf GFA",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "1/50,000 sf GFA",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

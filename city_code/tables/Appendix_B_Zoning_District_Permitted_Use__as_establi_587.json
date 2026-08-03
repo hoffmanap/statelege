@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Zoning District",
+  "permitted_use": "Permitted Use (as established in Chapter 20.08)",
+  "standards": {
+    "SUBPART A": "Minimum District Area",
+    "SUBPART B": "Other Standards",
+    "SUBPART C": "Other Standards",
+    "SUBPART D": "Maximum Height Limitation (in feet)"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "P-R II",
+  "permitted_use": "Apartments and Mixed Use Residential development",
+  "standards": {
+    "SUBPART A": "1 acre; extensions to the original district from a common boundary may be considered in increments of 1 acre or less.",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre",
+    "SUBPART C": "See Section 20.10.360 and 20.10.363",
+    "SUBPART D": "45, except as approved by City Council"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

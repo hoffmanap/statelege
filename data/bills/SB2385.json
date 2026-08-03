@@ -1,0 +1,45 @@
+{
+  "bill_id": 2004709,
+  "bill_number": "SB2385",
+  "title": "Relating to the overnight parking of a commercial motor vehicle in or near certain residential subdivisions.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2385/2025",
+  "progress": [
+    {
+      "date": "2025-03-12",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred to Transportation",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Transportation",
+  "last_action_date": "2025-03-25",
+  "scoring_method": "rule_based_prescreen"
+}

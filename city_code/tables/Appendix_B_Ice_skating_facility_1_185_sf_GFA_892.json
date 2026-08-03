@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Ice skating facility",
+  "permitted_use": "1/185 sf GFA",
+  "standards": {
+    "11.00": "11.23",
+    "Recreation Amusement & Entertainment": "Ice skating facility",
+    "Automobile & Light Truck": "1/185 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

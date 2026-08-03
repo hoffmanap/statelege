@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "SRR",
+  "permitted_use": "Single-family attached & detached",
+  "standards": {
+    "SUBPART A": "1,000 sf",
+    "SUBPART B": "See Development Standards in Section 20.10.360 of this title",
+    "SUBPART C": "Reduction in side yard setbacks may be considered with site plan approval",
+    "SUBPART D": "35 feet; additional height may be granted by special permit"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

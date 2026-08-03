@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Signs",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "15.0",
+    "Agricultural and related operations": "Signs"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

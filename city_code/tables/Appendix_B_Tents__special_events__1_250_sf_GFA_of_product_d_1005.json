@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Tents (special events)",
+  "permitted_use": "1/250 sf GFA of product display/storage",
+  "standards": {
+    "16.00": "16.17",
+    "Temporary Uses": "Tents (special events)",
+    "Automobile & Light Truck": "1/250 sf GFA of product display/storage",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

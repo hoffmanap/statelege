@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Agricultural & Related Operations",
+  "permitted_use": "Maximum",
+  "standards": {
+    "1.00": "1.00",
+    "Agricultural & Related Operations": "Agricultural & Related Operations",
+    "Automobile & Light Truck": "Maximum",
+    "Bicycle": "Bicycle",
+    "Heavy Truck Trailer": "Heavy Truck Trailer",
+    "Gravel Screen Parking": "Notes"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

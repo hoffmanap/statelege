@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "9.00 Parking & Loading",
+  "permitted_use": "9.00 Parking & Loading",
+  "standards": {
+    "Use": "9.00 Parking & Loading",
+    "Residential": "9.00 Parking & Loading",
+    "Commercial": "9.00 Parking & Loading",
+    "Manufacturing": "9.00 Parking & Loading",
+    "Special Purpose": "9.00 Parking & Loading",
+    "Supplemental \nStandards": "9.00 Parking & Loading",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "9.00 Parking & Loading"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

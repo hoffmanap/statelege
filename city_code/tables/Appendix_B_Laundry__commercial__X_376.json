@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Laundry (commercial)",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Laundry (commercial)",
+    "Residential": "X",
+    "Commercial": "X",
+    "Manufacturing": "P",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.300",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

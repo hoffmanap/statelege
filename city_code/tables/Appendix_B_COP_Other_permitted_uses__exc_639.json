@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "COP",
+  "permitted_use": "Other permitted uses, except as otherwise specified in this title",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Each site shall have a minimum frontage of at least 150 feet along a street with adequate capacity to serve the proposed project, except that a cul-de-sac or turning heel shall have a minimum average lot width of 150 feet",
+    "SUBPART C": "Required front yards shall be landscaped, except for necessary walks and drives; this area may be included in meeting landscaping requirements of Title 18",
+    "SUBPART D": "35; may exceed 35 feet when an additional setback of one foot is provided from all adjacent yardlines for each foot of height in excess of 35."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

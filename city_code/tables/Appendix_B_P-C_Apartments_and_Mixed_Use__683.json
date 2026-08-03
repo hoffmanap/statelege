@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "P-C",
+  "permitted_use": "Apartments and Mixed Use Residential development",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre",
+    "SUBPART C": "See Development Standards in Section 20.10.360 and 20.10.363 of this title",
+    "SUBPART D": "45; except as approved by City Council"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

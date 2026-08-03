@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Medical and related uses",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "6.0",
+    "Agricultural and related operations": "Medical and related uses"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

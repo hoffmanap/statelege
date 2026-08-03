@@ -1,0 +1,14 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Yes",
+  "permitted_use": "25 feet",
+  "standards": {
+    "Districts": "Manufacturer identification signs in C-3 and C-4, where business inventory consists of motorized vehicles for sale, some in an outdoor location that is accessible to customers.",
+    "Permit \nRequired": "Yes",
+    "Maximum Number": "One per licensed manufacturer",
+    "Maximum Height": "25 feet",
+    "Maximum Sign Area": "Combined square footage of all manufacturer signs shall not exceed 300 square feet"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

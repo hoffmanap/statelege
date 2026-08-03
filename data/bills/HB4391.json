@@ -1,0 +1,38 @@
+{
+  "bill_id": 1999757,
+  "bill_number": "HB4391",
+  "title": "Relating to studies on the allocation and use of buildings and facilities owned, leased, or otherwise occupied by this state.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4391/2025",
+  "progress": [
+    {
+      "date": "2025-03-11",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Delivery of Government Efficiency",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Delivery of Government Efficiency",
+  "last_action_date": "2025-04-01",
+  "scoring_method": "rule_based_prescreen"
+}

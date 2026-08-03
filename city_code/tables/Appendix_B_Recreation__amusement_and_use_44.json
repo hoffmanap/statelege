@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Recreation, amusement and entertainment",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "11.0",
+    "Agricultural and related operations": "Recreation, amusement and entertainment"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

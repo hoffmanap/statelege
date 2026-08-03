@@ -1,0 +1,452 @@
+{
+  "bill_id": 1907268,
+  "bill_number": "HB1779",
+  "title": "Relating to regulation of accessory dwelling units by political subdivisions.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1779/2025",
+  "progress": [
+    {
+      "date": "2025-01-08",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy",
+        "setback",
+        "lot_size",
+        "open_space"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.302
+    },
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 4,000 square feet minimum per unit / ",
+      "code_text_excerpt": "4,000 square feet minimum per unit  Land area: Lot area 4 acre minimum: 4,000 square feet minimum per unit",
+      "code_numbers_found": [
+        "4,000 square feet",
+        "4 acre",
+        "4,000 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.356
+    },
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 4,000 square feet minimum per unit / ",
+      "code_text_excerpt": "4,000 square feet minimum per unit  Land area: Lot area 4 acre minimum: 4,000 square feet minimum per unit",
+      "code_numbers_found": [
+        "4,000 square feet",
+        "4 acre",
+        "4,000 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.356
+    },
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "20.04.280",
+      "code_text_excerpt": "Special permits for planned residential developments\u2014Maximum dwelling units\n20.04.280\u00a0Special permits for planned residential developments\u2014Maximum dwelling units.\nThe maximum number of dwelling units that may be permitted shall be obtained by dividing the site area by the minimum lot area required in the underlying district per dwelling unit. The minimum lot area is used only as a factor for calcu",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.328
+    },
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 A-3/0 / Other permitted uses, except as otherwise specified in this title",
+      "code_text_excerpt": "A-3/0 Other permitted uses, except as otherwise specified in this title SUBPART A: No minimum SUBPART B: Minimum lot area of 750 sf per dwelling unit; unless 3 or more stories, then minimum lot area of 600 sf per dwelling unit; open space requirement of 40% of the lot area of an interior lot and 30% of a corner lot SUBPART C: See Chapter 20.10 SUBPART D: Max height equal to the distance between th",
+      "code_numbers_found": [
+        "40 %",
+        "30 %"
+      ],
+      "shared_categories": [
+        "setback",
+        "lot_size",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.282
+    },
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "20.10.320",
+      "code_text_excerpt": "Live-work flex units\n20.10.320\u00a0Live-work flex units.\nWhere permitted in a zoning district, live-work flex units encourage design solutions for compatible mixed uses and are subject to the following restrictions and provisions. Where the live-work development meets the criteria of El Paso City Code Section 20.10.363, the standards found in that section shall supersede.\nA.\tRestricted Category.\n1.\tA ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.219
+    },
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "Appendix B \u2014 A-0 / Single-family attached dwellings (Atrium, Patio, and Townhomes)",
+      "code_text_excerpt": "A-0 Single-family attached dwellings (Atrium, Patio, and Townhomes) SUBPART A: No minimum SUBPART B: Minimum lot area of 750 sf per dwelling unit; lot coverage not to exceed 50% SUBPART C: N/A SUBPART D: 45",
+      "code_numbers_found": [
+        "50 %"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.216
+    },
+    {
+      "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED. (a) A political subdivision may not adopt or enforce an order, ordinance, or other measure that: (1) prohibits an owner of a lot described by Section 249.001(1) from building an accessory dwelling unit before, after, or concurrently with the building of the primary dwelling unit on the lot; (2) subject to Section 249.003(e), prohibits the owner from se",
+      "bill_numbers_found": [
+        "50 percent",
+        "800 square feet",
+        "14 feet",
+        "800 square feet",
+        "10,000 square feet"
+      ],
+      "code_section": "20.10.030",
+      "code_text_excerpt": "Accessory buildings and structures\n20.10.030\u00a0Accessory buildings and structures.\nA.\tResidential.\n1.\tResidential accessory buildings shall not exceed one story or fifteen feet in height and must be located in a rear yard, or in a side yard if minimum required side setbacks are maintained, except as permitted in Section 20.10.035 (Accessory Dwelling Units). Condensing units for central air condition",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback",
+        "lot_size",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.184
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.199
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 A-3/0 / Other permitted uses, except as otherwise specified in this title",
+      "code_text_excerpt": "A-3/0 Other permitted uses, except as otherwise specified in this title SUBPART A: No minimum SUBPART B: Minimum lot area of 750 sf per dwelling unit; unless 3 or more stories, then minimum lot area of 600 sf per dwelling unit; open space requirement of 40% of the lot area of an interior lot and 30% of a corner lot SUBPART C: See Chapter 20.10 SUBPART D: Max height equal to the distance between th",
+      "code_numbers_found": [
+        "40 %",
+        "30 %"
+      ],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.198
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.183
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.165
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "19.23.040",
+      "code_text_excerpt": "Lots\u2014Determination and regulation of size\n19.23.040\u00a0Lots\u2014Determination and regulation of size.\nA.\tZoning Lot District Requirements, if Applicable. Lots shall conform to the minimum requirements of the established zoning district in which they are located, if located within the city's corporate limits. For small lot development as defined in El Paso City Code Title 20, the development shall meet th",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.139
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "19.01.030",
+      "code_text_excerpt": "Exemptions\n19.01.030\u00a0Exemptions.\nExemptions. The following land divisions are exempt from the requirements of this article that apply to plats, provided that the applicant has an approved exemption determination application in accordance with Section 19.37.100:\n1.\tThe combining of two or more legally recorded lots into one parcel will not be required to be replatted into one lot provided all lots ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.13
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "20.10.030",
+      "code_text_excerpt": "Accessory buildings and structures\n20.10.030\u00a0Accessory buildings and structures.\nA.\tResidential.\n1.\tResidential accessory buildings shall not exceed one story or fifteen feet in height and must be located in a rear yard, or in a side yard if minimum required side setbacks are maintained, except as permitted in Section 20.10.035 (Accessory Dwelling Units). Condensing units for central air condition",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.128
+    },
+    {
+      "bill_section": "Sec. 249.003. AUTHORIZED REGULATION.",
+      "bill_text_excerpt": "Sec. 249.003. AUTHORIZED REGULATION. (a) Except as provided by this chapter, a political subdivision's height limitations, front setback limitations, site plan review, and other zoning requirements that are generally applicable to residential construction for the area in which an accessory dwelling unit is built apply to the accessory dwelling unit. (b) A political subdivision may publish accessor",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 A-3 / Single-family attached dwellings (Atrium, Patio, and Townhomes)",
+      "code_text_excerpt": "A-3 Single-family attached dwellings (Atrium, Patio, and Townhomes) SUBPART A: No minimum SUBPART B: Minimum lot area of 750 sf per unit; except for buildings of two stories or more in height, minimum lot area of 500 sf per unit is required; minimum open space of 30% of interior lots and 30% of corner lots SUBPART C: N/A SUBPART D: 35; buildings may exceed thirty-five (35) feet if an additional se",
+      "code_numbers_found": [
+        "30 %",
+        "30 %"
+      ],
+      "shared_categories": [
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.118
+    },
+    {
+      "bill_section": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS. (a) A political subdivision that requires a permit to construct an accessory dwelling unit shall: (1) process the application for the permit ministerially without discretionary review or a hearing; (2) consider only whether the application satisfies the applicable building codes, design standards, and fire codes; and (3) approve or deny the application n",
+      "bill_numbers_found": [],
+      "code_section": "19.26.020",
+      "code_text_excerpt": "Infill development\n19.26.020\u00a0Infill development.\nA.\tIntent and Purpose. The following guidelines are designed to meet the intent and purpose of the infill sections, requirements and references in Title 20, the zoning ordinance to reinvigorate existing communities and neighborhoods and support new compact, single or mixed-use development. This chapter is intended to reduce barriers to infill develo",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.108
+    },
+    {
+      "bill_section": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS. (a) A political subdivision that requires a permit to construct an accessory dwelling unit shall: (1) process the application for the permit ministerially without discretionary review or a hearing; (2) consider only whether the application satisfies the applicable building codes, design standards, and fire codes; and (3) approve or deny the application n",
+      "bill_numbers_found": [],
+      "code_section": "19.07.010",
+      "code_text_excerpt": "General requirements for plat revisions\n19.07.010\u00a0General requirements for plat revisions.\nA.\tApplicability and Terminology.\n1.\tThe procedures in this chapter shall apply only if a property owner seeks to change any portion of a plat that has been filed of record with the county including a note or restriction on the face of the plat. If a property owner files an amending plat or a minor plat to m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.091
+    },
+    {
+      "bill_section": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS. (a) A political subdivision that requires a permit to construct an accessory dwelling unit shall: (1) process the application for the permit ministerially without discretionary review or a hearing; (2) consider only whether the application satisfies the applicable building codes, design standards, and fire codes; and (3) approve or deny the application n",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.082
+    },
+    {
+      "bill_section": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS. (a) A political subdivision that requires a permit to construct an accessory dwelling unit shall: (1) process the application for the permit ministerially without discretionary review or a hearing; (2) consider only whether the application satisfies the applicable building codes, design standards, and fire codes; and (3) approve or deny the application n",
+      "bill_numbers_found": [],
+      "code_section": "20.10.240",
+      "code_text_excerpt": "Freight and passenger terminals\n20.10.240\u00a0Freight and passenger terminals.\nThe following uses are considered freight and passenger terminals: transportation terminal type A, transportation terminal type B, passenger station, motor-carrier terminal, railyard, auxiliary rail facilities, airport, intermodal facility, heliport, airpad, helistop, interlocking tower, diesel maintenance facility, and rai",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.059
+    },
+    {
+      "bill_section": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS.",
+      "bill_text_excerpt": "Sec. 249.004. PERMIT APPROVAL REQUIREMENTS. (a) A political subdivision that requires a permit to construct an accessory dwelling unit shall: (1) process the application for the permit ministerially without discretionary review or a hearing; (2) consider only whether the application satisfies the applicable building codes, design standards, and fire codes; and (3) approve or deny the application n",
+      "bill_numbers_found": [],
+      "code_section": "20.12.050",
+      "code_text_excerpt": "Supplemental density regulations\n20.12.050\u00a0Supplemental density regulations.\nDensity regulations may be modified in the following instances:\nA.\tLot area per unit requirements shall not apply to dormitories, fraternities, sororities, nursing homes or other similar group quarters where no cooking facilities are provided in individual rooms or apartments;\nB.\tIn any special use permit for a planned re",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.058
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to Land & Resource Management",
+  "last_action_date": "2025-03-14",
+  "scoring_method": "rule_based_prescreen"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Family home",
+  "permitted_use": "1/3.6 resident bedrooms plus number required for operator's residence",
+  "standards": {
+    "13.00": "13.11",
+    "Residential": "Family home",
+    "Automobile & Light Truck": "1/3.6 resident bedrooms plus number required for operator's residence",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2H"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-3/0",
+  "permitted_use": "Other permitted uses, except as otherwise specified in this title",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Minimum lot area of 750 sf per dwelling unit; unless 3 or more stories, then minimum lot area of 600 sf per dwelling unit; open space requirement of 40% of the lot area of an interior lot and 30% of a corner lot",
+    "SUBPART C": "See Chapter 20.10",
+    "SUBPART D": "Max height equal to the distance between the centerline of abutting street and face of the building abutting that street; above 60' in height an additional setback of l' is required from all yard lines for 2' of height above 60'."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

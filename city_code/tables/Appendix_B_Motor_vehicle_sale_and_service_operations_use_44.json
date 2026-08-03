@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Motor vehicle sale and service operations",
+  "permitted_use": "",
+  "standards": {
+    "1.0": "8.0",
+    "Agricultural and related operations": "Motor vehicle sale and service operations"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

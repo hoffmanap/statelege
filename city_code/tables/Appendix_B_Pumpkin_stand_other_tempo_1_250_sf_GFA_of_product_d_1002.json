@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Pumpkin stand/other temporary sales",
+  "permitted_use": "1/250 sf GFA of product display/storage",
+  "standards": {
+    "16.00": "16.12",
+    "Temporary Uses": "Pumpkin stand/other temporary sales",
+    "Automobile & Light Truck": "1/250 sf GFA of product display/storage",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

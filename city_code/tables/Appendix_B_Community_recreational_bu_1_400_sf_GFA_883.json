@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Community recreational building",
+  "permitted_use": "1/400 sf GFA",
+  "standards": {
+    "11.00": "11.12",
+    "Recreation Amusement & Entertainment": "Community recreational building",
+    "Automobile & Light Truck": "1/400 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

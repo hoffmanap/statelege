@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Governmental use, building",
+  "permitted_use": "Number required for specific use(s) in this Chart",
+  "standards": {
+    "19.00": "19.03",
+    "Utility & Miscellaneous Governmental Facilities": "Governmental use, building",
+    "Automobile & Light Truck": "Number required for specific use(s) in this Chart",
+    "Bicycle": "Number required for specific use(s) in this Chart",
+    "Heavy Truck Trailer": "Number required for specific use(s) in this Chart",
+    "Gravel Screen Parking": "2F"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

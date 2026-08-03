@@ -1,0 +1,210 @@
+{
+  "bill_id": 2007250,
+  "bill_number": "HB5166",
+  "title": "Relating to housing; providing property tax exemptions and relief relating to housing; providing a civil penalty; authorizing a fee.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB5166/2025",
+  "progress": [
+    {
+      "date": "2025-03-14",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Referred to State Affairs",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 5.251. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 5.251. DEFINITIONS. In this section: (1) \"Corporate owner\" means a corporation, limited or general partnership, limited liability company, business trust, investment asset manager, real estate investment trust, joint venture, joint stock company, or bank that holds an interest in multiple single-family homes in this state that are offered or used as a rental property to produce income directl",
+      "bill_numbers_found": [],
+      "code_section": "20.02.126",
+      "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    },
+    {
+      "bill_section": "Sec. 5.251. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 5.251. DEFINITIONS. In this section: (1) \"Corporate owner\" means a corporation, limited or general partnership, limited liability company, business trust, investment asset manager, real estate investment trust, joint venture, joint stock company, or bank that holds an interest in multiple single-family homes in this state that are offered or used as a rental property to produce income directl",
+      "bill_numbers_found": [],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.075
+    },
+    {
+      "bill_section": "Sec. 5.251. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 5.251. DEFINITIONS. In this section: (1) \"Corporate owner\" means a corporation, limited or general partnership, limited liability company, business trust, investment asset manager, real estate investment trust, joint venture, joint stock company, or bank that holds an interest in multiple single-family homes in this state that are offered or used as a rental property to produce income directl",
+      "bill_numbers_found": [],
+      "code_section": "20.02.124",
+      "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.038
+    },
+    {
+      "bill_section": "Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS.",
+      "bill_text_excerpt": "Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS. (a) In this section: (1) \"Fund\" means the property tax relief to rental households fund established under Section 30, Article VIII, Texas Constitution. (2) \"Rental household\" means a household that rents the household's primary residence. (b) The comptroller by rule shall establish a program to provide annual payments to eligible rental househol",
+      "bill_numbers_found": [
+        "10 percent",
+        "50 percent",
+        "50 percent"
+      ],
+      "code_section": "20.02.126",
+      "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.061
+    },
+    {
+      "bill_section": "Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS.",
+      "bill_text_excerpt": "Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS. (a) In this section: (1) \"Fund\" means the property tax relief to rental households fund established under Section 30, Article VIII, Texas Constitution. (2) \"Rental household\" means a household that rents the household's primary residence. (b) The comptroller by rule shall establish a program to provide annual payments to eligible rental househol",
+      "bill_numbers_found": [
+        "10 percent",
+        "50 percent",
+        "50 percent"
+      ],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.034
+    },
+    {
+      "bill_section": "Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS.",
+      "bill_text_excerpt": "Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS. (a) In this section: (1) \"Fund\" means the property tax relief to rental households fund established under Section 30, Article VIII, Texas Constitution. (2) \"Rental household\" means a household that rents the household's primary residence. (b) The comptroller by rule shall establish a program to provide annual payments to eligible rental househol",
+      "bill_numbers_found": [
+        "10 percent",
+        "50 percent",
+        "50 percent"
+      ],
+      "code_section": "20.02.124",
+      "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.002
+    },
+    {
+      "bill_section": "Sec. 11.136. LEASED RESIDENTIAL REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.136. LEASED RESIDENTIAL REAL PROPERTY. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Qualified residential real property\" means real property that: (A) is a multifamily residential property that is at least 15 years old and consists of or includes residential units leased by the owner to lessees and used by those lessees as a primar",
+      "bill_numbers_found": [
+        "50 percent",
+        "20 percent",
+        "30 percent",
+        "60 percent"
+      ],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.074
+    },
+    {
+      "bill_section": "Sec. 11.136. LEASED RESIDENTIAL REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.136. LEASED RESIDENTIAL REAL PROPERTY. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Qualified residential real property\" means real property that: (A) is a multifamily residential property that is at least 15 years old and consists of or includes residential units leased by the owner to lessees and used by those lessees as a primar",
+      "bill_numbers_found": [
+        "50 percent",
+        "20 percent",
+        "30 percent",
+        "60 percent"
+      ],
+      "code_section": "20.02.126",
+      "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.038
+    },
+    {
+      "bill_section": "Sec. 11.136. LEASED RESIDENTIAL REAL PROPERTY.",
+      "bill_text_excerpt": "Sec. 11.136. LEASED RESIDENTIAL REAL PROPERTY. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Qualified residential real property\" means real property that: (A) is a multifamily residential property that is at least 15 years old and consists of or includes residential units leased by the owner to lessees and used by those lessees as a primar",
+      "bill_numbers_found": [
+        "50 percent",
+        "20 percent",
+        "30 percent",
+        "60 percent"
+      ],
+      "code_section": "20.02.124",
+      "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.028
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to State Affairs",
+  "last_action_date": "2025-04-07",
+  "scoring_method": "rule_based_prescreen"
+}

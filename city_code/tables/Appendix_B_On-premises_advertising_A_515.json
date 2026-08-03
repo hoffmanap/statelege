@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "On-premises advertising",
+  "permitted_use": "A",
+  "standards": {
+    "Use": "On-premises advertising",
+    "Residential": "A",
+    "Commercial": "A",
+    "Manufacturing": "A",
+    "Special Purpose": "",
+    "Supplemental \nStandards": "Chapter 20.18",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "10.00 Personal services",
+  "permitted_use": "10.00 Personal services",
+  "standards": {
+    "Use": "10.00 Personal services",
+    "Residential": "10.00 Personal services",
+    "Commercial": "10.00 Personal services",
+    "Manufacturing": "10.00 Personal services",
+    "Special Purpose": "10.00 Personal services",
+    "Supplemental \nStandards": "10.00 Personal services",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "10.00 Personal services"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

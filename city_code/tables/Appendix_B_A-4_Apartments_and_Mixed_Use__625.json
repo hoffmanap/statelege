@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-4",
+  "permitted_use": "Apartments and Mixed Use Residential Development",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre; open space minimum of 50% for interior lots and 40% for corner lots",
+    "SUBPART C": "",
+    "SUBPART D": "45"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

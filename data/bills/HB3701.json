@@ -1,0 +1,293 @@
+{
+  "bill_id": 1990694,
+  "bill_number": "HB3701",
+  "title": "Relating to the authority of the board of regents of The Texas A&M University System to construct, acquire, improve, extend, and equip utility systems located on university system property.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3701/2025",
+  "progress": [
+    {
+      "date": "2025-03-04",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Referred to Higher Education",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Recommended to be sent to Local & Consent",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Reported favorably as substituted",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Comm. report sent to Local & Consent Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Considered in Local & Consent Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Transferred to Calendars Committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Companion considered in lieu of SB 1468",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Laid on the table subject to call",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "20.02.754",
+      "code_text_excerpt": "Public utility facility\n20.02.754\u00a0Public utility facility.\n\"Public utility facility\" means the buildings, structures and facilities relating to the furnishing of public utility services to the public. Public utility facilities shall be categorized as follows:\nA.\tMinor Utility Facilities. Minor utility facilities shall include facilities which are necessary to support principal development includin",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.201
+    },
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.157
+    },
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.134
+    },
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.115
+    },
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "20.10.730",
+      "code_text_excerpt": "Utility facilities\n20.10.730\u00a0Utility facilities.\nUtility facilities shall comply with the following:\nA.\tMinor Utility Facilities. Minor utility facilities shall be exempt from all requirements of this title and shall be a permitted use in any zoning district of the city, except the natural open space zoning district, where such facilities shall be permitted by special permit in accordance with Sec",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.114
+    },
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "20.10.510",
+      "code_text_excerpt": "Recreational vehicle parks\n20.10.510\u00a0Recreational vehicle parks.\nAll recreational vehicle parks shall be constructed and maintained in accordance with all applicable provisions of the city code.\nA.\tAll recreational vehicle parks and extensions and additions to recreational vehicle parks shall be constructed and maintained in compliance with the following requirements:\n1.\tA recreational vehicle par",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.073
+    },
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.064
+    },
+    {
+      "bill_section": "Sec. 85.24. UTILITIES.",
+      "bill_text_excerpt": "Sec. 85.24. UTILITIES. (a) The board [ from time to time ] may improve and equip existing [ central ] power plants and may construct, acquire, improve, and equip steam plants and additions to steam plants. For the purposes of this subsection, [ them, and ] the board may acquire property [ land for these purposes ] for the institutions under its control[ , ] when the total cost, type of constructio",
+      "bill_numbers_found": [],
+      "code_section": "19.02.020",
+      "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.063
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 2,
+  "scope": "needs_manual_review",
+  "last_action": "Laid on the table subject to call",
+  "last_action_date": "2025-04-29",
+  "scoring_method": "rule_based_prescreen"
+}

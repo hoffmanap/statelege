@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Convention center",
+  "permitted_use": "1/400 sf GFA",
+  "standards": {
+    "11.00": "11.13",
+    "Recreation Amusement & Entertainment": "Convention center",
+    "Automobile & Light Truck": "1/400 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/100,000 sf",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

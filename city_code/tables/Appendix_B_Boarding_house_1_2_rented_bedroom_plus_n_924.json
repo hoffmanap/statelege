@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Boarding house",
+  "permitted_use": "1/2 rented bedroom plus number required for operator's residence",
+  "standards": {
+    "13.00": "13.05",
+    "Residential": "Boarding house",
+    "Automobile & Light Truck": "1/2 rented bedroom plus number required for operator's residence",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

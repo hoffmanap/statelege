@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "On-premise advertising",
+  "permitted_use": "None",
+  "standards": {
+    "15.00": "15.01",
+    "Signs": "On-premise advertising",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "N/A"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

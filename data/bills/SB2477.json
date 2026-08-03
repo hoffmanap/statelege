@@ -1,0 +1,854 @@
+{
+  "bill_id": 2006058,
+  "bill_number": "SB2477",
+  "title": "Relating to certain municipal regulation of conversion of certain office buildings to mixed-use and multifamily residential occupancy.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2477/2025",
+  "progress": [
+    {
+      "date": "2025-03-13",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Left pending in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Reported favorably as substituted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read 2nd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Amendment(s) offered FA1 Bettencourt",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Vote recorded in Journal",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Passed to engrossment as amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Three day rule suspended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read 3rd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Passed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Reported engrossed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Received from the Senate",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Considered in formal meeting",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-24",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Rules suspended",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Additional sponsor(s) authorized",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read 2nd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amended 1-Patterson",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Record vote RV#3712",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amended 2-Patterson",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Record vote RV#3713",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Passed to 3rd reading as amended",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Record vote RV#3714",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Read 3rd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Passed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote RV#3848",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "House passage as amended reported",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "House amendment(s) laid before the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Read",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Senate concurs in House amendment(s)",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-31",
+      "action": "Senate concurs in House amendment(s)-reported",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-31",
+      "action": "Reported enrolled",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-06-01",
+      "action": "Signed in the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Signed in the House",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Sent to the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Signed by the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 1
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Effective on 9/1/25",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review",
+        "traffic_impact",
+        "parking",
+        "density",
+        "open_space"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.263
+    },
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review",
+        "density",
+        "open_space"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.225
+    },
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact",
+        "utility_extension"
+      ],
+      "priority": 4,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.506
+    },
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.04.320",
+      "code_text_excerpt": "Special permit approvals\n20.04.320\u00a0Special permit approvals.\nA.\tBuilding and occupancy permits shall not be issued to any building or use identified in this title as requiring a special permit until after approval of such special permit by the city council.\nB.\tBuilding and occupancy permits shall not be issued for any building or use identified in this title as requiring an approved detailed site ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.295
+    },
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.04.200",
+      "code_text_excerpt": "Master zoning plan\n20.04.200\u00a0Master zoning plan.\nA.\tMaster Zoning Plan (MZP).\n1.\tAs part of any zoning application for a mixed use district, a master zoning plan shall be required and shall accompany the application. The MZP shall provide sufficient details necessary about the proposed land uses and proposed development so that the El Paso City Council may determine their compatibility within the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "open_space"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.293
+    },
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.12.050",
+      "code_text_excerpt": "Supplemental density regulations\n20.12.050\u00a0Supplemental density regulations.\nDensity regulations may be modified in the following instances:\nA.\tLot area per unit requirements shall not apply to dormitories, fraternities, sororities, nursing homes or other similar group quarters where no cooking facilities are provided in individual rooms or apartments;\nB.\tIn any special use permit for a planned re",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "open_space",
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.215
+    },
+    {
+      "bill_section": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED.",
+      "bill_text_excerpt": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED. Notwithstanding any other law, if a municipal authority responsible for approving a building permit or other authorization required for the conversion of a building to mixed-use residential use or multifamily residential use determines that a proposed conversion meets municipal regulations in accordance with this subchapter, the municipal authority: ",
+      "bill_numbers_found": [],
+      "code_section": "19.07.010",
+      "code_text_excerpt": "General requirements for plat revisions\n19.07.010\u00a0General requirements for plat revisions.\nA.\tApplicability and Terminology.\n1.\tThe procedures in this chapter shall apply only if a property owner seeks to change any portion of a plat that has been filed of record with the county including a note or restriction on the face of the plat. If a property owner files an amending plat or a minor plat to m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.083
+    },
+    {
+      "bill_section": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED.",
+      "bill_text_excerpt": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED. Notwithstanding any other law, if a municipal authority responsible for approving a building permit or other authorization required for the conversion of a building to mixed-use residential use or multifamily residential use determines that a proposed conversion meets municipal regulations in accordance with this subchapter, the municipal authority: ",
+      "bill_numbers_found": [],
+      "code_section": "20.12.050",
+      "code_text_excerpt": "Supplemental density regulations\n20.12.050\u00a0Supplemental density regulations.\nDensity regulations may be modified in the following instances:\nA.\tLot area per unit requirements shall not apply to dormitories, fraternities, sororities, nursing homes or other similar group quarters where no cooking facilities are provided in individual rooms or apartments;\nB.\tIn any special use permit for a planned re",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.082
+    },
+    {
+      "bill_section": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED.",
+      "bill_text_excerpt": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED. Notwithstanding any other law, if a municipal authority responsible for approving a building permit or other authorization required for the conversion of a building to mixed-use residential use or multifamily residential use determines that a proposed conversion meets municipal regulations in accordance with this subchapter, the municipal authority: ",
+      "bill_numbers_found": [],
+      "code_section": "20.10.240",
+      "code_text_excerpt": "Freight and passenger terminals\n20.10.240\u00a0Freight and passenger terminals.\nThe following uses are considered freight and passenger terminals: transportation terminal type A, transportation terminal type B, passenger station, motor-carrier terminal, railyard, auxiliary rail facilities, airport, intermodal facility, heliport, airpad, helistop, interlocking tower, diesel maintenance facility, and rai",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.077
+    },
+    {
+      "bill_section": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED.",
+      "bill_text_excerpt": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED. Notwithstanding any other law, if a municipal authority responsible for approving a building permit or other authorization required for the conversion of a building to mixed-use residential use or multifamily residential use determines that a proposed conversion meets municipal regulations in accordance with this subchapter, the municipal authority: ",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.051
+    },
+    {
+      "bill_section": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED.",
+      "bill_text_excerpt": "Sec. 218.104. ADMINISTRATIVE APPROVAL REQUIRED. Notwithstanding any other law, if a municipal authority responsible for approving a building permit or other authorization required for the conversion of a building to mixed-use residential use or multifamily residential use determines that a proposed conversion meets municipal regulations in accordance with this subchapter, the municipal authority: ",
+      "bill_numbers_found": [],
+      "code_section": "19.26.020",
+      "code_text_excerpt": "Infill development\n19.26.020\u00a0Infill development.\nA.\tIntent and Purpose. The following guidelines are designed to meet the intent and purpose of the infill sections, requirements and references in Title 20, the zoning ordinance to reinvigorate existing communities and neighborhoods and support new compact, single or mixed-use development. This chapter is intended to reduce barriers to infill develo",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.046
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.145
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.117
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.102
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.091
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.072
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.072
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "19.04.070",
+      "code_text_excerpt": "Plat recordation\n19.04.070\u00a0Plat recordation.\nA.\tProcedure.\n1.\tSignatures. After approval of the final plat, the city manager, or designee shall procure the signature of the chairperson of the city plan commission on the final plat ready for recording, the signature of the secretary of the city plan commission who shall attest to the signature of the chairperson, and the signature of the planning a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.066
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not limit: (1) a municipality from adopting or enforcing an ordinance, regulation, or other measure: (A) to protect historic landmarks or include properties within the boundaries of local historic districts; or (B) related to the use and occupancy of a residential property that is rented for a period not longer than 30 cons",
+      "bill_numbers_found": [],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.066
+    },
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.02.164",
+      "code_text_excerpt": "Building site\n20.02.164\u00a0Building site.\n\"Building site\" means a lot for a building or structure together with all yards and open space.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.356
+    },
+    {
+      "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED. (a) Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building wou",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "120 percent"
+      ],
+      "code_section": "20.10.550",
+      "code_text_excerpt": "Restricted residential mixed-use development\n20.10.550\u00a0Restricted residential mixed-use development.\nA.\tPurpose. The purpose of a restricted residential mixed-use development is to create a unique environment for a hub of activity and a focal point for a given area, reflecting the identity of the area by providing a variety of land uses that coexist in a multi-use residential setting. The mix of l",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "open_space"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.277
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Effective on 9/1/25",
+  "last_action_date": "2025-06-20",
+  "scoring_method": "rule_based_prescreen"
+}

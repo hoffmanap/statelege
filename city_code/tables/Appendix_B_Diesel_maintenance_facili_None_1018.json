@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Diesel maintenance facility",
+  "permitted_use": "None",
+  "standards": {
+    "18.00": "18.05",
+    "Transportation Related Uses": "Diesel maintenance facility",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2F"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

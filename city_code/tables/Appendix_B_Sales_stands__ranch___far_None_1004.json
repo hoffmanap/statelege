@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Sales stands (ranch & farm products)",
+  "permitted_use": "None",
+  "standards": {
+    "16.00": "16.13",
+    "Temporary Uses": "Sales stands (ranch & farm products)",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

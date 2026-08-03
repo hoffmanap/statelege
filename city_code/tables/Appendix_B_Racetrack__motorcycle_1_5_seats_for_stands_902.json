@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Racetrack, motorcycle",
+  "permitted_use": "1/5 seats for stands",
+  "standards": {
+    "11.00": "11.34",
+    "Recreation Amusement & Entertainment": "Racetrack, motorcycle",
+    "Automobile & Light Truck": "1/5 seats for stands",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/25,000 sf GFA",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

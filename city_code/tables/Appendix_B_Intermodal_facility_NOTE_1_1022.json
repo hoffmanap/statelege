@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Intermodal facility",
+  "permitted_use": "NOTE 1",
+  "standards": {
+    "18.00": "18.09",
+    "Transportation Related Uses": "Intermodal facility",
+    "Automobile & Light Truck": "NOTE 1",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "NOTE 1",
+    "Gravel Screen Parking": "2F"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

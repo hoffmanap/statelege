@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "1500",
+  "permitted_use": "",
+  "standards": {
+    "Use": "Airport",
+    "Setback (in feet)": "1500"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

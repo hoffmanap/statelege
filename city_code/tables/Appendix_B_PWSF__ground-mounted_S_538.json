@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "PWSF, ground-mounted",
+  "permitted_use": "S",
+  "standards": {
+    "Use": "PWSF, ground-mounted",
+    "Residential": "S",
+    "Commercial": "P",
+    "Manufacturing": "P",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \n\u00a7 20.10.020; \n\u00a7 20.10.455",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

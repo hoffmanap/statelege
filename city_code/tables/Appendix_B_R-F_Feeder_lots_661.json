@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "R-F",
+  "permitted_use": "Feeder lots",
+  "standards": {
+    "SUBPART A": "None",
+    "SUBPART B": "See Chapter 20.10 and Title 7",
+    "SUBPART C": "No structure shall be located closer than fifty (50) feet from any major arterial right-of-way as shown on the City's major thoroughfare plan",
+    "SUBPART D": "35"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-0",
+  "permitted_use": "Two-family dwelling (Duplex)",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "None",
+    "SUBPART C": "Accessory structures, see Section 20.10.030",
+    "SUBPART D": "Max height equal to the distance between the centerline of abutting street and face of the building abutting that street."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

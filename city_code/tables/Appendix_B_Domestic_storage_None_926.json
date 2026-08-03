@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Domestic storage",
+  "permitted_use": "None",
+  "standards": {
+    "13.00": "13.08",
+    "Residential": "Domestic storage",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2H"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

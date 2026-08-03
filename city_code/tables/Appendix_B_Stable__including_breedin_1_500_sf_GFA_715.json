@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Stable (including breeding)",
+  "permitted_use": "1/500 sf GFA",
+  "standards": {
+    "1.00": "1.23",
+    "Agricultural & Related Operations": "Stable (including breeding)",
+    "Automobile & Light Truck": "1/500 sf GFA",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

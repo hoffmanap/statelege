@@ -1,0 +1,38 @@
+{
+  "bill_id": 1892827,
+  "bill_number": "HB1452",
+  "title": "Relating to the promotion of film and television production in this state, including the eligibility of film or television productions for funding under the major events reimbursement program, the creation of a film events trust fund and a film production tax rebate trust fund, the establishment of virtual film production institutes, and the designation of media production development zones.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1452/2025",
+  "progress": [
+    {
+      "date": "2024-11-21",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Referred to Culture, Recreation & Tourism",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Culture, Recreation & Tourism",
+  "last_action_date": "2025-03-11",
+  "scoring_method": "rule_based_prescreen"
+}

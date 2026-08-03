@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Radio broadcasting antenna",
+  "permitted_use": "None",
+  "standards": {
+    "17.00": "17.05",
+    "Towers & Related Structures": "Radio broadcasting antenna",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "N/A"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

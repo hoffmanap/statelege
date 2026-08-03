@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Urban Reserve District",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"URD\"",
+    "Ranch and Farm District": "Urban Reserve District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

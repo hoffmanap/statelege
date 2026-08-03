@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Textile product mill",
+  "permitted_use": "1/1,500 sf GFA",
+  "standards": {
+    "5.00": "5.34",
+    "Manufacturing, Processing & Assembling": "Textile product mill",
+    "Automobile & Light Truck": "1/1,500 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/50,000 sf GFA",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

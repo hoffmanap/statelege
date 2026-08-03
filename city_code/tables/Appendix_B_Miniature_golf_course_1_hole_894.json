@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Miniature golf course",
+  "permitted_use": "1/hole",
+  "standards": {
+    "11.00": "11.25",
+    "Recreation Amusement & Entertainment": "Miniature golf course",
+    "Automobile & Light Truck": "1/hole",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

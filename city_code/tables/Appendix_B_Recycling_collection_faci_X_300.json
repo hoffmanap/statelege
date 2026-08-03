@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Recycling collection facility (large)",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Recycling collection facility (large)",
+    "Residential": "X",
+    "Commercial": "X",
+    "Manufacturing": "P",
+    "Special Purpose": "",
+    "Supplemental \nStandards": "\u00a7 20.08.010; \n\u00a7 20.08.020\n\u00a7 20.08.520",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

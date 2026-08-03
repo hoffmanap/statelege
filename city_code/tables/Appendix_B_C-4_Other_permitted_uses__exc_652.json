@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "C-4",
+  "permitted_use": "Other permitted uses, except as otherwise specified in this title",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "See Chapter 20.10",
+    "SUBPART C": "See Chapter 20.10; Floor area ratio of 1.5",
+    "SUBPART D": "60; may exceed 60' when an additional setback of one foot is provided from all adjacent yardlines for each foot of height in excess of 60."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

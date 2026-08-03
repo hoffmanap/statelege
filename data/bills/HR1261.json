@@ -1,0 +1,206 @@
+{
+  "bill_id": 2031981,
+  "bill_number": "HR1261",
+  "title": "Commemorating the opening of the Advanced Manufacturing and Aerospace Center at The University of Texas at El Paso.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/HR1261/2025",
+  "progress": [
+    {
+      "date": "2025-05-15",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Referred to Local & Consent Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Considered in Local & Consent Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Placed on Congrat. & Memorial Res. Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Laid before the House",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Adopted",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Nonrecord vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-24",
+      "action": "Reported enrolled",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.18.405",
+      "code_text_excerpt": "CEVM standards for superregional shopping centers\n20.18.405\u00a0CEVM standards for superregional shopping centers.\nA.\tA superregional shopping center CEVMS sign is permitted as a monument sign or pole sign subject to the following conditions:\n1.\tThe property shall be zoned C-4 and located on Interstate Highway 10.\n2.\tA maximum display face area is six hundred square feet.\n3.\tA superregional shopping c",
+      "code_numbers_found": [
+        "500 feet"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.108
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.18.455",
+      "code_text_excerpt": "Shopping Center comprehensive sign plans for C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts\n20.18.455\u00a0Shopping Center comprehensive sign plans for C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts.\nA.\tShopping Center Comprehensive Sign Plans:\n1.\tShopping centers may allocate the total available square footage for all primary monument, pole, and out parcel signs permitted under this chapter according to a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.103
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.09
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.088
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.10.140",
+      "code_text_excerpt": "Child care facilities\n20.10.140\u00a0Child care facilities.\nA.\tHome occupation - child care facilities shall comply with the following:\n1.\tA license shall be maintained at all times as required by law or ordinance;\n2.\tThe home child care facility shall be clearly incidental and secondary to the principal use of the property;\n3.\tA caregiver shall be required;\n4.\tThe front, side and side street yards sha",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.076
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.071
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.18.450",
+      "code_text_excerpt": "C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts\n20.18.450\u00a0C-2, C-3, C-4, Q, M-1, M-2 and M-3 districts.\nA.\tMonument signs shall comply with the following requirements:\n1.\tLocation: No portion of the sign shall be closer than fifteen feet from the back of the curbline; if the property line is located more than fifteen feet from the curbline, signs shall be erected within the property line, and no port",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.064
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } H.R. No. 1261 R E S O L U T I O N WHEREAS, The University of Texas at El Paso celebrated the grand opening of its Advanced Manufacturing and Aerospace Center with a ribbon cutting ceremony on April 11, 2025; and WHEREAS, UTEP broke ground on the $80 million research and education facility in the fall of 2",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.053
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Reported enrolled",
+  "last_action_date": "2025-05-24",
+  "scoring_method": "rule_based_prescreen"
+}

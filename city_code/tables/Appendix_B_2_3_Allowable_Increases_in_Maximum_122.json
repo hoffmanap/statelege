@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "2.3",
+  "permitted_use": "Allowable Increases in Maximum Height Permitted",
+  "standards": {
+    "0.0": "",
+    "Zoning Districts": "Allowable Increases in Maximum Height Permitted",
+    "A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD)": "N/A",
+    "B. C-1, C-2, P-C and C-OP Commercial Districts, S-D Special Development, and Special Purpose Districts (excluding RF, SRR, PR-I, PR-II, PMD, and P-I)": "Up to 15' above the Maximum Height Permitted in Section F.2.2 above allowed by approval of a Special Permit (see Section F.2.3.1 below)",
+    "C. C-3, C-4 and C-5 Commercial Districts": "Up to 15' above the Maximum Height Permitted in Section F.2.2 above allowed by approval of a Special Permit (see Section F.2.3.1 below)",
+    "D. M-1, M-2, M-3, P-I, & Q (Manufacturing, Industrial and Quarry Districts)": "Up to 15' above the Maximum Height Permitted in Section F.2.2 above allowed by approval of a Special Permit (see Section F.2.3.1 below)"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

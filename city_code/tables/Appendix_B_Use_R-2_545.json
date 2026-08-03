@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Use",
+  "permitted_use": "R-2",
+  "standards": {
+    "Use": "Use",
+    "Residential": "A-M",
+    "Commercial": "C-5",
+    "Manufacturing": "M-3",
+    "Special Purpose": "URD",
+    "Supplemental \nStandards": "Supplemental \nStandards",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "Accessory \nUses \nPermitted to \nSpecific Use"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

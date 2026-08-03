@@ -1,0 +1,94 @@
+{
+  "bill_id": 2007506,
+  "bill_number": "SB2765",
+  "title": "Relating to the treatment of a manufactured home as real property.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2765/2025",
+  "progress": [
+    {
+      "date": "2025-03-14",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R15019 JAM-D By: Cook S.B. No. 2765 A BILL TO BE ENTITLED AN ACT relating to the treatment of a manufactured home as real property. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application f",
+      "bill_numbers_found": [],
+      "code_section": "20.02.126",
+      "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.1
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R15019 JAM-D By: Cook S.B. No. 2765 A BILL TO BE ENTITLED AN ACT relating to the treatment of a manufactured home as real property. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application f",
+      "bill_numbers_found": [],
+      "code_section": "20.02.124",
+      "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.059
+    },
+    {
+      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
+      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R15019 JAM-D By: Cook S.B. No. 2765 A BILL TO BE ENTITLED AN ACT relating to the treatment of a manufactured home as real property. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application f",
+      "bill_numbers_found": [],
+      "code_section": "20.10.035",
+      "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "owner_occupancy"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.047
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to Local Government",
+  "last_action_date": "2025-04-03",
+  "scoring_method": "rule_based_prescreen"
+}

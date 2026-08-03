@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Utility green space",
+  "permitted_use": "P",
+  "standards": {
+    "Use": "Utility green space",
+    "Residential": "P",
+    "Commercial": "P",
+    "Manufacturing": "P",
+    "Special Purpose": "P",
+    "Supplemental \nStandards": "20.10.557",
+    "Accessory \nUses \nPermitted to \nSpecific Use": ""
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

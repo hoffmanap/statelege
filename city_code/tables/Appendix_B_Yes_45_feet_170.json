@@ -1,0 +1,14 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Yes",
+  "permitted_use": "45 feet",
+  "standards": {
+    "Districts": "Shopping Center primary monument signs in C-2, C-3, C-4, Q, M-1, M-2 and M-3 with arterial frontage (See A.1-7 after Table for additional information).",
+    "Permit \nRequired": "Yes",
+    "Maximum Number": "One per street frontage for premises less than three acres, but not to exceed three signs per premise; \nTwo per street frontage for premises that are between three acres and ten acres, not to exceed four signs per premise; \nThree per street frontage for premises that are between ten acres and 20 acres, not to exceed six signs per premise; \nNo more than six signs for premises between 20 acres and 40 acres; \nNo more than eight signs for premises over 40 acres.",
+    "Maximum Height": "45 feet",
+    "Maximum Sign Area": "Less than one acre 200 square feet, \nMore than one acre 250 square feet"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Synagogue",
+  "permitted_use": "1/100 sf GFA of auditorium; plus 1/400 sf GFA of other areas",
+  "standards": {
+    "3.00": "3.24",
+    "Educational, Institutional & Social": "Synagogue",
+    "Automobile & Light Truck": "1/100 sf GFA of auditorium; plus 1/400 sf GFA of other areas",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2A, B"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

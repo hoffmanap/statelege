@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Nightclub, bar, cocktail lounge",
+  "permitted_use": "1/100 sf GFA",
+  "standards": {
+    "11.00": "11.28",
+    "Recreation Amusement & Entertainment": "Nightclub, bar, cocktail lounge",
+    "Automobile & Light Truck": "1/100 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

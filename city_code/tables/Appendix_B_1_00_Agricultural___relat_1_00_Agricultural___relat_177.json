@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "1.00 Agricultural & related operations",
+  "permitted_use": "1.00 Agricultural & related operations",
+  "standards": {
+    "Use": "1.00 Agricultural & related operations",
+    "Residential": "1.00 Agricultural & related operations",
+    "Commercial": "1.00 Agricultural & related operations",
+    "Manufacturing": "1.00 Agricultural & related operations",
+    "Special Purpose": "1.00 Agricultural & related operations",
+    "Supplemental \nStandards": "1.00 Agricultural & related operations",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "1.00 Agricultural & related operations"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

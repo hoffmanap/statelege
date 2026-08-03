@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Manufacturing, Processing & Assembling",
+  "permitted_use": "Maximum",
+  "standards": {
+    "5.00": "5.00",
+    "Manufacturing, Processing & Assembling": "Manufacturing, Processing & Assembling",
+    "Automobile & Light Truck": "Maximum",
+    "Bicycle": "Bicycle",
+    "Heavy Truck Trailer": "Heavy Truck Trailer",
+    "Gravel Screen Parking": "Notes"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

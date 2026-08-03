@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "2.00 Commercial, storage & processing",
+  "permitted_use": "2.00 Commercial, storage & processing",
+  "standards": {
+    "Use": "2.00 Commercial, storage & processing",
+    "Residential": "2.00 Commercial, storage & processing",
+    "Commercial": "2.00 Commercial, storage & processing",
+    "Manufacturing": "2.00 Commercial, storage & processing",
+    "Special Purpose": "2.00 Commercial, storage & processing",
+    "Supplemental \nStandards": "2.00 Commercial, storage & processing",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "2.00 Commercial, storage & processing"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

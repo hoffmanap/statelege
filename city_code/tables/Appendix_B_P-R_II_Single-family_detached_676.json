@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "P-R II",
+  "permitted_use": "Single-family detached",
+  "standards": {
+    "SUBPART A": "1 acre; extensions to the original district from a common boundary may be considered in increments of 1 acre or less.",
+    "SUBPART B": "Maximum of 14 units per acre; lot size maybe reduced by site development plan. See Development Standards in Section 20.10.360",
+    "SUBPART C": "See Section 20.10.360 of this title; setbacks may be reduced if approved on site development plan",
+    "SUBPART D": "35, except as approved by City Council"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

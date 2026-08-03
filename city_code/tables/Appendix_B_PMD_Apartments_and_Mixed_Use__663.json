@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "PMD",
+  "permitted_use": "Apartments and Mixed Use Residential development",
+  "standards": {
+    "SUBPART A": "1 acre where common or public open space is dedicated; provided that extensions of 1 acre or less to an existing PMD from a common boundary may be considered",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre",
+    "SUBPART C": "N/A",
+    "SUBPART D": "45; measured from the lowest living area floor level & shall not exceed 45 from the highest elevation of the lot, or as approved by City Council where it can be demonstrated that the additional height will not have a detrimental effect on surrounding land uses"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

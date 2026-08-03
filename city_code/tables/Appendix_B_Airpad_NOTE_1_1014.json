@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Airpad",
+  "permitted_use": "NOTE 1",
+  "standards": {
+    "18.00": "18.01",
+    "Transportation Related Uses": "Airpad",
+    "Automobile & Light Truck": "NOTE 1",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "NOTE 1",
+    "Gravel Screen Parking": "2F"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

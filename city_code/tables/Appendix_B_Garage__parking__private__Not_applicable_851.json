@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Garage, parking (private)",
+  "permitted_use": "Not applicable",
+  "standards": {
+    "9.00": "9.03",
+    "Parking & Loading": "Garage, parking (private)",
+    "Automobile & Light Truck": "Not applicable",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "Not applicable",
+    "Gravel Screen Parking": "N/A"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Towers & Related Structures",
+  "permitted_use": "Maximum",
+  "standards": {
+    "17.00": "17.00",
+    "Towers & Related Structures": "Towers & Related Structures",
+    "Automobile & Light Truck": "Maximum",
+    "Bicycle": "Bicycle",
+    "Heavy Truck Trailer": "Heavy Truck Trailer",
+    "Gravel Screen Parking": "Notes"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

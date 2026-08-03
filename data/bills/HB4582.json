@@ -1,0 +1,407 @@
+{
+  "bill_id": 2004781,
+  "bill_number": "HB4582",
+  "title": "Relating to reimbursement of infrastructure costs incurred by a developer of certain housing developments by certain municipalities and counties.",
+  "lifecycle": "dead",
+  "legiscan_status": "2",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4582/2025",
+  "progress": [
+    {
+      "date": "2025-03-12",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Considered in formal meeting",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Reported favorably as substituted",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Read 2nd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Passed to engrossment",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Record vote RV#2108",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Read 3rd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Passed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2144",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Reported engrossed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Received from the House",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Left pending in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "19.26.020",
+      "code_text_excerpt": "Infill development\n19.26.020\u00a0Infill development.\nA.\tIntent and Purpose. The following guidelines are designed to meet the intent and purpose of the infill sections, requirements and references in Title 20, the zoning ordinance to reinvigorate existing communities and neighborhoods and support new compact, single or mixed-use development. This chapter is intended to reduce barriers to infill develo",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.213
+    },
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size",
+        "utility_extension"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.196
+    },
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.19
+    },
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "20.10.550",
+      "code_text_excerpt": "Restricted residential mixed-use development\n20.10.550\u00a0Restricted residential mixed-use development.\nA.\tPurpose. The purpose of a restricted residential mixed-use development is to create a unique environment for a hub of activity and a focal point for a given area, reflecting the identity of the area by providing a variety of land uses that coexist in a multi-use residential setting. The mix of l",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.172
+    },
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.148
+    },
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.192
+    },
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "19.10.050",
+      "code_text_excerpt": "Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision\n19.10.050\u00a0Roadway participation policies\u2014Improvement of roads and utilities within and or abutting the subdivision.\nA.\tImprovement of the proportional share of a substandard road within or abutting the subdivision. When an area within a proposed plat, whether residential or nonresidential, abut",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.166
+    },
+    {
+      "bill_section": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT.",
+      "bill_text_excerpt": "Sec. 396.003. ELIGIBILITY FOR INFRASTRUCTURE COST REIMBURSEMENT. (a) A developer is eligible for reimbursement under this chapter for a cost incurred to build infrastructure related to an attainable housing development if: (1) the developer directly or indirectly incurred the cost of building or financing the construction, maintenance, or renovation of the infrastructure or connection of the infra",
+      "bill_numbers_found": [
+        "80 percent",
+        "1,000 square feet",
+        "2,500 square feet"
+      ],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.14
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "last_action": "Left pending in committee",
+  "last_action_date": "2025-05-26",
+  "scoring_method": "rule_based_prescreen"
+}

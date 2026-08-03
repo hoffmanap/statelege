@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Tramway",
+  "permitted_use": "20 spaces/use",
+  "standards": {
+    "11.00": "11.49",
+    "Recreation Amusement & Entertainment": "Tramway",
+    "Automobile & Light Truck": "20 spaces/use",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

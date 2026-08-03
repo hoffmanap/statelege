@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Feed yard",
+  "permitted_use": "1/1,000 sf GFA of buildings",
+  "standards": {
+    "1.00": "1.11",
+    "Agricultural & Related Operations": "Feed yard",
+    "Automobile & Light Truck": "1/1,000 sf GFA of buildings",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

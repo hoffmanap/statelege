@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "1.4",
+  "permitted_use": "Minimum separation \n(measured base of existing to base of proposed)",
+  "standards": {
+    "0.0": "",
+    "Zoning Districts": "Minimum separation \n(measured base of existing to base of proposed)",
+    "A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD)": "One-half mile",
+    "B. C-1, C-2, P-C and C-OP Commercial Districts, S-D Special Development, and Special Purpose Districts (excluding RF, SRR, PR-I, PR-II, PMD, and P-I)": "One-half mile",
+    "C. C-3, C-4 and C-5 Commercial Districts": "2,000'",
+    "D. M-1, M-2, M-3, P-I, & Q (Manufacturing, Industrial and Quarry Districts)": "1,760 \n'"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

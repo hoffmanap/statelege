@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Paint ball center (outdoor)",
+  "permitted_use": "1/1,000 sf outdoor rec. area; & 1/200 sf GFA of buildings",
+  "standards": {
+    "11.00": "11.31",
+    "Recreation Amusement & Entertainment": "Paint ball center (outdoor)",
+    "Automobile & Light Truck": "1/1,000 sf outdoor rec. area; & 1/200 sf GFA of buildings",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "5.0",
+  "permitted_use": "",
+  "standards": {
+    "Percent Average Slope": "10.1 to 15",
+    "Maximum Density per Gross Acre": "5.0"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

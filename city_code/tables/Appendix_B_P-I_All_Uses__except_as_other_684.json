@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "P-I",
+  "permitted_use": "All Uses, except as otherwise specified in this title",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Floor area ratio: not to exceed 50%; see Chapter 20.10",
+    "SUBPART C": "Where a P-I tract abuts railroad property containing a spur track on the rear or side property line, structures may extend to the property line for the purpose of receiving railroad service.",
+    "SUBPART D": "No building shall exceed 40', not including machinery rooms, spires, antennas, etc."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

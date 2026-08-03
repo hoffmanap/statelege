@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Automobile part sales",
+  "permitted_use": "1/400 sf of GFA of buildings",
+  "standards": {
+    "8.00": "8.03",
+    "Motor Vehicle Sale & Service": "Automobile part sales",
+    "Automobile & Light Truck": "1/400 sf of GFA of buildings",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-4",
+  "permitted_use": "Single-family attached dwellings (Atrium, Patio, and Townhomes)",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Multi-family: maximum of 145 units per acre;",
+    "SUBPART C": "Perimeter designed to ensure compatibility with adjacent",
+    "SUBPART D": "Per approved site development plan"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Shooting range archery or gun (outdoor)",
+  "permitted_use": "1/shooting station",
+  "standards": {
+    "11.00": "11.40",
+    "Recreation Amusement & Entertainment": "Shooting range archery or gun (outdoor)",
+    "Automobile & Light Truck": "1/shooting station",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

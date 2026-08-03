@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Raising (field, tree, bush crops)",
+  "permitted_use": "None",
+  "standards": {
+    "1.00": "1.20",
+    "Agricultural & Related Operations": "Raising (field, tree, bush crops)",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Wind-driven electrical generator, pump",
+  "permitted_use": "None",
+  "standards": {
+    "17.00": "17.11",
+    "Towers & Related Structures": "Wind-driven electrical generator, pump",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "N/A"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

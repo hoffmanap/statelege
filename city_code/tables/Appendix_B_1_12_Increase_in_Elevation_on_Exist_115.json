@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "1.12",
+  "permitted_use": "Increase in Elevation on Existing Ground Mounted PWSF Antenna Support Structure",
+  "standards": {
+    "0.0": "",
+    "Zoning Districts": "Increase in Elevation on Existing Ground Mounted PWSF Antenna Support Structure",
+    "A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD)": "An increase in elevation, not to exceed height found in Section F.1.6 and Section F.1.7 plus allowed modifications and Section F.1.8 above, of an existing permitted PWSF antenna support structure may be permitted only to allow for collocation of additional antennas, unless otherwise permitted by FCC provisions of Section 6409(a) and Section 332(c)(7). A structural recertification report prepared and sealed by a licensed professional engineer shall be required, and such report shall be reviewed and approved by the building official prior to issuance of a building permit.",
+    "B. C-1, C-2, P-C and C-OP Commercial Districts, S-D Special Development, and Special Purpose Districts (excluding RF, SRR, PR-I, PR-II, PMD, and P-I)": "An increase in elevation, not to exceed height found in Section F.1.6 and Section F.1.7 plus allowed modifications and Section F.1.8 above, of an existing permitted PWSF antenna support structure may be permitted only to allow for collocation of additional antennas, unless otherwise permitted by FCC provisions of Section 6409(a) and Section 332(c)(7). A structural recertification report prepared and sealed by a licensed professional engineer shall be required, and such report shall be reviewed and approved by the building official prior to issuance of a building permit.",
+    "C. C-3, C-4 and C-5 Commercial Districts": "An increase in elevation, not to exceed height found in Section F.1.6 and Section F.1.7 plus allowed modifications and Section F.1.8 above, of an existing permitted PWSF antenna support structure may be permitted only to allow for collocation of additional antennas, unless otherwise permitted by FCC provisions of Section 6409(a) and Section 332(c)(7). A structural recertification report prepared and sealed by a licensed professional engineer shall be required, and such report shall be reviewed and approved by the building official prior to issuance of a building permit.",
+    "D. M-1, M-2, M-3, P-I, & Q (Manufacturing, Industrial and Quarry Districts)": "An increase in elevation, not to exceed height found in Section F.1.6 and Section F.1.7 plus allowed modifications and Section F.1.8 above, of an existing permitted PWSF antenna support structure may be permitted only to allow for collocation of additional antennas, unless otherwise permitted by FCC provisions of Section 6409(a) and Section 332(c)(7). A structural recertification report prepared and sealed by a licensed professional engineer shall be required, and such report shall be reviewed and approved by the building official prior to issuance of a building permit."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

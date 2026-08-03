@@ -1,0 +1,565 @@
+{
+  "bill_id": 1934773,
+  "bill_number": "SB867",
+  "title": "Relating to housing finance corporations; authorizing a fee.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB867/2025",
+  "progress": [
+    {
+      "date": "2025-01-22",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-22",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Left pending in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Reported favorably as substituted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Not again placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.165
+    },
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.137
+    },
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.131
+    },
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.117
+    },
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "20.10.030",
+      "code_text_excerpt": "Accessory buildings and structures\n20.10.030\u00a0Accessory buildings and structures.\nA.\tResidential.\n1.\tResidential accessory buildings shall not exceed one story or fifteen feet in height and must be located in a rear yard, or in a side yard if minimum required side setbacks are maintained, except as permitted in Section 20.10.035 (Accessory Dwelling Units). Condensing units for central air condition",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.074
+    },
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "20.04.160",
+      "code_text_excerpt": "Content of application\n20.04.160\u00a0Content of application.\nDetailed site development plan applications shall be submitted in a digital form compatible with the city's system. Paper submittals of application documents shall be assessed the established fee for conversion of paper documents to digital format. The fee for conversion of paper documents to digital format shall be in the amount established",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.073
+    },
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "20.10.340",
+      "code_text_excerpt": "Manufactured home parks\n20.10.340\u00a0Manufactured home parks.\nA.\tEach manufactured home space shall have a minimum area of at least three thousand square feet, with a minimum width of thirty feet and minimum depth of ninety feet.\nB.\tMinimum distance between structures:\n1.\tThe minimum distance between manufactured home structures, including a garage or carport, shall be ten feet;\n2.\tThe minimum distan",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.072
+    },
+    {
+      "bill_section": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9026. ADDITIONAL CONDITIONS FOR BENEFICIAL AD VALOREM TAX TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Housing choice voucher program\" means the housing choice voucher program under Section 8, United States Housing Act of 1937 (42 U.S.C. Section 1437f). (2) \"Housing finance corporation user\" means a public-private partnership entity or a de",
+      "bill_numbers_found": [
+        "60 percent",
+        "80 percent",
+        "10 percent",
+        "40 percent",
+        "10 percent",
+        "40 percent",
+        "15 percent",
+        "25 percent",
+        "25 percent",
+        "30 percent",
+        "60 percent",
+        "30 percent",
+        "80 percent",
+        "250 percent"
+      ],
+      "code_section": "20.14.050",
+      "code_text_excerpt": "Parking requirements and standards\n20.14.050\u00a0Parking requirements and standards.\nA.\tParking. Table of Parking Requirements and Standards, subsection C. of this title establishes the minimum and maximum number of motor vehicle parking spaces unless otherwise stated, and minimum bicycle parking spaces required for the uses indicated. The city manager or designee shall be authorized to interpret and ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.046
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "20.04.520",
+      "code_text_excerpt": "Notice\n20.04.520\u00a0Notice.\nWhere a public hearing is required by state law, notice shall be given in the manner specified below:\nA.\tContent of Notice. Required mailed notices and notices by publication shall include the date, time, and place of the hearing, a description of the subject matter of the hearing and the body holding the hearing. The mailed notices shall be in the form of a standard lette",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.137
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.126
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.12
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.112
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "19.20.050",
+      "code_text_excerpt": "Standards for deeded parkland\n19.20.050\u00a0Standards for deeded parkland.\nA.\tGeneral Characteristics. Parkland deeded to the city as provided in this chapter shall meet the standards set forth below and in the SDM:\n1.\tThe parkland shall be placed in a location near the center of the subdivision or subdivisions that it serves, with the expressed goal that the park is no further than one-quarter mile m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.073
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "19.02.010",
+      "code_text_excerpt": "Purpose, applicability and effect\n19.02.010\u00a0Purpose, applicability and effect.\nA.\tPurpose and Intent. The purpose of a land study shall be to delineate the sequence and timing of development within a proposed subdivision, where the tract to be developed is part of a larger parcel of land owned or controlled by the applicant, in order to determine compliance with the city's comprehensive plan and t",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.062
+    },
+    {
+      "bill_section": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
+      "bill_text_excerpt": "Sec. 394.9027. AUDIT REQUIREMENTS FOR CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS. (a) In this section: (1) \"Department\" means the Texas Department of Housing and Community Affairs. (2) \"Housing finance corporation user\" has the meaning assigned by Section 394.9026. (b) A housing finance corporation or housing finance corporation user that claims an ad valorem tax exemption for a multifamily resi",
+      "bill_numbers_found": [
+        "60 percent",
+        "50 percent"
+      ],
+      "code_section": "19.04.070",
+      "code_text_excerpt": "Plat recordation\n19.04.070\u00a0Plat recordation.\nA.\tProcedure.\n1.\tSignatures. After approval of the final plat, the city manager, or designee shall procure the signature of the chairperson of the city plan commission on the final plat ready for recording, the signature of the secretary of the city plan commission who shall attest to the signature of the chairperson, and the signature of the planning a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.061
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "last_action": "Placed on intent calendar",
+  "last_action_date": "2025-05-15",
+  "scoring_method": "rule_based_prescreen"
+}

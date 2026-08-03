@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Exercise facility (indoor)",
+  "permitted_use": "1/200 sf GFA",
+  "standards": {
+    "11.00": "11.15",
+    "Recreation Amusement & Entertainment": "Exercise facility (indoor)",
+    "Automobile & Light Truck": "1/200 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "One",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

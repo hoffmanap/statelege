@@ -1,0 +1,38 @@
+{
+  "bill_id": 2003855,
+  "bill_number": "HB4525",
+  "title": "Relating to payroll deductions for certain state and local government employee organizations.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4525/2025",
+  "progress": [
+    {
+      "date": "2025-03-12",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to State Affairs",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to State Affairs",
+  "last_action_date": "2025-04-03",
+  "scoring_method": "rule_based_prescreen"
+}

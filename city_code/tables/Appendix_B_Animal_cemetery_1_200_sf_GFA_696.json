@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Animal cemetery",
+  "permitted_use": "1/200 sf GFA",
+  "standards": {
+    "1.00": "1.01",
+    "Agricultural & Related Operations": "Animal cemetery",
+    "Automobile & Light Truck": "1/200 sf GFA",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2G"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Dancehall",
+  "permitted_use": "1/50 sf of GFA",
+  "standards": {
+    "11.00": "11.14",
+    "Recreation Amusement & Entertainment": "Dancehall",
+    "Automobile & Light Truck": "1/50 sf of GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "One",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

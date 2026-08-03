@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Campground",
+  "permitted_use": "1/400 sf GFA of buildings; not counting camping unit spaces",
+  "standards": {
+    "11.00": "11.10",
+    "Recreation Amusement & Entertainment": "Campground",
+    "Automobile & Light Truck": "1/400 sf GFA of buildings; not counting camping unit spaces",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

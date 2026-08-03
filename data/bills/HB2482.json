@@ -1,0 +1,38 @@
+{
+  "bill_id": 1956668,
+  "bill_number": "HB2482",
+  "title": "Relating to a prohibition on chronic wasting disease containment zones and surveillance zones established by the Parks and Wildlife Commission or the Parks and Wildlife Department.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2482/2025",
+  "progress": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Culture, Recreation & Tourism",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Culture, Recreation & Tourism",
+  "last_action_date": "2025-03-17",
+  "scoring_method": "rule_based_prescreen"
+}

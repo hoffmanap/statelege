@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Apartment/multifamily residential",
+  "permitted_use": "X",
+  "standards": {
+    "Use": "Apartment/multifamily residential",
+    "Residential": "P",
+    "Commercial": "P",
+    "Manufacturing": "X",
+    "Special Purpose": "X",
+    "Supplemental \nStandards": "\u00a7 20.10.010; \u00a7 20.10.020; \u00a7 20.10.360 \u00a7 20.10.363",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "Admin- \nistrative \noffice, laundry room, sauna and exercise room, or vending machine per Section 20.10.050."
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

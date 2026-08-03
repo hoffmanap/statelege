@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Industrial Mixed Use District",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"I-MU\"",
+    "Ranch and Farm District": "Industrial Mixed Use District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

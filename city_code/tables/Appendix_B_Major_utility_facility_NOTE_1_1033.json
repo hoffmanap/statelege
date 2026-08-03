@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Major utility facility",
+  "permitted_use": "NOTE 1",
+  "standards": {
+    "19.00": "19.04",
+    "Utility & Miscellaneous Governmental Facilities": "Major utility facility",
+    "Automobile & Light Truck": "NOTE 1",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2F"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

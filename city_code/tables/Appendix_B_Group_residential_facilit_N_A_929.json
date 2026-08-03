@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Group residential facility",
+  "permitted_use": "N/A",
+  "standards": {
+    "13.00": "13.115",
+    "Residential": "Group residential facility",
+    "Automobile & Light Truck": "N/A",
+    "Bicycle": "Note 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2H"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

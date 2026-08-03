@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Optical dispensary",
+  "permitted_use": "1/250 sf GFA",
+  "standards": {
+    "6.00": "6.10",
+    "Medical & Related Uses": "Optical dispensary",
+    "Automobile & Light Truck": "1/250 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "Over 25,000 sf GFA = one",
+    "Gravel Screen Parking": "2I, C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

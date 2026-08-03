@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Golf driving range",
+  "permitted_use": "1/tee space plus 1/200 sf GFA of buildings",
+  "standards": {
+    "11.00": "11.22",
+    "Recreation Amusement & Entertainment": "Golf driving range",
+    "Automobile & Light Truck": "1/tee space plus 1/200 sf GFA of buildings",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

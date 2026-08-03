@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "On-site loading spaces",
+  "permitted_use": "Not applicable",
+  "standards": {
+    "9.00": "9.05",
+    "Parking & Loading": "On-site loading spaces",
+    "Automobile & Light Truck": "Not applicable",
+    "Bicycle": "Not applicable",
+    "Heavy Truck Trailer": "Not applicable",
+    "Gravel Screen Parking": "N/A"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

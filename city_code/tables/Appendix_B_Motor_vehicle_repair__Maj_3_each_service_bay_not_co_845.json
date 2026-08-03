@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Motor vehicle repair (Major)",
+  "permitted_use": "3/each service bay not counting bays as parking spaces",
+  "standards": {
+    "8.00": "8.20",
+    "Motor Vehicle Sale & Service": "Motor vehicle repair (Major)",
+    "Automobile & Light Truck": "3/each service bay not counting bays as parking spaces",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

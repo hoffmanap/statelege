@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-1",
+  "permitted_use": "Two-family dwelling (Duplex)",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "None",
+    "SUBPART C": "Accessory structures, see Section 20.10.030",
+    "SUBPART D": "35"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

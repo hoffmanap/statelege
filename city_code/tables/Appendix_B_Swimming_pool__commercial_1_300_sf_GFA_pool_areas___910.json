@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Swimming pool (commercial)",
+  "permitted_use": "1/300 sf GFA pool areas & buildings",
+  "standards": {
+    "11.00": "11.45",
+    "Recreation Amusement & Entertainment": "Swimming pool (commercial)",
+    "Automobile & Light Truck": "1/300 sf GFA pool areas & buildings",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Athletic facility (outdoor)",
+  "permitted_use": "1/500 sf GFA of buildings, pools and courts",
+  "standards": {
+    "11.00": "11.05",
+    "Recreation Amusement & Entertainment": "Athletic facility (outdoor)",
+    "Automobile & Light Truck": "1/500 sf GFA of buildings, pools and courts",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

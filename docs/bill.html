@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bill Detail — El Paso Legislative Watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F7F3EA;
+    --ink: #1F1B16;
+    --ink-soft: #58524A;
+    --rule: #D8D0C0;
+    --mark-1: #E8C468;
+    --mark-3: #D98E4A;
+    --mark-5: #B5432D;
+    --dead: #9A9284;
+    --passed: #4C6B54;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+  }
+
+  header {
+    padding: 2.5rem 2rem 1.5rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .back-link {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 1.25rem;
+  }
+  .back-link:hover { text-decoration: underline; }
+
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 0.6rem;
+  }
+
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: clamp(1.6rem, 3.4vw, 2.4rem);
+    margin: 0 0 0.75rem;
+    letter-spacing: -0.01em;
+  }
+
+  .meta-row {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .lifecycle-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.6rem;
+    border-radius: 2px;
+  }
+  .lifecycle-active { background: rgba(76,107,84,0.12); color: var(--passed); }
+  .lifecycle-passed { background: rgba(217,142,74,0.15); color: var(--mark-3); }
+  .lifecycle-dead { background: rgba(154,146,132,0.18); color: var(--dead); }
+
+  .legiscan-link {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+  }
+
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  section { margin-bottom: 2.5rem; }
+
+  h2 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin: 0 0 1rem;
+  }
+
+  /* Progress bar — buckets LegiScan's raw history events into display stages */
+  .progress-track {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  .progress-stage {
+    flex: 1;
+    text-align: center;
+    position: relative;
+  }
+  .progress-stage .dot {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--rule);
+    margin: 0 auto 0.5rem;
+    border: 2px solid var(--paper);
+    box-shadow: 0 0 0 1px var(--rule);
+  }
+  .progress-stage.done .dot { background: var(--passed); box-shadow: 0 0 0 1px var(--passed); }
+  .progress-stage.dead .dot { background: var(--mark-5); box-shadow: 0 0 0 1px var(--mark-5); }
+  .progress-stage::before {
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: -50%;
+    width: 100%;
+    height: 2px;
+    background: var(--rule);
+    z-index: -1;
+  }
+  .progress-stage:first-child::before { display: none; }
+  .progress-stage.done::before { background: var(--passed); }
+  .progress-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--ink-soft);
+  }
+
+  .history-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+  }
+  .history-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    gap: 1rem;
+  }
+  .history-date { color: var(--ink-soft); white-space: nowrap; }
+
+  .severity-summary {
+    display: flex;
+    gap: 2rem;
+    padding: 1.25rem;
+    background: rgba(31,27,22,0.03);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    margin-bottom: 1.5rem;
+  }
+  .stat-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    margin-bottom: 0.25rem;
+  }
+  .stat-value {
+    font-family: 'Fraunces', serif;
+    font-size: 1.6rem;
+  }
+
+  .conflict-card {
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--rule);
+    border-radius: 3px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.9rem;
+  }
+  .conflict-card.sev-5, .conflict-card.sev-4 { border-left-color: var(--mark-5); }
+  .conflict-card.sev-3 { border-left-color: var(--mark-3); }
+  .conflict-card.sev-1, .conflict-card.sev-2 { border-left-color: var(--mark-1); }
+
+  .conflict-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .section-pair {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+  }
+  .section-pair .arrow { color: var(--ink-soft); margin: 0 0.4rem; }
+
+  .conflict-tags {
+    display: flex;
+    gap: 0.4rem;
+  }
+  .tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.15rem 0.45rem;
+    border-radius: 2px;
+    background: rgba(31,27,22,0.06);
+    color: var(--ink-soft);
+  }
+
+  .required-change {
+    font-size: 0.9rem;
+    color: var(--ink);
+    margin-top: 0.4rem;
+  }
+  .required-change-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-right: 0.4rem;
+  }
+
+  .affected-zones {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    margin-top: 0.4rem;
+  }
+
+  .empty-note {
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+  }
+
+  .disclaimer {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    border-top: 1px solid var(--rule);
+    padding-top: 1.5rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <a href="index.html" class="back-link">&larr; All bills</a>
+  <div class="eyebrow" id="bill-number-eyebrow">Loading&hellip;</div>
+  <h1 id="bill-title"></h1>
+  <div class="meta-row">
+    <span class="lifecycle-badge" id="lifecycle-badge"></span>
+    <a class="legiscan-link" id="legiscan-link" href="#" target="_blank" rel="noopener">View on LegiScan &rarr;</a>
+  </div>
+</header>
+
+<main>
+  <section>
+    <h2>Legislative progress</h2>
+    <div class="progress-track" id="progress-track"></div>
+    <ul class="history-list" id="history-list"></ul>
+  </section>
+
+  <section>
+    <h2>Code conflict summary</h2>
+    <div class="severity-summary">
+      <div>
+        <div class="stat-label">Overall severity</div>
+        <div class="stat-value" id="stat-severity">&mdash;</div>
+      </div>
+      <div>
+        <div class="stat-label">Scope</div>
+        <div class="stat-value" id="stat-scope" style="font-size:1.1rem;">&mdash;</div>
+      </div>
+      <div>
+        <div class="stat-label">Conflicts found</div>
+        <div class="stat-value" id="stat-conflict-count">&mdash;</div>
+      </div>
+    </div>
+
+    <div id="conflicts-container"></div>
+    <p class="empty-note" id="no-conflicts-note" style="display:none;">No conflicts identified against the current code corpus.</p>
+  </section>
+
+  <section>
+    <h2>Gaps</h2>
+    <p class="empty-note" style="margin-bottom:0.75rem;">Provisions the bill addresses that current code is silent on — not a conflict, but worth reviewing for completeness.</p>
+    <div id="gaps-container"></div>
+    <p class="empty-note" id="no-gaps-note" style="display:none;">No gaps identified.</p>
+  </section>
+
+  <p class="disclaimer">This scoring is an internal analytical tool to prioritize staff review, not a legal determination. City Attorney confirmation is required before any code amendment is adopted based on this analysis.</p>
+</main>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const billNumber = params.get('bill');
+
+  const STAGES = ['Introduced', 'Engrossed', 'Enrolled', 'Passed'];
+
+  function bucketStage(actionText) {
+    const t = (actionText || '').toLowerCase();
+    if (t.includes('enrolled')) return 'Enrolled';
+    if (t.includes('engrossed') || t.includes('passed senate') || t.includes('passed house')) return 'Engrossed';
+    if (t.includes('signed') || t.includes('effective') || t.includes('governor')) return 'Passed';
+    if (t.includes('filed') || t.includes('introduced')) return 'Introduced';
+    return null;
+  }
+
+  function renderProgress(bill) {
+    const track = document.getElementById('progress-track');
+    const history = bill.progress || [];
+    const reachedStages = new Set(history.map(h => bucketStage(h.action)).filter(Boolean));
+
+    let highestReachedIdx = -1;
+    STAGES.forEach((s, i) => { if (reachedStages.has(s)) highestReachedIdx = i; });
+
+    track.innerHTML = STAGES.map((stage, i) => {
+      let cls = '';
+      if (bill.lifecycle === 'dead' && i > highestReachedIdx) cls = 'dead-marker';
+      else if (i <= highestReachedIdx || bill.lifecycle === 'passed') cls = 'done';
+      return `<div class="progress-stage ${cls}"><div class="dot"></div><div class="progress-label">${stage}</div></div>`;
+    }).join('');
+
+    const list = document.getElementById('history-list');
+    if (!history.length) {
+      list.innerHTML = '<li class="empty-note">No history available from LegiScan yet.</li>';
+      return;
+    }
+    list.innerHTML = history.slice().reverse().map(h => `
+      <li><span class="history-date">${h.date || ''}</span><span>${h.action || ''}</span></li>
+    `).join('');
+  }
+
+  function severityClass(sev) {
+    return sev ? `sev-${sev}` : '';
+  }
+
+  function renderConflictCard(c) {
+    const zones = c.affected_zones && c.affected_zones.length
+      ? `<div class="affected-zones">Affected zones: ${c.affected_zones.join(', ')}</div>` : '';
+    return `
+      <div class="conflict-card ${severityClass(c.severity)}">
+        <div class="conflict-header">
+          <div class="section-pair">${c.bill_section}<span class="arrow">&rarr;</span>${c.code_section}</div>
+          <div class="conflict-tags">
+            <span class="tag">${c.conflict_type ? c.conflict_type.replace('_', ' ') : ''}</span>
+            <span class="tag">${c.scope || ''}</span>
+            <span class="tag">sev ${c.severity ?? '—'}</span>
+          </div>
+        </div>
+        <div class="required-change"><span class="required-change-label">Required change</span>${c.required_change || '—'}</div>
+        ${zones}
+      </div>`;
+  }
+
+  function renderConflicts(bill) {
+    document.getElementById('stat-severity').textContent = bill.overall_severity ?? '—';
+    document.getElementById('stat-scope').textContent = bill.scope || '—';
+    document.getElementById('stat-conflict-count').textContent = (bill.conflicts || []).length;
+
+    const container = document.getElementById('conflicts-container');
+    const conflicts = bill.conflicts || [];
+    if (!conflicts.length) {
+      document.getElementById('no-conflicts-note').style.display = 'block';
+    } else {
+      container.innerHTML = conflicts
+        .sort((a, b) => (b.severity || 0) - (a.severity || 0))
+        .map(renderConflictCard).join('');
+    }
+
+    const gapsContainer = document.getElementById('gaps-container');
+    const gaps = bill.gaps || [];
+    if (!gaps.length) {
+      document.getElementById('no-gaps-note').style.display = 'block';
+    } else {
+      gapsContainer.innerHTML = gaps.map(renderConflictCard).join('');
+    }
+  }
+
+  async function load() {
+    if (!billNumber) {
+      document.getElementById('bill-title').textContent = 'No bill specified.';
+      return;
+    }
+    try {
+      const res = await fetch(`data/bills/${billNumber}.json`);
+      if (!res.ok) throw new Error('not found');
+      const bill = await res.json();
+
+      document.getElementById('bill-number-eyebrow').textContent = bill.bill_number;
+      document.title = `${bill.bill_number} — El Paso Legislative Watch`;
+      document.getElementById('bill-title').textContent = bill.title || '';
+      const badge = document.getElementById('lifecycle-badge');
+      badge.textContent = bill.lifecycle || 'unknown';
+      badge.className = `lifecycle-badge lifecycle-${bill.lifecycle}`;
+      const link = document.getElementById('legiscan-link');
+      if (bill.legiscan_url) { link.href = bill.legiscan_url; } else { link.style.display = 'none'; }
+
+      renderProgress(bill);
+      renderConflicts(bill);
+    } catch (e) {
+      document.getElementById('bill-title').textContent = `Could not load data/bills/${billNumber}.json`;
+    }
+  }
+
+  load();
+</script>
+
+</body>
+</html>

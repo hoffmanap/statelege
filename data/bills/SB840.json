@@ -1,0 +1,1045 @@
+{
+  "bill_id": 1928006,
+  "bill_number": "SB840",
+  "title": "Relating to certain municipal regulation of certain mixed-use and multifamily residential development projects and conversion of certain commercial buildings to mixed-use and multifamily residential occupancy.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB840/2025",
+  "progress": [
+    {
+      "date": "2025-01-17",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-01-17",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Left pending in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Reported favorably as substituted",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Co-author authorized",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Read 2nd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Amendment(s) offered FA1 Bettencourt",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Amendment(s) offered FA2 Alvarado",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Vote recorded in Journal",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Passed to engrossment as amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Three day rule suspended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Read 3rd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Passed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Reported engrossed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Received from the Senate",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Considered in formal meeting",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Reported favorably as substituted",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Rules suspended",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Additional sponsor(s) authorized",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Read 2nd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Passed to 3rd reading",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Record vote RV#3068",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Read 3rd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amended 1-Hefner",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Passed as amended",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Record vote RV#3127",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-21",
+      "action": "House passage as amended reported",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "House amendment(s) laid before the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Read",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Senate concurs in House amendment(s)",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Reported enrolled",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Senate concurs in House amendment(s)-reported",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Signed in the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Signed in the House",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Sent to the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Signed by the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 1
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Effective on 9/1/25",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review",
+        "traffic_impact",
+        "parking"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.201
+    },
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "20.10.363",
+      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact",
+        "utility_extension"
+      ],
+      "priority": 4,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.507
+    },
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "20.04.320",
+      "code_text_excerpt": "Special permit approvals\n20.04.320\u00a0Special permit approvals.\nA.\tBuilding and occupancy permits shall not be issued to any building or use identified in this title as requiring a special permit until after approval of such special permit by the city council.\nB.\tBuilding and occupancy permits shall not be issued for any building or use identified in this title as requiring an approved detailed site ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.281
+    },
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "19.18.010",
+      "code_text_excerpt": "Purpose and applicability\n19.18.010\u00a0Purpose and applicability.\nA.\tPurposes and findings.\n1.\tNew development must be served and supported by an adequate network of streets and thoroughfares.\n2.\tStreets and thoroughfares are an essential component of the city's street network and are necessary to accommodate the continuing growth and development of the city.\n3.\tIt is necessary and desirable to obtai",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.231
+    },
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "19.02.020",
+      "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact",
+        "utility_extension"
+      ],
+      "priority": 4,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.186
+    },
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "19.18.030",
+      "code_text_excerpt": "Criteria for determining traffic impact analysis requirements\n19.18.030\u00a0Criteria for determining traffic impact analysis requirements.\nScope. The scope of a traffic impact analysis is an analysis of the area surrounding the development that will be impacted by the development to determine the range of area that must be included in the TIA. The scope of the traffic impact analysis shall be based on",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.183
+    },
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "19.18.020",
+      "code_text_excerpt": "Standards for and timing of traffic impact analysis\n19.18.020\u00a0Standards for and timing of traffic impact analysis.\nA.\tTIA and Update Required. A TIA shall be submitted with a zoning application, a preliminary plat or with the land study. If previously submitted, an updated TIA shall also be submitted with the final plat if substantial changes have been made from the preliminary plat, and shall be ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.182
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.206
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "utility_extension"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.179
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "20.06.020",
+      "code_text_excerpt": "Purpose of districts\n20.06.020\u00a0Purpose of districts.\nA.\tResidential Districts.\n1.\tLight Residential Districts. The purpose of these districts is to promote and preserve residential development within the city to create basic neighborhood units. It is intended that the district regulations maintain a low density of dwelling units supporting a suburban-urban interface that permits developments utili",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.177
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.164
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "utility_extension"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.161
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.161
+    },
+    {
+      "bill_section": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED.",
+      "bill_text_excerpt": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED. (a) Notwithstanding any other law and subject to Subsection (c), a municipality shall allow mixed-use residential use and development or multifamily residential use and development in a zoning classification that allows office, commercial, retail, warehouse, or mixed-use use or development as an allowed use under the cla",
+      "bill_numbers_found": [
+        "1,000 feet",
+        "3,000 feet"
+      ],
+      "code_section": "20.10.240",
+      "code_text_excerpt": "Freight and passenger terminals\n20.10.240\u00a0Freight and passenger terminals.\nThe following uses are considered freight and passenger terminals: transportation terminal type A, transportation terminal type B, passenger station, motor-carrier terminal, railyard, auxiliary rail facilities, airport, intermodal facility, heliport, airpad, helistop, interlocking tower, diesel maintenance facility, and rai",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.168
+    },
+    {
+      "bill_section": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED.",
+      "bill_text_excerpt": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED. (a) Notwithstanding any other law and subject to Subsection (c), a municipality shall allow mixed-use residential use and development or multifamily residential use and development in a zoning classification that allows office, commercial, retail, warehouse, or mixed-use use or development as an allowed use under the cla",
+      "bill_numbers_found": [
+        "1,000 feet",
+        "3,000 feet"
+      ],
+      "code_section": "19.26.020",
+      "code_text_excerpt": "Infill development\n19.26.020\u00a0Infill development.\nA.\tIntent and Purpose. The following guidelines are designed to meet the intent and purpose of the infill sections, requirements and references in Title 20, the zoning ordinance to reinvigorate existing communities and neighborhoods and support new compact, single or mixed-use development. This chapter is intended to reduce barriers to infill develo",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.149
+    },
+    {
+      "bill_section": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED.",
+      "bill_text_excerpt": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED. (a) Notwithstanding any other law and subject to Subsection (c), a municipality shall allow mixed-use residential use and development or multifamily residential use and development in a zoning classification that allows office, commercial, retail, warehouse, or mixed-use use or development as an allowed use under the cla",
+      "bill_numbers_found": [
+        "1,000 feet",
+        "3,000 feet"
+      ],
+      "code_section": "20.12.050",
+      "code_text_excerpt": "Supplemental density regulations\n20.12.050\u00a0Supplemental density regulations.\nDensity regulations may be modified in the following instances:\nA.\tLot area per unit requirements shall not apply to dormitories, fraternities, sororities, nursing homes or other similar group quarters where no cooking facilities are provided in individual rooms or apartments;\nB.\tIn any special use permit for a planned re",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.112
+    },
+    {
+      "bill_section": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED.",
+      "bill_text_excerpt": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED. (a) Notwithstanding any other law and subject to Subsection (c), a municipality shall allow mixed-use residential use and development or multifamily residential use and development in a zoning classification that allows office, commercial, retail, warehouse, or mixed-use use or development as an allowed use under the cla",
+      "bill_numbers_found": [
+        "1,000 feet",
+        "3,000 feet"
+      ],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.046
+    },
+    {
+      "bill_section": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED.",
+      "bill_text_excerpt": "Sec. 218.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED. (a) Notwithstanding any other law and subject to Subsection (c), a municipality shall allow mixed-use residential use and development or multifamily residential use and development in a zoning classification that allows office, commercial, retail, warehouse, or mixed-use use or development as an allowed use under the cla",
+      "bill_numbers_found": [
+        "1,000 feet",
+        "3,000 feet"
+      ],
+      "code_section": "19.07.010",
+      "code_text_excerpt": "General requirements for plat revisions\n19.07.010\u00a0General requirements for plat revisions.\nA.\tApplicability and Terminology.\n1.\tThe procedures in this chapter shall apply only if a property owner seeks to change any portion of a plat that has been filed of record with the county including a note or restriction on the face of the plat. If a property owner files an amending plat or a minor plat to m",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "permit_process"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.031
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "20.10.550",
+      "code_text_excerpt": "Restricted residential mixed-use development\n20.10.550\u00a0Restricted residential mixed-use development.\nA.\tPurpose. The purpose of a restricted residential mixed-use development is to create a unique environment for a hub of activity and a focal point for a given area, reflecting the identity of the area by providing a variety of land uses that coexist in a multi-use residential setting. The mix of l",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "height",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.372
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking",
+        "density",
+        "setback"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.319
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking",
+        "density",
+        "setback",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.275
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "Appendix B \u2014 R-MU / Apartments and Mixed Use Residential development",
+      "code_text_excerpt": "R-MU Apartments and Mixed Use Residential development SUBPART A: 1 acre; except that City Council may approve a reduction in the minimum district area for a mixed-use development. SUBPART B: Multi-family: maximum of 145 units per acre SUBPART C: See Development Standards in Section 20.10.360 and 20.10.363 of this title SUBPART D: No maximum",
+      "code_numbers_found": [
+        "1 acre",
+        "145 units per acre"
+      ],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.259
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "Appendix B \u2014 G-MU / Apartments and Mixed Use Residential development",
+      "code_text_excerpt": "G-MU Apartments and Mixed Use Residential development SUBPART A: 3 acres; except that City Council may approve a reduction in the minimum district area for a mixed-use development. SUBPART B: Multi-family: maximum of 145 units per acre SUBPART C: See Development Standards in Section 20.10.360 and 20.10.363 of this title SUBPART D: No Maximum",
+      "code_numbers_found": [
+        "3 acres",
+        "145 units per acre"
+      ],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.258
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking",
+        "density",
+        "setback",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.251
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "20.04.200",
+      "code_text_excerpt": "Master zoning plan\n20.04.200\u00a0Master zoning plan.\nA.\tMaster Zoning Plan (MZP).\n1.\tAs part of any zoning application for a mixed use district, a master zoning plan shall be required and shall accompany the application. The MZP shall provide sufficient details necessary about the proposed land uses and proposed development so that the El Paso City Council may determine their compatibility within the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density",
+        "height",
+        "setback",
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.25
+    },
+    {
+      "bill_section": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT.",
+      "bill_text_excerpt": "Sec. 218.102. REGULATION OF MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USE OR DEVELOPMENT. (a) Notwithstanding any other law, a municipality may not adopt or enforce an ordinance, zoning restriction, or other regulation that: (1) imposes on a mixed-use residential or multifamily residential development: (A) a limit on density that is more restrictive than the greater of: (i) the highest res",
+      "bill_numbers_found": [
+        "36 units per acre",
+        "45 feet",
+        "25 feet"
+      ],
+      "code_section": "20.04.140",
+      "code_text_excerpt": "When required\n20.04.140\u00a0When required.\nExcept as stated herein, a detailed site development plan is required prior to development in a special purpose district or with a special permit application and may be required if a zoning condition exists on a particular piece of property. Detailed site development plans are not required for apartment or mixed-use residential development that meet all minim",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.242
+    },
+    {
+      "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
+      "bill_text_excerpt": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED. Notwithstanding any other law, a municipality may not, in connection with the use, development, construction, or occupancy of a building proposed to be converted to mixed-use residential or multifamily residential use, require: (1) the preparation of a traffic impact analysis or other study relating to the effect the proposed converted building would h",
+      "bill_numbers_found": [],
+      "code_section": "20.14.050",
+      "code_text_excerpt": "Parking requirements and standards\n20.14.050\u00a0Parking requirements and standards.\nA.\tParking. Table of Parking Requirements and Standards, subsection C. of this title establishes the minimum and maximum number of motor vehicle parking spaces unless otherwise stated, and minimum bicycle parking spaces required for the uses indicated. The city manager or designee shall be authorized to interpret and ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "parking"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.192
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "19.11.020",
+      "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.225
+    },
+    {
+      "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
+      "bill_text_excerpt": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES. This chapter does not affect the authority of a municipality to: (1) apply the municipality's regulations on short-term rental units to a mixed-use residential or multifamily residential development; (2) adopt or enforce water quality protection regulations to implement or comply with water quality requirements under state or federal law, in",
+      "bill_numbers_found": [],
+      "code_section": "20.10.557",
+      "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.16
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Effective on 9/1/25",
+  "last_action_date": "2025-06-20",
+  "scoring_method": "rule_based_prescreen"
+}

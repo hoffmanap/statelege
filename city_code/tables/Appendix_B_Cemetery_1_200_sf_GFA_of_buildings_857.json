@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Cemetery",
+  "permitted_use": "1/200 sf GFA of buildings",
+  "standards": {
+    "10.00": "10.03",
+    "Personal Services": "Cemetery",
+    "Automobile & Light Truck": "1/200 sf GFA of buildings",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "One",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

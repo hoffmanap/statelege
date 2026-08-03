@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Sauna, exercise room",
+  "permitted_use": "None",
+  "standards": {
+    "11.00": "11.38",
+    "Recreation Amusement & Entertainment": "Sauna, exercise room",
+    "Automobile & Light Truck": "None",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

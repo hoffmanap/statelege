@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Sports arena/Stadium",
+  "permitted_use": "1/5 seats in main arena",
+  "standards": {
+    "11.00": "11.44",
+    "Recreation Amusement & Entertainment": "Sports arena/Stadium",
+    "Automobile & Light Truck": "1/5 seats in main arena",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/100,000 sf; min 1",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Library",
+  "permitted_use": "1/300 sf GFA",
+  "standards": {
+    "3.00": "3.13",
+    "Educational, Institutional & Social": "Library",
+    "Automobile & Light Truck": "1/300 sf GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "20,000 - 100,000 sf GFA = 1; over 100,000 sf GFA =",
+    "Gravel Screen Parking": "2A, B"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

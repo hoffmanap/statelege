@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Gambling casino",
+  "permitted_use": "1/50 sf of GFA",
+  "standards": {
+    "11.00": "11.18",
+    "Recreation Amusement & Entertainment": "Gambling casino",
+    "Automobile & Light Truck": "1/50 sf of GFA",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/100,000 sf",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

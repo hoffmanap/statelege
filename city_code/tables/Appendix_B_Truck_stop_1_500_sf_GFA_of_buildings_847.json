@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Truck stop",
+  "permitted_use": "1/500 sf GFA of buildings",
+  "standards": {
+    "8.00": "8.25",
+    "Motor Vehicle Sale & Service": "Truck stop",
+    "Automobile & Light Truck": "1/500 sf GFA of buildings",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

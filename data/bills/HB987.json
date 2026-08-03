@@ -1,0 +1,38 @@
+{
+  "bill_id": 1891056,
+  "bill_number": "HB987",
+  "title": "Relating to the time for issuance of a municipal building permit.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB987/2025",
+  "progress": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Referred to Land & Resource Management",
+  "last_action_date": "2025-03-06",
+  "scoring_method": "rule_based_prescreen"
+}

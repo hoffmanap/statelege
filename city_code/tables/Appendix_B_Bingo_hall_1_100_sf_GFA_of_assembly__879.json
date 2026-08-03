@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Bingo hall",
+  "permitted_use": "1/100 sf GFA of assembly area; plus 1/200 sf GFA of other areas",
+  "standards": {
+    "11.00": "11.08",
+    "Recreation Amusement & Entertainment": "Bingo hall",
+    "Automobile & Light Truck": "1/100 sf GFA of assembly area; plus 1/200 sf GFA of other areas",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,216 @@
+{
+  "bill_id": 1992864,
+  "bill_number": "SB1954",
+  "title": "Relating to the authority of a county to regulate land use in certain areas in and around hydrologically sensitive areas.",
+  "lifecycle": "dead",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1954/2025",
+  "progress": [
+    {
+      "date": "2025-03-05",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Water, Agriculture, & Rural Affairs",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "20.04.150",
+      "code_text_excerpt": "Procedure\n20.04.150\u00a0Procedure.\nA.\tAn application for detailed site development plan shall be prepared in accordance with the specifications outlined in Section 20.04.160, except where the development is for apartments, or mixed-use residential development that meet all minimum requirements set forth in Chapter 20.12 (Density and Dimensional Standards) and Section 20.10.363, a detailed site develop",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review",
+        "density"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.183
+    },
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.164
+    },
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review",
+        "density"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.15
+    },
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "20.06.075",
+      "code_text_excerpt": "Annexation procedures\n20.06.075\u00a0Annexation procedures.\nA.\tAnnexation of property shall follow the procedures stated in Chapter 43 of the Local Government Code.\n1.\tApplication. The owner(s) of a tract of land, or the owner's agent if authorized in writing, who desires that the tract be annexed into the corporate limits of the city, shall submit an annexation application, using the application form ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.171
+    },
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.162
+    },
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "19.02.070",
+      "code_text_excerpt": "Revisions following approval of a land study\n19.02.070\u00a0Revisions following approval of a land study.\nA.\tMinor changes. The city manager or designee may deem a revision to be minor and may authorize the amendment administratively. An amendment shall be considered minor if the city manager or designee determines that it does not alter any of the following by more than ten percent: the arrangement of",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.138
+    },
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "19.02.020",
+      "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.137
+    },
+    {
+      "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
+      "bill_text_excerpt": "Sec. 231.306. AUTHORITY TO REGULATE. (a) The commissioners court of a county by order may: (1) designate one or more geographic areas in the county as a protected area under Section 231.302; and (2) adopt regulations authorized by this subchapter that apply only to an area designated by the commissioners court as a protected area. (b) A commissioners court may regulate: (1) the height, number of s",
+      "bill_numbers_found": [
+        "200 feet",
+        "300 feet",
+        "500 feet",
+        "500 feet"
+      ],
+      "code_section": "20.04.200",
+      "code_text_excerpt": "Master zoning plan\n20.04.200\u00a0Master zoning plan.\nA.\tMaster Zoning Plan (MZP).\n1.\tAs part of any zoning application for a mixed use district, a master zoning plan shall be required and shall accompany the application. The MZP shall provide sufficient details necessary about the proposed land uses and proposed development so that the El Paso City Council may determine their compatibility within the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "density"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.132
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Referred to Water, Agriculture, & Rural Affairs",
+  "last_action_date": "2025-03-17",
+  "scoring_method": "rule_based_prescreen"
+}

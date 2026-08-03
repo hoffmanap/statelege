@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-1",
+  "permitted_use": "Single-family attached dwellings (Atrium, Patio, and Townhomes)",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Minimum lot area of 2,400 sf per unit; open space minimum of 50% for interior lots and 40% for corner lots",
+    "SUBPART C": "20% of required front yard shall be landscaped; this area may be included in meeting landscape requirements of Title 18",
+    "SUBPART D": "35"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Duplex (two-family dwelling)",
+  "permitted_use": "2/dwelling unit",
+  "standards": {
+    "13.00": "13.09",
+    "Residential": "Duplex (two-family dwelling)",
+    "Automobile & Light Truck": "2/dwelling unit",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2H"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

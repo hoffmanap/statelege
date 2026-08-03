@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Automotive service station",
+  "permitted_use": "1/200 sf GFA",
+  "standards": {
+    "8.00": "8.06",
+    "Motor Vehicle Sale & Service": "Automotive service station",
+    "Automobile & Light Truck": "1/200 sf GFA",
+    "Bicycle": "3 SPACES",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2C"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

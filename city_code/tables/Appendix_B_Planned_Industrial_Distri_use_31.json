@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Planned Industrial District",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"P-I\"",
+    "Ranch and Farm District": "Planned Industrial District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Movie theatre, drive-in (outdoor)",
+  "permitted_use": "1.0/speaker station",
+  "standards": {
+    "11.00": "11.27",
+    "Recreation Amusement & Entertainment": "Movie theatre, drive-in (outdoor)",
+    "Automobile & Light Truck": "1.0/speaker station",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "None",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

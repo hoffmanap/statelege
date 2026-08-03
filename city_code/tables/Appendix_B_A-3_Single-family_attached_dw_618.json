@@ -1,0 +1,13 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "A-3",
+  "permitted_use": "Single-family attached dwellings (Atrium, Patio, and Townhomes)",
+  "standards": {
+    "SUBPART A": "No minimum",
+    "SUBPART B": "Minimum lot area of 750 sf per unit; except for buildings of two stories or more in height, minimum lot area of 500 sf per unit is required; minimum open space of 30% of interior lots and 30% of corner lots",
+    "SUBPART C": "N/A",
+    "SUBPART D": "35; buildings may exceed thirty-five (35) feet if an additional setback of two (2) feet for each one (1) foot of height in excess of thirty-five (35) feet is provided"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

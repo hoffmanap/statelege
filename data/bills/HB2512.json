@@ -1,0 +1,669 @@
+{
+  "bill_id": 1957901,
+  "bill_number": "HB2512",
+  "title": "Relating to the release of certain areas from a municipality's extraterritorial jurisdiction by petition or election.",
+  "lifecycle": "passed",
+  "legiscan_status": "4",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2512/2025",
+  "progress": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Land & Resource Management",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Considered in public hearing",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Left pending in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Considered in formal meeting",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Reported favorably as substituted",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Committee report distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Considered in Calendars",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Placed on General State Calendar",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read 2nd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Amended 1-Geren",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Passed to engrossment as amended",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Record vote RV#2709",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Read 3rd time",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Passed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Record vote RV#2830",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Reported engrossed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Received from the House",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Read first time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Referred to Local Government",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Testimony taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Left pending in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Considered in public hearing",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Vote taken in committee",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Reported favorably w/o amendments",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Committee report printed and distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Corrected comm. report printed & distributed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Placed on intent calendar",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read 2nd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amendment(s) offered FA1 King",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Vote recorded in Journal",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amendment(s) offered FA2 Schwertner",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amendment withdrawn",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amendment(s) offered FA3 Bettencourt",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Vote recorded in Journal",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Passed to 3rd reading as amended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Three day rule suspended",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read 3rd time",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Passed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Record vote",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Senate passage as amended reported",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Senate Amendments distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Senate Amendments Analysis distributed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "House concurs in Senate amendment(s)",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Record vote RV#4044",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Text of Senate Amendment(s)",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-29",
+      "action": "House concurs in Senate amendment(s)-reported",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Reported enrolled",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    },
+    {
+      "date": "2025-05-31",
+      "action": "Signed in the House",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-01",
+      "action": "Signed in the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-01",
+      "action": "Sent to the Governor",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Filed without the Governor's signature",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 1
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Effective on 9/1/25",
+      "chamber": "",
+      "chamber_id": 0,
+      "importance": 0
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.107
+    },
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.093
+    },
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.082
+    },
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    },
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    },
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "19.24.010",
+      "code_text_excerpt": "Applicability\n19.24.010\u00a0Applicability.\nA.\tGeneral Provisions. A filed subdivision application, or any portion thereof, which incorporates land located within the mountain development area as described in Appendix 111 shall be subject to the regulations contained within this title except as modified by this chapter. To the extent that there is any conflict between any of the standards provided else",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    },
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "20.10.140",
+      "code_text_excerpt": "Child care facilities\n20.10.140\u00a0Child care facilities.\nA.\tHome occupation - child care facilities shall comply with the following:\n1.\tA license shall be maintained at all times as required by law or ordinance;\n2.\tThe home child care facility shall be clearly incidental and secondary to the principal use of the property;\n3.\tA caregiver shall be required;\n4.\tThe front, side and side street yards sha",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.076
+    },
+    {
+      "bill_section": "Sec. 42.151. APPLICABILITY.",
+      "bill_text_excerpt": "Sec. 42.151. APPLICABILITY. This subchapter does not apply to an area located: (1) within five miles of the boundary of a military base, as defined by Section 43.0117, at which an active training program is conducted; (2) in an area that was voluntarily annexed into the extraterritorial jurisdiction that is located in a county: (A) in which the population grew by more than 50 percent from the prev",
+      "bill_numbers_found": [
+        "50 percent",
+        "12 acres"
+      ],
+      "code_section": "20.10.610",
+      "code_text_excerpt": "Self-storage warehousing\n20.10.610\u00a0Self-storage warehousing.\nIn A-1, A-2 and A-3 (Apartment), A-M (Apartment-Manufactured home), A-O (Apartment/Office), A/3-0 (Apartment/Office High Density), RMU (Residential Mixed Use), GMU (General Mixed Use), C-1 and C-2 (Commercial) Districts the following conditions apply:\nA.\tA minimum site area of two acres shall be required, unless adjacent to and abutting ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.076
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Effective on 9/1/25",
+  "last_action_date": "2025-06-20",
+  "scoring_method": "rule_based_prescreen"
+}

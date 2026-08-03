@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Theatre, performing",
+  "permitted_use": "1/4 seats or 1/100 sf of floor area",
+  "standards": {
+    "11.00": "11.48",
+    "Recreation Amusement & Entertainment": "Theatre, performing",
+    "Automobile & Light Truck": "1/4 seats or 1/100 sf of floor area",
+    "Bicycle": "NOTE 3",
+    "Heavy Truck Trailer": "1/100,000 sf; min 2",
+    "Gravel Screen Parking": "2D"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

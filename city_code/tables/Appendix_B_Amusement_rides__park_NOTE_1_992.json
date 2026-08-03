@@ -1,0 +1,15 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Amusement rides, park",
+  "permitted_use": "NOTE 1",
+  "standards": {
+    "16.00": "16.01",
+    "Temporary Uses": "Amusement rides, park",
+    "Automobile & Light Truck": "NOTE 1",
+    "Bicycle": "None",
+    "Heavy Truck Trailer": "1/100,000 sf of gross outdoor & indoor rec. areas",
+    "Gravel Screen Parking": "2E"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

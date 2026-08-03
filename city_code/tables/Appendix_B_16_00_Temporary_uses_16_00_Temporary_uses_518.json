@@ -1,0 +1,16 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "16.00 Temporary uses",
+  "permitted_use": "16.00 Temporary uses",
+  "standards": {
+    "Use": "16.00 Temporary uses",
+    "Residential": "16.00 Temporary uses",
+    "Commercial": "16.00 Temporary uses",
+    "Manufacturing": "16.00 Temporary uses",
+    "Special Purpose": "16.00 Temporary uses",
+    "Supplemental \nStandards": "16.00 Temporary uses",
+    "Accessory \nUses \nPermitted to \nSpecific Use": "16.00 Temporary uses"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}

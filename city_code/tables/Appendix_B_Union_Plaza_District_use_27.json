@@ -1,0 +1,11 @@
+{
+  "table": "Appendix B",
+  "title_num": 20,
+  "zoning_district": "Union Plaza District",
+  "permitted_use": "",
+  "standards": {
+    "\"R-F\"": "\"U-P\"",
+    "Ranch and Farm District": "Union Plaza District"
+  },
+  "source_doc": "Title_20___ZONING.docx"
+}
