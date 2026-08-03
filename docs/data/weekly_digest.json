@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 {
-  "generated_at": "2026-08-03T22:38:17.740052+00:00",
+  "generated_at": "2026-08-03T22:53:24.372220+00:00",
   "total_bills_tracked": 357,
   "lifecycle_counts": {
     "active": 0,
@@ -93,17 +92,4 @@
     "SB854",
     "SB867"
   ]
-=======
-{
-  "generated_at": "2026-08-03T19:31:18.855264+00:00",
-  "total_bills_tracked": 0,
-  "lifecycle_counts": {
-    "active": 0,
-    "passed": 0,
-    "dead": 0
-  },
-  "flagged_count": 0,
-  "high_priority_count": 0,
-  "high_priority_bill_numbers": []
->>>>>>> d8a194d9072ae91fc4fadb82f185884d139e0e30
 }
