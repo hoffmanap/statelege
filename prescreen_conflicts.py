@@ -36,12 +36,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 DB_PATH = Path(__file__).parent / "bill_tracker.db"
-CODE_DIR = Path(__file__).parent / "city_code"
-DATA_DIR = Path(__file__).parent / "data"
+CODE_DIR = Path(__file__).parent / "docs" / "city_code"
+DATA_DIR = Path(__file__).parent / "docs" / "data"
 BILLS_OUT = DATA_DIR / "bills"
 BILLS_OUT.mkdir(parents=True, exist_ok=True)
 
-TOP_K_CANDIDATES = 4
+TOP_K_CANDIDATES = 8  # per category-filtered pool, not the whole corpus — see top_candidates()
 
 BILL_SECTION_RE = re.compile(r"(Sec\.\s+\d+[A-Za-z]?\.\d+\.\s+[A-Z][A-Z \-,']+\.)")
 
@@ -56,8 +56,17 @@ CATEGORIES = {
         "weight": 5,
     },
     "design_review": {
+        # "window" and "exterior" alone were removed — as bare words they
+        # matched incidental mentions in completely unrelated bills (e.g. a
+        # codification bill got flagged priority-5 here on nothing more
+        # than the word "exterior" appearing somewhere in its text). Kept
+        # only phrases specific enough to actually indicate an architectural
+        # design-matching requirement, the kind SB673/SB840 showed us
+        # matters most.
         "keywords": ["design requirement", "architectural", "resemble the principal",
-                     "exterior", "roof pitch", "siding", "window", "trim style", "wall articulation"],
+                     "roof pitch", "siding", "window type", "window trim",
+                     "trim style", "wall articulation", "exterior of the building",
+                     "exterior finish"],
         "weight": 5,
     },
     "traffic_impact": {
@@ -158,11 +167,31 @@ def build_index(records):
     return vectorizer, matrix
 
 
-def top_candidates(provision_text, vectorizer, matrix, records, k=TOP_K_CANDIDATES):
+def top_candidates(provision_text, bill_cats, vectorizer, matrix, records, k=TOP_K_CANDIDATES):
+    """
+    Retrieval was previously ranking the ENTIRE corpus by raw TF-IDF
+    similarity first, then taking the top K — meaning a genuinely relevant
+    code section (e.g. 20.10.035 for an ADU bill) could get cut simply
+    because its wording didn't overlap enough with the bill's phrasing,
+    even though both cover the same regulatory category. Fixed by
+    filtering to category-matching records FIRST, then ranking only that
+    subset by similarity. If a provision matched no category at all,
+    there's nothing to check it against — return no candidates rather
+    than forcing an irrelevant top-K.
+    """
+    if not bill_cats:
+        return []
+
+    eligible_idx = [i for i, r in enumerate(records) if set(r["categories"]) & set(bill_cats)]
+    if not eligible_idx:
+        return []
+
     query_vec = vectorizer.transform([provision_text])
     scores = cosine_similarity(query_vec, matrix).flatten()
-    top_idx = scores.argsort()[::-1][:k]
-    return [(records[i], float(scores[i])) for i in top_idx if scores[i] > 0]
+
+    eligible_idx.sort(key=lambda i: scores[i], reverse=True)
+    top_idx = eligible_idx[:k]
+    return [(records[i], float(scores[i])) for i in top_idx]
 
 
 # ---------- Bill splitting ----------
@@ -232,7 +261,8 @@ def score_bill(bill_meta, bill_text, vectorizer, matrix, records):
     flags = []
 
     for provision in provisions:
-        candidates = top_candidates(provision["text"], vectorizer, matrix, records)
+        bill_cats = detect_categories(provision["text"])
+        candidates = top_candidates(provision["text"], bill_cats, vectorizer, matrix, records)
         for code_record, sim_score in candidates:
             flag = flag_pair(provision, code_record)
             if flag:
@@ -285,11 +315,13 @@ def find_bill_text_path(conn, bill_id):
 def extract_plain_text(path):
     """
     LegiScan serves bill text as PDF for most versions, occasionally HTML.
-    Both need real extraction, not a raw byte read. (An earlier version of
-    this function read PDFs with path.read_text(), which treats binary PDF
-    bytes as text and produces garbage — this was silently causing zero
-    flags on bills that genuinely had conflicts, like SB673, since no
-    section header or keyword could ever match noise.)
+    Both need real extraction, not a raw byte read. (Two bugs were fixed
+    here after tracing SB673's zero-flag result: (1) PDFs were being read
+    as raw text instead of properly extracted, and (2) HTML entities like
+    &#xA0; were being left as literal text instead of decoded, which broke
+    the section-header regex match even after tags were stripped — the
+    literal characters "&#xA0;" sitting between "Sec." and the section
+    number meant the pattern never lined up.)
     """
     path = Path(path)
 
@@ -305,7 +337,9 @@ def extract_plain_text(path):
 
     raw = path.read_text(errors="ignore")
     if path.suffix == ".html":
-        text = re.sub(r"<[^>]+>", " ", raw)
+        import html
+        text = re.sub(r"<[^>]+>", " ", raw)   # strip tags
+        text = html.unescape(text)            # decode &#xA0;, &nbsp;, &amp;, etc.
         return re.sub(r"\s+", " ", text)
     return raw
 
