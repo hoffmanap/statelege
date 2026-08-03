@@ -202,7 +202,7 @@ def write_bill_base_json(bill_number, bill_id, title, lifecycle, status, history
     than overwriting, so run order (ingest then score) matters but neither
     script clobbers the other's fields.
     """
-    out_dir = Path(__file__).parent / "data" / "bills"
+    out_dir = Path(__file__).parent / "docs" / "data" / "bills"
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{bill_number}.json"
 
@@ -350,7 +350,7 @@ def export_manifest(conn):
     the downstream scoring script, which should update the same file's
     entries rather than overwrite this manifest wholesale.
     """
-    out_dir = Path(__file__).parent / "data"
+    out_dir = Path(__file__).parent / "docs" / "data"
     out_dir.mkdir(exist_ok=True)
 
     rows = conn.execute("""
