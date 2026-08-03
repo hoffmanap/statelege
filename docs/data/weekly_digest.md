@@ -1,5 +1,5 @@
 # Legislative Watch — Weekly Digest
-_Generated 2026-08-03T19:00:04.321902+00:00_
+_Generated 2026-08-03T19:31:18.855264+00:00_
 
 **0 bills tracked** — 0 active, 0 passed, 0 dead
 
