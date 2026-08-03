@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El Paso Legislative Watch — 90th Texas Legislature</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F7F3EA;
+    --ink: #1F1B16;
+    --ink-soft: #58524A;
+    --rule: #D8D0C0;
+    --mark-1: #E8C468;   /* highlighter accent — severity low */
+    --mark-3: #D98E4A;   /* severity mid */
+    --mark-5: #B5432D;   /* severity high */
+    --dead: #9A9284;
+    --passed: #4C6B54;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  header {
+    padding: 3rem 2rem 2rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .eyebrow {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-bottom: 0.75rem;
+  }
+
+  h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 500;
+    font-size: clamp(2rem, 4vw, 3rem);
+    margin: 0 0 0.5rem;
+    letter-spacing: -0.01em;
+  }
+
+  .subhead {
+    color: var(--ink-soft);
+    max-width: 640px;
+    font-size: 0.95rem;
+  }
+
+  .status-line {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    margin-top: 1.25rem;
+  }
+
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .tab {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 0.45rem 0.9rem;
+    border: 1px solid var(--rule);
+    background: transparent;
+    color: var(--ink-soft);
+    cursor: pointer;
+    border-radius: 2px;
+  }
+
+  .tab.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  .spacer { flex: 1; }
+
+  select, input[type="text"] {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.78rem;
+    padding: 0.45rem 0.7rem;
+    border: 1px solid var(--rule);
+    background: var(--paper);
+    color: var(--ink);
+    border-radius: 2px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  thead th {
+    text-align: left;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    padding: 0.6rem 0.8rem;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  tbody tr {
+    border-bottom: 1px solid var(--rule);
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+
+  tbody tr:hover {
+    background: rgba(31,27,22,0.04);
+  }
+
+  td {
+    padding: 0.85rem 0.8rem;
+    vertical-align: top;
+  }
+
+  .bill-number {
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  .bill-title {
+    max-width: 380px;
+  }
+
+  .lifecycle-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.5rem;
+    border-radius: 2px;
+    display: inline-block;
+  }
+
+  .lifecycle-active { background: rgba(76,107,84,0.12); color: var(--passed); }
+  .lifecycle-passed { background: rgba(217,142,74,0.15); color: var(--mark-3); }
+  .lifecycle-dead { background: rgba(154,146,132,0.18); color: var(--dead); }
+
+  .severity {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.8rem;
+  }
+
+  .severity-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .sev-1, .sev-2 { background: var(--mark-1); }
+  .sev-3 { background: var(--mark-3); }
+  .sev-4, .sev-5 { background: var(--mark-5); }
+  .sev-none { background: var(--rule); }
+
+  .scope-tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--ink-soft);
+  }
+
+  .empty-state {
+    padding: 3rem 1rem;
+    text-align: center;
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.85rem;
+  }
+
+  footer {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-top: 1px solid var(--rule);
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+  }
+
+  a { color: inherit; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">City of El Paso — Development Services</div>
+  <h1>Legislative Watch</h1>
+  <p class="subhead">Bills before the 90th Texas Legislature touching housing, zoning, subdivision, and building code — scored against Titles 18, 19, 20 &amp; 21 of the City Code.</p>
+  <div class="status-line" id="last-updated">Last updated —</div>
+</header>
+
+<main>
+  <div class="controls">
+    <button class="tab active" data-filter="all">All</button>
+    <button class="tab" data-filter="active">Active</button>
+    <button class="tab" data-filter="passed">Passed</button>
+    <button class="tab" data-filter="dead">Dead</button>
+    <div class="spacer"></div>
+    <input type="text" id="search" placeholder="Search bill number or title…">
+    <select id="sort">
+      <option value="severity_desc">Severity: high to low</option>
+      <option value="severity_asc">Severity: low to high</option>
+      <option value="date_desc">Most recent action</option>
+    </select>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Bill</th>
+        <th>Title</th>
+        <th>Status</th>
+        <th>Severity</th>
+        <th>Scope</th>
+        <th>Last action</th>
+      </tr>
+    </thead>
+    <tbody id="bill-rows"></tbody>
+  </table>
+
+  <div class="empty-state" id="empty-state" style="display:none;">No bills match this filter yet.</div>
+</main>
+
+<footer>
+  Data via LegiScan API · Conflict scoring is an internal analytical tool, not a legal determination · City Attorney review required before any code amendment
+</footer>
+
+<script>
+  const state = { filter: 'all', search: '', sort: 'severity_desc', bills: [] };
+
+  async function loadData() {
+    try {
+      const [manifestRes, updatedRes] = await Promise.all([
+        fetch('data/manifest.json'),
+        fetch('data/last_updated.json')
+      ]);
+      state.bills = await manifestRes.json();
+      const updated = await updatedRes.json();
+      document.getElementById('last-updated').textContent =
+        'Last updated ' + new Date(updated.updated_at).toLocaleString();
+    } catch (e) {
+      document.getElementById('last-updated').textContent = 'Could not load data/manifest.json';
+    }
+    render();
+  }
+
+  function severityClass(sev) {
+    if (sev === null || sev === undefined) return 'sev-none';
+    return 'sev-' + sev;
+  }
+
+  function render() {
+    let rows = state.bills.filter(b => {
+      if (state.filter !== 'all' && b.lifecycle !== state.filter) return false;
+      if (state.search) {
+        const q = state.search.toLowerCase();
+        return b.bill_number.toLowerCase().includes(q) || b.title.toLowerCase().includes(q);
+      }
+      return true;
+    });
+
+    rows.sort((a, b) => {
+      if (state.sort === 'severity_desc') return (b.overall_severity ?? -1) - (a.overall_severity ?? -1);
+      if (state.sort === 'severity_asc') return (a.overall_severity ?? 99) - (b.overall_severity ?? 99);
+      if (state.sort === 'date_desc') return (b.last_action_date || '').localeCompare(a.last_action_date || '');
+      return 0;
+    });
+
+    const tbody = document.getElementById('bill-rows');
+    tbody.innerHTML = '';
+    document.getElementById('empty-state').style.display = rows.length ? 'none' : 'block';
+
+    rows.forEach(b => {
+      const tr = document.createElement('tr');
+      tr.onclick = () => window.location.href = `bill.html?bill=${encodeURIComponent(b.bill_number)}`;
+      tr.innerHTML = `
+        <td class="bill-number">${b.bill_number}</td>
+        <td class="bill-title">${b.title}</td>
+        <td><span class="lifecycle-badge lifecycle-${b.lifecycle}">${b.lifecycle || 'unknown'}</span></td>
+        <td><span class="severity"><span class="severity-dot ${severityClass(b.overall_severity)}"></span>${b.overall_severity ?? '—'}</span></td>
+        <td class="scope-tag">${b.scope || '—'}</td>
+        <td class="scope-tag">${b.last_action_date || '—'}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+  }
+
+  document.querySelectorAll('.tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      state.filter = tab.dataset.filter;
+      render();
+    });
+  });
+
+  document.getElementById('search').addEventListener('input', e => {
+    state.search = e.target.value;
+    render();
+  });
+
+  document.getElementById('sort').addEventListener('change', e => {
+    state.sort = e.target.value;
+    render();
+  });
+
+  loadData();
+</script>
+
+</body>
+</html>
