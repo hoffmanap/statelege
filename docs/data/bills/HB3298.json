@@ -22,8 +22,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.162
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.162,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -38,8 +44,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.158
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.158,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -54,8 +66,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.157
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.157,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -70,8 +88,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.125
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.125,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -86,8 +110,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.122
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.122,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -102,8 +132,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.115
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.115,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -118,8 +154,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.108
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.108,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -134,10 +176,17 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.092
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.092,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

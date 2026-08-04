@@ -7,7 +7,7 @@
   "last_action": "Effective on 9/1/25",
   "last_action_date": "2025-06-20",
   "overall_severity": 5,
-  "scope": "needs_manual_review",
+  "scope": "zone_dependent",
   "conflicts": [
     {
       "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
@@ -24,8 +24,16 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.201
+      "conflict_type": "likely_conflict",
+      "retrieval_similarity": 0.201,
+      "severity": 2,
+      "scope": "zone_dependent",
+      "confidence": "low",
+      "required_change": "Exempt qualifying mixed-use/multifamily conversion projects from the open space, recreation, and design standards imposed under 20.10.360 for Special Development zoning.",
+      "affected_zones": [
+        "S-D"
+      ],
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
@@ -41,8 +49,14 @@
       "priority": 4,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.507
+      "conflict_type": "likely_conflict",
+      "retrieval_similarity": 0.507,
+      "severity": 3,
+      "scope": "uniform",
+      "confidence": "medium",
+      "required_change": "Revise the mixed-use residential/apartment development criteria in 20.10.363 so that qualifying commercial-to-residential conversions are not subject to additional local approval criteria beyond what state law permits.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
@@ -57,8 +71,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.281
+      "conflict_type": "likely_conflict",
+      "retrieval_similarity": 0.281,
+      "severity": 2,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "Clarify that conversion projects covered by the bill are not required to obtain a special permit approval prior to issuance of building or occupancy permits if such approval constitutes a prohibited study or condition.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
@@ -73,8 +93,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.231
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.231,
+      "severity": 4,
+      "scope": "uniform",
+      "confidence": "high",
+      "required_change": "Amend 19.18.010 to exempt building conversions to mixed-use or multifamily residential use from the municipality's traffic impact analysis policy and applicability findings.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
@@ -90,8 +116,14 @@
       "priority": 4,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.186
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.186,
+      "severity": 1,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "Clarify land study application procedures in 19.02.020 to exclude traffic-study-related submittal requirements for covered conversion projects.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
@@ -106,8 +138,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.183
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.183,
+      "severity": 4,
+      "scope": "uniform",
+      "confidence": "high",
+      "required_change": "Amend 19.18.030 to exclude qualifying mixed-use/multifamily conversion projects from the criteria used to determine TIA scope and requirement.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.203. CERTAIN REGULATIONS PROHIBITED.",
@@ -122,8 +160,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.182
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.182,
+      "severity": 5,
+      "scope": "uniform",
+      "confidence": "high",
+      "required_change": "Amend 19.18.020 to remove the mandatory TIA submission requirement for zoning applications, preliminary plats, and final plats when the application involves a covered mixed-use or multifamily residential conversion.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.003. NO EFFECT ON OTHER RESTRICTIONS AND RULES.",
@@ -548,5 +592,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

@@ -7,7 +7,7 @@
   "last_action": "Referred to Land & Resource Management",
   "last_action_date": "2025-03-06",
   "overall_severity": 5,
-  "scope": "needs_manual_review",
+  "scope": "uniform",
   "conflicts": [
     {
       "bill_section": "Sec. 211.055. SMALL LOTS.",
@@ -27,8 +27,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.215
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.215,
+      "severity": 5,
+      "scope": "uniform",
+      "confidence": "medium",
+      "required_change": "Amend Title 20/19.23.040 small lot standards to cap setbacks at 5 feet front/side/rear, remove covered parking and off-site parking requirements, and limit parking to one space per unit for small lots as defined by the bill.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.",
@@ -52,8 +58,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.301
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.301,
+      "severity": 5,
+      "scope": "uniform",
+      "confidence": "high",
+      "required_change": "Remove the owner-occupancy requirement for accessory dwelling units in Section 20.10.035, as the bill prohibits municipalities from restricting ADU construction/use based on owner occupancy or build order relative to the primary unit.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 211.051. DEFINITION.",
@@ -1887,5 +1899,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

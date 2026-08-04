@@ -24,8 +24,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.221
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.221,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.308. ZONING COMMISSION.",
@@ -42,8 +48,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.152
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.152,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.308. ZONING COMMISSION.",
@@ -60,8 +72,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.142
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.142,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.308. ZONING COMMISSION.",
@@ -78,8 +96,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.128
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.128,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.308. ZONING COMMISSION.",
@@ -96,8 +120,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.119
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.119,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.308. ZONING COMMISSION.",
@@ -114,8 +144,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.11
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.11,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.308. ZONING COMMISSION.",
@@ -132,8 +168,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.108
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.108,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.308. ZONING COMMISSION.",
@@ -150,8 +192,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.104
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.104,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -166,8 +214,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.094
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.094,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -182,8 +236,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.077
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.077,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -198,8 +258,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.072
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.072,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -214,8 +280,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.072
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.072,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -230,8 +302,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.069
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.069,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -246,8 +324,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.067
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.067,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -262,8 +346,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.067
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.067,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.309. BOARD OF ADJUSTMENT.",
@@ -280,8 +370,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.063
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.063,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.303. ZONING REGULATIONS GENERALLY.",
@@ -674,5 +770,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

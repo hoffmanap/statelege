@@ -6,8 +6,8 @@
   "legiscan_status": "1",
   "last_action": "Placed on General State Calendar",
   "last_action_date": "2025-05-15",
-  "overall_severity": 5,
-  "scope": "needs_manual_review",
+  "overall_severity": 4,
+  "scope": "zone_dependent",
   "conflicts": [
     {
       "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
@@ -29,8 +29,16 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.263
+      "conflict_type": "likely_conflict",
+      "retrieval_similarity": 0.263,
+      "severity": 3,
+      "scope": "zone_dependent",
+      "confidence": "medium",
+      "required_change": "Remove or exempt office-to-mixed-use/multifamily conversions from open space and recreation area design standards imposed under Special Development (S-D) mixed-use regulations, since state law bars municipalities from imposing such additional development conditions on qualifying conversions.",
+      "affected_zones": [
+        "S-D"
+      ],
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
@@ -52,8 +60,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.225
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.225,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
@@ -72,8 +86,16 @@
       "priority": 4,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.506
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.506,
+      "severity": 4,
+      "scope": "zone_dependent",
+      "confidence": "medium",
+      "required_change": "Amend the mixed-use residential/apartment development criteria to exempt qualifying office building conversions from base zoning/use requirements (e.g., parking, unit size, open space) that the state law prohibits municipalities from imposing on such conversions.",
+      "affected_zones": [
+        "Mixed-Use"
+      ],
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
@@ -91,8 +113,14 @@
       "priority": 4,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.295
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.295,
+      "severity": 4,
+      "scope": "uniform",
+      "confidence": "medium",
+      "required_change": "Eliminate the requirement for city council approval of a special permit (or equivalent discretionary approval) as a precondition for issuing building or occupancy permits for qualifying office-to-residential conversions, since state law bars municipalities from imposing such additional approval processes.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.",
@@ -257,5 +285,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

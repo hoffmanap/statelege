@@ -25,8 +25,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.029
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.029,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 2306.704. USE OF FUND.",
@@ -44,8 +50,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.016
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.016,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 2306.704. USE OF FUND.",
@@ -63,10 +75,17 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.015
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.015,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

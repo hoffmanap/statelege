@@ -6,8 +6,8 @@
   "legiscan_status": "1",
   "last_action": "Referred to Land & Resource Management",
   "last_action_date": "2025-03-21",
-  "overall_severity": 5,
-  "scope": "needs_manual_review",
+  "overall_severity": 4,
+  "scope": "uniform",
   "conflicts": [
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -22,8 +22,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.086
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.086,
+      "severity": 1,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "City code does not address the new state private right of action for permit denials/delays on mixed-use residential projects; city would need to add procedures ensuring compliance with Sections 249.101/249.102 to avoid liability under this section.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -38,8 +44,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.062
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.062,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -56,8 +68,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.053
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.053,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -72,8 +90,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.053
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.053,
+      "severity": 1,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "City code's planned residential development special permit process is not aligned with the new state civil action remedy for delays/denials affecting mixed-use or multifamily projects; city should review approval timelines and criteria to limit litigation exposure.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -88,8 +112,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.052
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.052,
+      "severity": 1,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "City's special permit criteria for planned residential developments should be reviewed to ensure compliance with the new state civil action provisions protecting multifamily/mixed-use applicants.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -104,8 +134,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.051
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.051,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -120,8 +156,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.046
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.046,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 249.301. CIVIL ACTION.",
@@ -136,8 +178,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.044
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.044,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -153,8 +201,14 @@
       "priority": 4,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.517
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.517,
+      "severity": 2,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "Clarify that mixed-use/multifamily conversion projects are exempt from any traffic study or additional development review criteria imposed under this section.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -169,8 +223,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.258
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.258,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -185,8 +245,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.254
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.254,
+      "severity": 4,
+      "scope": "uniform",
+      "confidence": "high",
+      "required_change": "Add an exemption to the traffic impact analysis chapter's purpose/applicability section for buildings being converted to mixed-use or multifamily residential use.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -201,8 +267,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.231
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.231,
+      "severity": 4,
+      "scope": "uniform",
+      "confidence": "high",
+      "required_change": "Exempt conversion projects to mixed-use/multifamily residential from the criteria used to determine TIA requirements.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -217,8 +289,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.21
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.21,
+      "severity": 4,
+      "scope": "uniform",
+      "confidence": "high",
+      "required_change": "Remove or waive the TIA submission/timing requirement for building conversion projects to mixed-use or multifamily residential use.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -233,8 +311,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.202
+      "conflict_type": "likely_conflict",
+      "retrieval_similarity": 0.202,
+      "severity": 3,
+      "scope": "uniform",
+      "confidence": "medium",
+      "required_change": "Clarify that street/thoroughfare adequacy determinations for conversion projects may not be based on a required traffic impact study or analysis.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -250,8 +334,14 @@
       "priority": 4,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.198
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.198,
+      "severity": 2,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "Specify that the land study application process does not apply to, or is waived for, mixed-use/multifamily conversion projects to the extent it requires traffic-related studies.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.205. CERTAIN REGULATIONS PROHIBITED.",
@@ -266,8 +356,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.185
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.185,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 249.101. MIXED-USE RESIDENTIAL AND MULTIFAMILY RESIDENTIAL USES ALLOWED.",
@@ -531,5 +627,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

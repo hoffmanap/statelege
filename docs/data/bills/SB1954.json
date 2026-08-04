@@ -28,8 +28,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.183
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.183,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
@@ -49,8 +55,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.164
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.164,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
@@ -71,8 +83,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.15
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.15,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 231.306. AUTHORITY TO REGULATE.",
@@ -181,5 +199,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

@@ -22,8 +22,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.205
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.205,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
@@ -38,8 +44,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.173
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.173,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
@@ -54,8 +66,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.166
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.166,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
@@ -70,8 +88,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.163
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.163,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
@@ -86,8 +110,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.133
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.133,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
@@ -102,8 +132,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.127
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.127,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
@@ -120,8 +156,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.118
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.118,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 3961.0109. CONFIRMATION ELECTION.",
@@ -138,10 +180,17 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.115
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.115,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

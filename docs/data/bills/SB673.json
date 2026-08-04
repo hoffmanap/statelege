@@ -6,8 +6,8 @@
   "legiscan_status": "2",
   "last_action": "Placed on General State Calendar",
   "last_action_date": "2025-05-26",
-  "overall_severity": 5,
-  "scope": "needs_manual_review",
+  "overall_severity": 4,
+  "scope": "uniform",
   "conflicts": [
     {
       "bill_section": "Sec. 249.004. CERTAIN REGULATIONS PROHIBITED.",
@@ -30,8 +30,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.302
+      "conflict_type": "direct_conflict",
+      "retrieval_similarity": 0.302,
+      "severity": 4,
+      "scope": "uniform",
+      "confidence": "medium",
+      "required_change": "Remove the owner-occupancy requirement (and any restriction on leasing timing/sequence relative to the primary dwelling) from Section 20.10.035, since state law would prohibit municipalities from restricting leasing arrangements or requiring the owner to occupy either unit.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "Sec. 249.002. APPLICABILITY OF CHAPTER.",
@@ -589,5 +595,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

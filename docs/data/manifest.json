@@ -129,7 +129,7 @@
     "last_action": "Effective on 9/1/25",
     "last_action_date": "2025-06-20",
     "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "scope": "zone_dependent"
   },
   {
     "bill_id": 1935845,
@@ -304,8 +304,8 @@
     "legiscan_status": "4",
     "last_action": "Effective on 9/1/25",
     "last_action_date": "2025-06-20",
-    "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "overall_severity": 4,
+    "scope": "zone_dependent"
   },
   {
     "bill_id": 1990924,
@@ -1360,8 +1360,8 @@
     "legiscan_status": "1",
     "last_action": "Placed on General State Calendar",
     "last_action_date": "2025-05-15",
-    "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "overall_severity": 4,
+    "scope": "zone_dependent"
   },
   {
     "bill_id": 2007715,
@@ -2031,8 +2031,8 @@
     "legiscan_status": "1",
     "last_action": "Committee report sent to Calendars",
     "last_action_date": "2025-04-29",
-    "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "overall_severity": 1,
+    "scope": "uniform"
   },
   {
     "bill_id": 2008425,
@@ -2482,8 +2482,8 @@
     "legiscan_status": "1",
     "last_action": "Referred to Land & Resource Management",
     "last_action_date": "2025-04-03",
-    "overall_severity": 4,
-    "scope": "needs_manual_review"
+    "overall_severity": 3,
+    "scope": "uniform"
   },
   {
     "bill_id": 2005040,
@@ -2955,8 +2955,8 @@
     "legiscan_status": "1",
     "last_action": "Referred to Land & Resource Management",
     "last_action_date": "2025-03-21",
-    "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "overall_severity": 4,
+    "scope": "uniform"
   },
   {
     "bill_id": 1890721,
@@ -3109,8 +3109,8 @@
     "legiscan_status": "1",
     "last_action": "Referred to Human Services",
     "last_action_date": "2025-03-17",
-    "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "overall_severity": 2,
+    "scope": "uniform"
   },
   {
     "bill_id": 1955485,
@@ -3197,8 +3197,8 @@
     "legiscan_status": "1",
     "last_action": "Referred to Land & Resource Management",
     "last_action_date": "2025-03-14",
-    "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "overall_severity": 4,
+    "scope": "uniform"
   },
   {
     "bill_id": 1910480,
@@ -3451,7 +3451,7 @@
     "last_action": "Referred to Land & Resource Management",
     "last_action_date": "2025-03-06",
     "overall_severity": 5,
-    "scope": "needs_manual_review"
+    "scope": "uniform"
   },
   {
     "bill_id": 1891269,

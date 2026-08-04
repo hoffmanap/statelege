@@ -6,8 +6,8 @@
   "legiscan_status": "1",
   "last_action": "Referred to Land & Resource Management",
   "last_action_date": "2025-04-03",
-  "overall_severity": 4,
-  "scope": "needs_manual_review",
+  "overall_severity": 3,
+  "scope": "uniform",
   "conflicts": [
     {
       "bill_section": "SECTION 1.",
@@ -22,8 +22,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.178
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.178,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -38,8 +44,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.165
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.165,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -54,8 +66,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.141
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.141,
+      "severity": 2,
+      "scope": "uniform",
+      "confidence": "medium",
+      "required_change": "Clarify that TIA scoping determinations are finalized concurrently with plat approval so they can be bundled into the single approve/disapprove decision required by the amended statute.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "SECTION 1.",
@@ -70,8 +88,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.122
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.122,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -86,8 +110,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.111
+      "conflict_type": "likely_conflict",
+      "retrieval_similarity": 0.111,
+      "severity": 3,
+      "scope": "uniform",
+      "confidence": "medium",
+      "required_change": "Revise TIA submission timing rules so that TIA approval is integrated into a single plat approval action rather than required at separate preliminary and final plat stages, consistent with the bill's requirement to approve all submittal documents together.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "SECTION 1.",
@@ -102,8 +132,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.097
+      "conflict_type": "gap",
+      "retrieval_similarity": 0.097,
+      "severity": 2,
+      "scope": "uniform",
+      "confidence": "low",
+      "required_change": "Align land study application review timeline with the consolidated plat/document approval process mandated by the amended statute.",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "SECTION 1.",
@@ -118,8 +154,14 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.097
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.097,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -134,10 +176,17 @@
       "priority": 4,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.096
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.096,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

@@ -22,8 +22,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.157
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.157,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.",
@@ -38,8 +44,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.139
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.139,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.",
@@ -54,8 +66,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.128
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.128,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.",
@@ -70,8 +88,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.123
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.123,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.",
@@ -86,8 +110,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.11
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.11,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.",
@@ -102,8 +132,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.108
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.108,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.",
@@ -120,8 +156,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.099
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.099,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.",
@@ -136,8 +178,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.098
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.098,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 141.074. FURNISHING LISTS OF LAND TO OTHER AGENCIES.",
@@ -152,8 +200,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.204
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.204,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 141.074. FURNISHING LISTS OF LAND TO OTHER AGENCIES.",
@@ -168,8 +222,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.168
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.168,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 141.074. FURNISHING LISTS OF LAND TO OTHER AGENCIES.",
@@ -185,8 +245,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.136
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.136,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 389.001. DEFINITION.",
@@ -398,5 +464,6 @@
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

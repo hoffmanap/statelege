@@ -6,8 +6,8 @@
   "legiscan_status": "1",
   "last_action": "Committee report sent to Calendars",
   "last_action_date": "2025-04-29",
-  "overall_severity": 5,
-  "scope": "needs_manual_review",
+  "overall_severity": 1,
+  "scope": "uniform",
   "conflicts": [
     {
       "bill_section": "SECTION 1.",
@@ -22,8 +22,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.238
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.238,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -38,8 +44,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.204
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.204,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -54,8 +66,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.198
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.198,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "SECTION 1.",
@@ -70,8 +88,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.163
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.163,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "medium",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": true
     },
     {
       "bill_section": "SECTION 1.",
@@ -86,8 +110,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.149
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.149,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "low",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -104,8 +134,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.143
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.143,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "low",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -120,8 +156,14 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.119
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.119,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "low",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "SECTION 1.",
@@ -136,10 +178,17 @@
       "priority": 5,
       "rule_confidence": "low",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.112
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.112,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "low",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

@@ -24,8 +24,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.053
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.053,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 23.232. LIMITATION ON APPRAISED VALUE OF RESIDENTIAL REAL PROPERTY LEASED TO ELDERLY PERSON.",
@@ -42,8 +48,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.042
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.042,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 23.232. LIMITATION ON APPRAISED VALUE OF RESIDENTIAL REAL PROPERTY LEASED TO ELDERLY PERSON.",
@@ -60,10 +72,17 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.013
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.013,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }

@@ -43,8 +43,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.225
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.225,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 392.0051. CONDITIONS FOR BENEFICIAL PROPERTY-BASED TAX AND SPECIAL ASSESSMENT TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
@@ -82,8 +88,14 @@
       "priority": 5,
       "rule_confidence": "high",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.213
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.213,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 392.0051. CONDITIONS FOR BENEFICIAL PROPERTY-BASED TAX AND SPECIAL ASSESSMENT TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
@@ -119,8 +131,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.211
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.211,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 392.0051. CONDITIONS FOR BENEFICIAL PROPERTY-BASED TAX AND SPECIAL ASSESSMENT TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
@@ -156,8 +174,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.187
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.187,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 392.0051. CONDITIONS FOR BENEFICIAL PROPERTY-BASED TAX AND SPECIAL ASSESSMENT TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
@@ -193,8 +217,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.174
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.174,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 392.0051. CONDITIONS FOR BENEFICIAL PROPERTY-BASED TAX AND SPECIAL ASSESSMENT TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
@@ -230,8 +260,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.147
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.147,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 392.0051. CONDITIONS FOR BENEFICIAL PROPERTY-BASED TAX AND SPECIAL ASSESSMENT TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
@@ -267,8 +303,14 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.136
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.136,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     },
     {
       "bill_section": "Sec. 392.0051. CONDITIONS FOR BENEFICIAL PROPERTY-BASED TAX AND SPECIAL ASSESSMENT TREATMENT RELATING TO CERTAIN MULTIFAMILY RESIDENTIAL DEVELOPMENTS.",
@@ -304,10 +346,17 @@
       "priority": 5,
       "rule_confidence": "medium",
       "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.132
+      "conflict_type": "no_conflict",
+      "retrieval_similarity": 0.132,
+      "severity": 1,
+      "scope": "not_applicable",
+      "confidence": "high",
+      "required_change": "",
+      "affected_zones": null,
+      "llm_relevant": false
     }
   ],
   "gaps": [],
-  "scoring_method": "rule_based_prescreen"
+  "scoring_method": "rule_based_prescreen",
+  "llm_verified": true
 }
