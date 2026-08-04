@@ -244,6 +244,17 @@
     margin-top: 0.4rem;
   }
 
+  .numbers-line {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    margin-top: 0.3rem;
+  }
+  .numbers-label {
+    font-weight: 600;
+    margin-right: 0.3rem;
+  }
+
   .empty-note {
     color: var(--ink-soft);
     font-family: 'IBM Plex Mono', monospace;
@@ -356,17 +367,37 @@
   function renderConflictCard(c) {
     const zones = c.affected_zones && c.affected_zones.length
       ? `<div class="affected-zones">Affected zones: ${c.affected_zones.join(', ')}</div>` : '';
+
+    // Rule-based pre-screen output uses "priority" (not "severity") and has
+    // no "required_change" sentence — it can't generate natural-language
+    // analysis, only flag category overlaps and pull numbers. Show what
+    // actually exists: shared categories, extracted numbers on each side,
+    // and confidence, so this reads as "here's what to check" rather than
+    // a verdict the rule-based script never actually produced.
+    const priority = c.priority ?? c.severity;
+    const categories = (c.shared_categories || []).join(', ');
+
+    const billNums = (c.bill_numbers_found || []).length
+      ? `<div class="numbers-line"><span class="numbers-label">Bill:</span> ${c.bill_numbers_found.join(', ')}</div>` : '';
+    const codeNums = (c.code_numbers_found || []).length
+      ? `<div class="numbers-line"><span class="numbers-label">Code:</span> ${c.code_numbers_found.join(', ')}</div>` : '';
+
+    const requiredChangeLine = c.required_change
+      ? `<div class="required-change"><span class="required-change-label">Required change</span>${c.required_change}</div>`
+      : `<div class="required-change"><span class="required-change-label">Shared category</span>${categories || '—'}${(billNums || codeNums) ? '' : ' — needs manual read, see excerpts below'}</div>`;
+
     return `
-      <div class="conflict-card ${severityClass(c.severity)}">
+      <div class="conflict-card ${severityClass(priority)}">
         <div class="conflict-header">
           <div class="section-pair">${c.bill_section}<span class="arrow">&rarr;</span>${c.code_section}</div>
           <div class="conflict-tags">
             <span class="tag">${c.conflict_type ? c.conflict_type.replace('_', ' ') : ''}</span>
-            <span class="tag">${c.scope || ''}</span>
-            <span class="tag">sev ${c.severity ?? '—'}</span>
+            <span class="tag">${c.rule_confidence || c.scope || ''}</span>
+            <span class="tag">priority ${priority ?? '—'}</span>
           </div>
         </div>
-        <div class="required-change"><span class="required-change-label">Required change</span>${c.required_change || '—'}</div>
+        ${requiredChangeLine}
+        ${billNums}${codeNums}
         ${zones}
       </div>`;
   }
@@ -374,6 +405,7 @@
   function renderConflicts(bill) {
     document.getElementById('stat-severity').textContent = bill.overall_severity ?? '—';
     document.getElementById('stat-scope').textContent = bill.scope || '—';
+
     document.getElementById('stat-conflict-count').textContent = (bill.conflicts || []).length;
 
     const container = document.getElementById('conflicts-container');
