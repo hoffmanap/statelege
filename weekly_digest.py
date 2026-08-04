@@ -50,6 +50,7 @@ def load_all_bills():
 def summarize(bills):
     flagged = [b for b in bills if b.get("conflicts")]
     never_scored = [b for b in bills if not b.get("scoring_method")]
+    not_llm_verified = [b for b in flagged if not b.get("llm_verified")]
 
     high_priority = [b for b in flagged if (b.get("overall_severity") or 0) >= PRIORITY_FLOOR]
     high_priority.sort(key=lambda b: b.get("overall_severity") or 0, reverse=True)
@@ -66,6 +67,8 @@ def summarize(bills):
         "flagged_count": len(flagged),
         "high_priority_count": len(high_priority),
         "never_scored_count": len(never_scored),
+        "not_llm_verified_count": len(not_llm_verified),
+        "not_llm_verified_bill_numbers": [b["bill_number"] for b in not_llm_verified],
         "high_priority_bills": high_priority,
         "all_flagged_bills": flagged,
     }
@@ -87,6 +90,14 @@ def render_markdown(summary, generated_at):
     if summary["never_scored_count"]:
         lines.append(f"_Note: {summary['never_scored_count']} bill(s) in the tracker have not "
                       f"been scored yet — run prescreen_conflicts.py to cover them._\n")
+
+    if summary["not_llm_verified_count"]:
+        bill_list = ", ".join(summary["not_llm_verified_bill_numbers"][:20])
+        more = f" (+{summary['not_llm_verified_count'] - 20} more)" if summary["not_llm_verified_count"] > 20 else ""
+        lines.append(f"**{summary['not_llm_verified_count']} flagged bill(s) still need the manual "
+                      f"LLM upgrade pass** for real conflict analysis (the free pre-screen only "
+                      f"found candidate matches, not verdicts): {bill_list}{more}\n\n"
+                      f"Run: `python upgrade_flagged_bills.py --min-priority 4 --relevant-titles-only`\n")
 
     lines.append("---\n")
     lines.append("## Priority bills — read these first\n")
