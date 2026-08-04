@@ -232,6 +232,13 @@
     <button class="tab" data-filter="dead">Dead</button>
     <div class="spacer"></div>
     <input type="text" id="search" placeholder="Search bill number or title…">
+    <select id="stage-filter">
+      <option value="">Any stage</option>
+      <option value="introduced">Introduced</option>
+      <option value="engrossed">Engrossed</option>
+      <option value="enrolled">Enrolled</option>
+      <option value="passed">Passed</option>
+    </select>
     <select id="sort">
       <option value="severity_desc">Severity: high to low</option>
       <option value="severity_asc">Severity: low to high</option>
@@ -247,6 +254,7 @@
         <th>Status</th>
         <th>Severity</th>
         <th>Scope</th>
+        <th>Stage</th>
         <th>Last action</th>
       </tr>
     </thead>
@@ -261,7 +269,7 @@
 </footer>
 
 <script>
-  const state = { filter: 'flagged', search: '', sort: 'severity_desc', bills: [] };
+  const state = { filter: 'flagged', search: '', sort: 'severity_desc', stage: '', bills: [] };
 
   async function loadData() {
     try {
@@ -288,6 +296,7 @@
     let rows = state.bills.filter(b => {
       if (state.filter === 'flagged' && (b.overall_severity === null || b.overall_severity === undefined)) return false;
       if (state.filter !== 'all' && state.filter !== 'flagged' && b.lifecycle !== state.filter) return false;
+      if (state.stage && b.stage !== state.stage) return false;
       if (state.search) {
         const q = state.search.toLowerCase();
         return b.bill_number.toLowerCase().includes(q) || b.title.toLowerCase().includes(q);
@@ -315,6 +324,7 @@
         <td><span class="lifecycle-badge lifecycle-${b.lifecycle}">${b.lifecycle || 'unknown'}</span></td>
         <td><span class="severity"><span class="severity-dot ${severityClass(b.overall_severity)}"></span>${b.overall_severity ?? '—'}</span></td>
         <td class="scope-tag">${b.scope || '—'}</td>
+        <td class="scope-tag">${b.stage || '—'}</td>
         <td class="scope-tag">${b.last_action_date || '—'}</td>
       `;
       tbody.appendChild(tr);
@@ -332,6 +342,11 @@
 
   document.getElementById('search').addEventListener('input', e => {
     state.search = e.target.value;
+    render();
+  });
+
+  document.getElementById('stage-filter').addEventListener('change', e => {
+    state.stage = e.target.value;
     render();
   });
 
