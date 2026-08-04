@@ -145,7 +145,7 @@ def load_code_corpus():
         raise SystemExit(f"{CODE_DIR} not found — run code_to_json.py first.")
 
     for path in CODE_DIR.rglob("*.json"):
-        rec = json.loads(path.read_text(encoding="utf-8"))
+        rec = json.loads(path.read_text(encoding="utf-8-sig"))
         if "text" in rec:
             rec["search_text"] = f"{rec.get('title', '')}\n{rec['text']}"
             rec["kind"] = "narrative"
@@ -335,7 +335,7 @@ def extract_plain_text(path):
                     text_parts.append(page_text)
         return "\n".join(text_parts)
 
-    raw = path.read_text(encoding="utf-8", errors="ignore")
+    raw = path.read_text(encoding="utf-8-sig", errors="ignore")
     if path.suffix == ".html":
         import html
         text = re.sub(r"<[^>]+>", " ", raw)   # strip tags
@@ -349,7 +349,7 @@ def update_manifest(bill_result):
     if not manifest_path.exists():
         print("  WARNING: data/manifest.json not found — run legiscan_ingest.py first.")
         return
-    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
     for entry in manifest:
         if entry["bill_number"] == bill_result["bill_number"]:
             entry["overall_severity"] = bill_result["overall_severity"]
@@ -381,7 +381,7 @@ def run(rescan_all=False):
         result = score_bill(bill_meta, bill_text, vectorizer, matrix, records)
 
         out_path = BILLS_OUT / f"{bill_meta['bill_number']}.json"
-        existing = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else {}
+        existing = json.loads(out_path.read_text(encoding="utf-8-sig")) if out_path.exists() else {}
         existing.update(result)  # preserves 'progress'/'legiscan_url' written by legiscan_ingest.py
         out_path.write_text(json.dumps(existing, indent=2), encoding="utf-8")
         update_manifest(result)

@@ -41,7 +41,7 @@ def load_all_bills():
                           f"prescreen_conflicts.py first.")
     for path in sorted(BILLS_DIR.glob("*.json")):
         try:
-            bills.append(json.loads(path.read_text(encoding="utf-8")))
+            bills.append(json.loads(path.read_text(encoding="utf-8-sig")))
         except json.JSONDecodeError:
             print(f"  WARNING: could not parse {path.name}, skipping")
     return bills

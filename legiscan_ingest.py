@@ -208,7 +208,7 @@ def write_bill_base_json(bill_number, bill_id, title, lifecycle, status, history
 
     existing = {}
     if out_path.exists():
-        existing = json.loads(out_path.read_text(encoding="utf-8"))
+        existing = json.loads(out_path.read_text(encoding="utf-8-sig"))
 
     existing.update({
         "bill_id": bill_id,
@@ -364,7 +364,7 @@ def export_manifest(conn):
     previous_scores = {}
     if manifest_path.exists():
         try:
-            previous = json.loads(manifest_path.read_text(encoding="utf-8"))
+            previous = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
             previous_scores = {
                 b["bill_number"]: (b.get("overall_severity"), b.get("scope"))
                 for b in previous
