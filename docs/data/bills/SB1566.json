@@ -10,8 +10,8 @@
   "scope": "needs_manual_review",
   "conflicts": [
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
       "bill_numbers_found": [],
       "code_section": "19.02.010",
       "code_text_excerpt": "Purpose, applicability and effect\n19.02.010\u00a0Purpose, applicability and effect.\nA.\tPurpose and Intent. The purpose of a land study shall be to delineate the sequence and timing of development within a proposed subdivision, where the tract to be developed is part of a larger parcel of land owned or controlled by the applicant, in order to determine compliance with the city's comprehensive plan and t",
@@ -23,11 +23,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.134
+      "retrieval_similarity": 0.225
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
       "bill_numbers_found": [],
       "code_section": "19.50.030",
       "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
@@ -39,27 +39,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.127
+      "retrieval_similarity": 0.179
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
-      "bill_numbers_found": [],
-      "code_section": "20.10.363",
-      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "utility_extension"
-      ],
-      "priority": 2,
-      "rule_confidence": "low",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.127
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
       "bill_numbers_found": [],
       "code_section": "19.02.020",
       "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
@@ -71,11 +55,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.104
+      "retrieval_similarity": 0.145
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
       "bill_numbers_found": [],
       "code_section": "19.11.020",
       "code_text_excerpt": "Water and wastewater service\n19.11.020\u00a0Water and wastewater service.\nSubdivisions within the extraterritorial jurisdiction shall provide water and wastewater service in accordance with the provisions of this chapter, provided that nothing within this chapter is intended to conflict with state law or the rules and regulations of the Texas Commission on Environmental Quality, or to interfere with an",
@@ -87,43 +71,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.098
+      "retrieval_similarity": 0.124
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
-      "bill_numbers_found": [],
-      "code_section": "19.03.050",
-      "code_text_excerpt": "Effect of approval of a preliminary plat\n19.03.050\u00a0Effect of approval of a preliminary plat.\nA.\tRight to proceed. The approval of a preliminary plat application shall allow the applicant to proceed with the development and platting process by submitting subdivision improvement plans and a final plat. The city will not require non-engineering related significant changes in the final subdivision imp",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "utility_extension"
-      ],
-      "priority": 2,
-      "rule_confidence": "low",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.082
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
-      "bill_numbers_found": [],
-      "code_section": "19.04.070",
-      "code_text_excerpt": "Plat recordation\n19.04.070\u00a0Plat recordation.\nA.\tProcedure.\n1.\tSignatures. After approval of the final plat, the city manager, or designee shall procure the signature of the chairperson of the city plan commission on the final plat ready for recording, the signature of the secretary of the city plan commission who shall attest to the signature of the chairperson, and the signature of the planning a",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "utility_extension"
-      ],
-      "priority": 2,
-      "rule_confidence": "low",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.078
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1566 AN ACT relating to connection of utilities by certain entities in certain subdivisions formerly located in a municipality's extraterritorial jurisdiction. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
       "bill_numbers_found": [],
       "code_section": "20.10.557",
       "code_text_excerpt": "Utility green space\n20.10.557\u00a0Utility green space.\nA.\tThe purpose of these regulations is to protect and conserve lands designated as utility green space while still allowing certain necessary water, wastewater and stormwater utility systems as secondary purposes to the area. Utility green space serves to:\n1.\tAdd to the existing open space system and enhance the ecological, hydrological, and recre",
@@ -135,7 +87,55 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.072
+      "retrieval_similarity": 0.119
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
+      "bill_numbers_found": [],
+      "code_section": "19.03.050",
+      "code_text_excerpt": "Effect of approval of a preliminary plat\n19.03.050\u00a0Effect of approval of a preliminary plat.\nA.\tRight to proceed. The approval of a preliminary plat application shall allow the applicant to proceed with the development and platting process by submitting subdivision improvement plans and a final plat. The city will not require non-engineering related significant changes in the final subdivision imp",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.11
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
+      "bill_numbers_found": [],
+      "code_section": "19.04.070",
+      "code_text_excerpt": "Plat recordation\n19.04.070\u00a0Plat recordation.\nA.\tProcedure.\n1.\tSignatures. After approval of the final plat, the city manager, or designee shall procure the signature of the chairperson of the city plan commission on the final plat ready for recording, the signature of the secretary of the city plan commission who shall attest to the signature of the chairperson, and the signature of the planning a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.101
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.012(c), Local Government Code, is amended to read as follows: (c) An entity described by Subsection (b) may serve or connect land with water, sewer, electricity, gas, or other utility service regardless of whether the entity is presented with or otherwise holds a certificate applicable to the land issued under Section 212.0115 if: (1) the land is covered by a development pla",
+      "bill_numbers_found": [],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "utility_extension"
+      ],
+      "priority": 2,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.09
     }
   ],
   "gaps": [],

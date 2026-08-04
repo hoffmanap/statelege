@@ -10,8 +10,144 @@
   "scope": "needs_manual_review",
   "conflicts": [
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "20.02.464",
+      "code_text_excerpt": "HUD-code manufactured home (manufactured home)\n20.02.464\u00a0HUD-code manufactured home (manufactured home).\n\"HUD-code manufactured home (manufactured home)\" has the meaning assigned by 42 U.S.C. Section 5402(6) and means a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.636
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "20.10.340",
+      "code_text_excerpt": "Manufactured home parks\n20.10.340\u00a0Manufactured home parks.\nA.\tEach manufactured home space shall have a minimum area of at least three thousand square feet, with a minimum width of thirty feet and minimum depth of ninety feet.\nB.\tMinimum distance between structures:\n1.\tThe minimum distance between manufactured home structures, including a garage or carport, shall be ten feet;\n2.\tThe minimum distan",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.167
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.164
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.146
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Yes / 25 feet",
+      "code_text_excerpt": "Yes 25 feet Districts: Manufacturer identification signs in C-3 and C-4, where business inventory consists of motorized vehicles for sale, some in an outdoor location that is accessible to customers. Permit \nRequired: Yes Maximum Number: One per licensed manufacturer Maximum Height: 25 feet Maximum Sign Area: Combined square footage of all manufacturer signs shall not exceed 300 square feet",
+      "code_numbers_found": [
+        "25 feet",
+        "25 feet",
+        "300 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.137
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 Yes / 25 feet",
+      "code_text_excerpt": "Yes 25 feet Districts: Manufacturer identification signs in C-3 and C-4, where business inventory consists of motorized vehicles for sale, some in an outdoor location that is accessible to customers. Permit \nRequired: Yes Maximum Number: One per licensed manufacturer Maximum Height: 25 feet Maximum Sign Area: Combined square footage of all manufacturer signs shall not exceed 300 square feet",
+      "code_numbers_found": [
+        "25 feet",
+        "25 feet",
+        "300 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.137
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "20.02.790",
+      "code_text_excerpt": "Recreation vehicle\n20.02.790\u00a0Recreation vehicle.\n\"Recreation vehicle\" means a vehicle that is:\n1.\tBuilt on a single chassis;\n2.\tFour hundred square feet or less when measured at the largest horizontal projections;\n3.\tSelf-propelled or permanently towable by motor vehicle or light duty truck;\n4.\tDesigned primarily not for use as permanent dwelling but as temporary living quarters for recreational, ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.133
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a structure, transportable in one or more sections, that, in the traveling mode, is eight body feet or more in width or 40 body feet or more in length, or, when erected on site, is 320 or more square feet, and that is built on",
+      "bill_numbers_found": [],
+      "code_section": "20.12.040",
+      "code_text_excerpt": "Yards\n20.12.040\u00a0Yards.\nA.\tYards Generally. More than one principal building may be located on a lot in the following instances, however, the provision of these exceptions shall not be construed to allow any building to be constructed outside the buildable area of the lot:\n1.\tInstitutional buildings;\n2.\tPublic or semipublic buildings;\n3.\tMultifamily dwellings or groups of single-family attached bui",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.122
+    },
+    {
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
       "bill_numbers_found": [
         "320 square feet"
       ],
@@ -25,65 +161,11 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.573
+      "retrieval_similarity": 0.649
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
-      "bill_numbers_found": [
-        "320 square feet"
-      ],
-      "code_section": "20.10.340",
-      "code_text_excerpt": "Manufactured home parks\n20.10.340\u00a0Manufactured home parks.\nA.\tEach manufactured home space shall have a minimum area of at least three thousand square feet, with a minimum width of thirty feet and minimum depth of ninety feet.\nB.\tMinimum distance between structures:\n1.\tThe minimum distance between manufactured home structures, including a garage or carport, shall be ten feet;\n2.\tThe minimum distan",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "lot_size"
-      ],
-      "priority": 3,
-      "rule_confidence": "medium",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.262
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
-      "bill_numbers_found": [
-        "320 square feet"
-      ],
-      "code_section": "19.11.030",
-      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "lot_size"
-      ],
-      "priority": 3,
-      "rule_confidence": "medium",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.195
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
-      "bill_numbers_found": [
-        "320 square feet"
-      ],
-      "code_section": "19.50.030",
-      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "lot_size"
-      ],
-      "priority": 3,
-      "rule_confidence": "medium",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.17
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
       "bill_numbers_found": [
         "320 square feet"
       ],
@@ -97,16 +179,16 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.154
+      "retrieval_similarity": 0.224
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
       "bill_numbers_found": [
         "320 square feet"
       ],
-      "code_section": "20.18.430",
-      "code_text_excerpt": "A-O, A-3/O and S-D districts\n20.18.430\u00a0A-O, A-3/O and S-D districts.\nA.\tHome occupation signs shall comply with the following requirements:\n1.\tPermit required: no;\n2.\tMaximum number: one per dwelling;\n3.\tMaximum sign area: one square foot;\n4.\tPlacement: not projecting more than two inches beyond the face of the building;\n5.\tIllumination: not permitted;\n6.\tAdditional standards: shall only indicate ",
+      "code_section": "20.10.340",
+      "code_text_excerpt": "Manufactured home parks\n20.10.340\u00a0Manufactured home parks.\nA.\tEach manufactured home space shall have a minimum area of at least three thousand square feet, with a minimum width of thirty feet and minimum depth of ninety feet.\nB.\tMinimum distance between structures:\n1.\tThe minimum distance between manufactured home structures, including a garage or carport, shall be ten feet;\n2.\tThe minimum distan",
       "code_numbers_found": [],
       "shared_categories": [
         "lot_size"
@@ -115,16 +197,16 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.125
+      "retrieval_similarity": 0.207
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
       "bill_numbers_found": [
         "320 square feet"
       ],
-      "code_section": "20.12.040",
-      "code_text_excerpt": "Yards\n20.12.040\u00a0Yards.\nA.\tYards Generally. More than one principal building may be located on a lot in the following instances, however, the provision of these exceptions shall not be construed to allow any building to be constructed outside the buildable area of the lot:\n1.\tInstitutional buildings;\n2.\tPublic or semipublic buildings;\n3.\tMultifamily dwellings or groups of single-family attached bui",
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
       "code_numbers_found": [],
       "shared_categories": [
         "lot_size"
@@ -133,11 +215,11 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.117
+      "retrieval_similarity": 0.163
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } S.B. No. 1341 AN ACT relating to the regulation of manufactured homes. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 9.102(53), Business & Commerce Code, is amended to read as follows: (53) \"Manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6) [ means a str",
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
       "bill_numbers_found": [
         "320 square feet"
       ],
@@ -151,7 +233,63 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.115
+      "retrieval_similarity": 0.156
+    },
+    {
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
+      "bill_numbers_found": [
+        "320 square feet"
+      ],
+      "code_section": "19.11.030",
+      "code_text_excerpt": "Lot requirements\u2014Extraterritorial jurisdiction\n19.11.030\u00a0Lot requirements\u2014Extraterritorial jurisdiction.\nA.\tResidential Subdivision Lot Sizes.\n1.\tIn a subdivision in the ETJ where public water and public sewers are provided and on-site ponding is not used, the minimum lot areas shall be six thousand square feet or as approved by the County of El Paso, provided a minimum lot width of fifty feet and",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.143
+    },
+    {
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
+      "bill_numbers_found": [
+        "320 square feet"
+      ],
+      "code_section": "20.12.040",
+      "code_text_excerpt": "Yards\n20.12.040\u00a0Yards.\nA.\tYards Generally. More than one principal building may be located on a lot in the following instances, however, the provision of these exceptions shall not be construed to allow any building to be constructed outside the buildable area of the lot:\n1.\tInstitutional buildings;\n2.\tPublic or semipublic buildings;\n3.\tMultifamily dwellings or groups of single-family attached bui",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.112
+    },
+    {
+      "bill_section": "SECTION 2.",
+      "bill_text_excerpt": "SECTION 2. Section 1201.003(12), Occupations Code, is amended to read as follows: (12) \"HUD-code manufactured home\" has the meaning assigned by 42 U.S.C. Section 5402(6). The term [ : [ (A) means a structure: [ (i) constructed on or after June 15, 1976, according to the rules of the United States Department of Housing and Urban Development; [ (ii) built on a permanent chassis; [ (iii) designed for",
+      "bill_numbers_found": [
+        "320 square feet"
+      ],
+      "code_section": "20.18.050",
+      "code_text_excerpt": "Definitions\n20.18.050\u00a0Definitions.\nDefinitions. For purposes of this chapter, the following terms have these specially defined meanings. If a term is not defined hereunder, the definition contained in chapter 20.02 shall apply, provided, however, where there is conflict the definition contained in this chapter shall apply.\n\"Add-ons,\" in the context of billboards, means a design element that extend",
+      "code_numbers_found": [
+        "72 square feet"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.104
     }
   ],
   "gaps": [],

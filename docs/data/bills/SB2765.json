@@ -10,8 +10,8 @@
   "scope": "needs_manual_review",
   "conflicts": [
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R15019 JAM-D By: Cook S.B. No. 2765 A BILL TO BE ENTITLED AN ACT relating to the treatment of a manufactured home as real property. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application f",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application for the issuance of a statement of ownership, an owner of a manufactured home shall indicate whether the owner elects to treat the home as real property. An owner may elect to treat a manufactured home as real property only if the home is : (1) attached to: (A) [ (1) ] real property t",
       "bill_numbers_found": [],
       "code_section": "20.02.126",
       "code_text_excerpt": "Bed and breakfast (residence)\n20.02.126\u00a0Bed and breakfast (residence).\n\"Bed and breakfast (residence)\" means an owner-occupied or manager-occupied residential structure providing eight or fewer rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
@@ -23,11 +23,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.1
+      "retrieval_similarity": 0.118
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R15019 JAM-D By: Cook S.B. No. 2765 A BILL TO BE ENTITLED AN ACT relating to the treatment of a manufactured home as real property. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application f",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application for the issuance of a statement of ownership, an owner of a manufactured home shall indicate whether the owner elects to treat the home as real property. An owner may elect to treat a manufactured home as real property only if the home is : (1) attached to: (A) [ (1) ] real property t",
       "bill_numbers_found": [],
       "code_section": "20.02.124",
       "code_text_excerpt": "Bed and breakfast inn\n20.02.124\u00a0Bed and breakfast inn.\n\"Bed and breakfast inn\" means an owner-occupied or manager-occupied residential structure providing nine or more rooms for temporary, overnight lodging, with or without meals, for paying guests.\n(Ord. 16653 \u00a7 2 (part), 2007)",
@@ -39,11 +39,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.059
+      "retrieval_similarity": 0.069
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R15019 JAM-D By: Cook S.B. No. 2765 A BILL TO BE ENTITLED AN ACT relating to the treatment of a manufactured home as real property. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application f",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 1201.2055(a), Occupations Code, is amended to read as follows: (a) In completing an application for the issuance of a statement of ownership, an owner of a manufactured home shall indicate whether the owner elects to treat the home as real property. An owner may elect to treat a manufactured home as real property only if the home is : (1) attached to: (A) [ (1) ] real property t",
       "bill_numbers_found": [],
       "code_section": "20.10.035",
       "code_text_excerpt": "Accessory dwelling unit (ADU)\n20.10.035\u00a0Accessory dwelling unit (ADU).\nA.\tIn addition to the regulations in Section 20.10.030, detached accessory dwelling units in residential zoning districts shall comply with the following:\n1.\tThe property owner must occupy either the principal unit or the accessory dwelling unit as their permanent residence. An owner of a property containing an accessory dwelli",

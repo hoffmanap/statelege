@@ -196,9 +196,28 @@ def top_candidates(provision_text, bill_cats, vectorizer, matrix, records, k=TOP
 
 # ---------- Bill splitting ----------
 
+# Bills that AMEND existing code (rather than adding a whole new chapter,
+# like SB15/SB840/SB673 did) are typically structured as "SECTION 1. ...
+# is amended by adding Subsection (c) to read as follows: ..." — a coarser
+# top-level numbering that never matches BILL_SECTION_RE. This is the
+# fallback pattern for that style.
+AMENDING_SECTION_RE = re.compile(r"(SECTION\s+\d+\.)")
+
+
 def split_bill_provisions(bill_text):
     matches = list(BILL_SECTION_RE.finditer(bill_text))
+
     if not matches:
+        # Try the coarser "SECTION 1." style used by bills that amend
+        # existing code rather than add a new chapter.
+        fallback_matches = list(AMENDING_SECTION_RE.finditer(bill_text))
+        if fallback_matches:
+            provisions = []
+            for i, m in enumerate(fallback_matches):
+                start = m.start()
+                end = fallback_matches[i + 1].start() if i + 1 < len(fallback_matches) else len(bill_text)
+                provisions.append({"heading": m.group(1).strip(), "text": bill_text[start:end].strip()})
+            return provisions
         return [{"heading": "(unparsed — check BILL_SECTION_RE)", "text": bill_text[:4000]}]
 
     provisions = []

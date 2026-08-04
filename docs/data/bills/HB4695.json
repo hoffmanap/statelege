@@ -10,24 +10,8 @@
   "scope": "needs_manual_review",
   "conflicts": [
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
-      "bill_numbers_found": [],
-      "code_section": "19.50.030",
-      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "traffic_impact"
-      ],
-      "priority": 4,
-      "rule_confidence": "low",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.159
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
       "bill_numbers_found": [],
       "code_section": "20.04.380",
       "code_text_excerpt": "Application requirements\n20.04.380\u00a0Application requirements.\nApplication documents shall be submitted in a digital form compatible with the city's system. Paper submittals of application documents shall be assessed the established fee for conversion of paper documents to digital format. The fee for conversion of paper documents to digital format shall be in the amount established by city council i",
@@ -39,11 +23,27 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.137
+      "retrieval_similarity": 0.178
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
+      "bill_numbers_found": [],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.165
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
       "bill_numbers_found": [],
       "code_section": "19.18.030",
       "code_text_excerpt": "Criteria for determining traffic impact analysis requirements\n19.18.030\u00a0Criteria for determining traffic impact analysis requirements.\nScope. The scope of a traffic impact analysis is an analysis of the area surrounding the development that will be impacted by the development to determine the range of area that must be included in the TIA. The scope of the traffic impact analysis shall be based on",
@@ -55,59 +55,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.107
+      "retrieval_similarity": 0.141
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
-      "bill_numbers_found": [],
-      "code_section": "20.10.363",
-      "code_text_excerpt": "Mixed-use residential or apartment development\n20.10.363\u00a0Mixed-use residential or apartment development.\nA.\tMixed-Use Residential Development. Developments not meeting the criteria listed below shall not be considered mixed-use residential and shall be required to meet the requirements of the base zoning or use requirements.\n1.\tNew Mixed-Use Residential Development.\na.\tThis section applies only to",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "traffic_impact"
-      ],
-      "priority": 4,
-      "rule_confidence": "low",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.102
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
-      "bill_numbers_found": [],
-      "code_section": "19.09.030",
-      "code_text_excerpt": "Conformance to plans\n19.09.030\u00a0Conformance to plans.\nA.\tConformance. Proposed capital improvements serving new development shall conform to and be properly related to the public facilities elements of the city's adopted comprehensive plan, other adopted master plans for public facilities and services including parks and open space, bikeway and transit, and applicable capital improvements plans, an",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "traffic_impact"
-      ],
-      "priority": 4,
-      "rule_confidence": "low",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.097
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
-      "bill_numbers_found": [],
-      "code_section": "20.10.360",
-      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "traffic_impact"
-      ],
-      "priority": 4,
-      "rule_confidence": "low",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.093
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
       "bill_numbers_found": [],
       "code_section": "19.15.010",
       "code_text_excerpt": "Adequacy of streets and thoroughfares\n19.15.010\u00a0Adequacy of streets and thoroughfares.\nA.\tResponsibility for Adequacy of Streets and Thoroughfares. The property owner shall assure that the subdivision is served by adequate streets and thoroughfares, and shall be responsible for the costs of rights-of-way and street improvements, in accordance with the following policies and standards, and subject ",
@@ -119,11 +71,11 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.093
+      "retrieval_similarity": 0.122
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } By: Virdell H.B. No. 4695 A BILL TO BE ENTITLED AN ACT relating to the approval of subdivision plans and plats by a municipality BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsi",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
       "bill_numbers_found": [],
       "code_section": "19.18.020",
       "code_text_excerpt": "Standards for and timing of traffic impact analysis\n19.18.020\u00a0Standards for and timing of traffic impact analysis.\nA.\tTIA and Update Required. A TIA shall be submitted with a zoning application, a preliminary plat or with the land study. If previously submitted, an updated TIA shall also be submitted with the final plat if substantial changes have been made from the preliminary plat, and shall be ",
@@ -135,7 +87,55 @@
       "rule_confidence": "low",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.09
+      "retrieval_similarity": 0.111
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
+      "bill_numbers_found": [],
+      "code_section": "19.02.020",
+      "code_text_excerpt": "Application and procedures\n19.02.020\u00a0Application and procedures.\nA.\tResponsible Official. The city manager or designee shall be the responsible official for a land study.\nB.\tSubmittal. All applications shall be submitted electronically or on a form supplied by the planning division with the required information as stated on the application form.\nC.\tPrior Approved Applications. An application for a",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
+      "bill_numbers_found": [],
+      "code_section": "19.18.010",
+      "code_text_excerpt": "Purpose and applicability\n19.18.010\u00a0Purpose and applicability.\nA.\tPurposes and findings.\n1.\tNew development must be served and supported by an adequate network of streets and thoroughfares.\n2.\tStreets and thoroughfares are an essential component of the city's street network and are necessary to accommodate the continuing growth and development of the city.\n3.\tIt is necessary and desirable to obtai",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 212.009(a), Local Government Code, is amended to read as follows: (a) The municipal authority responsible for approving plats shall approve, approve with conditions, or disapprove a plat , all applicable submittal documents, including construction drawings, traffic impact analysis, drainage reports, and all other required documents, permits, or approvals to obtain a final plat w",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "traffic_impact"
+      ],
+      "priority": 4,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.096
     }
   ],
   "gaps": [],

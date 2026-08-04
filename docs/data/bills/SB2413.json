@@ -10,8 +10,8 @@
   "scope": "needs_manual_review",
   "conflicts": [
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
       "bill_numbers_found": [
         "14 feet",
         "500 square feet",
@@ -27,11 +27,11 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.519
+      "retrieval_similarity": 0.511
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
       "bill_numbers_found": [
         "14 feet",
         "500 square feet",
@@ -47,11 +47,11 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.383
+      "retrieval_similarity": 0.407
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
       "bill_numbers_found": [
         "14 feet",
         "500 square feet",
@@ -67,11 +67,11 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.38
+      "retrieval_similarity": 0.308
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
       "bill_numbers_found": [
         "14 feet",
         "500 square feet",
@@ -87,31 +87,11 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.311
+      "retrieval_similarity": 0.291
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
-      "bill_numbers_found": [
-        "14 feet",
-        "500 square feet",
-        "45 feet"
-      ],
-      "code_section": "19.50.030",
-      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
-      "code_numbers_found": [],
-      "shared_categories": [
-        "lot_size"
-      ],
-      "priority": 3,
-      "rule_confidence": "medium",
-      "needs_manual_review": true,
-      "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.221
-    },
-    {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
       "bill_numbers_found": [
         "14 feet",
         "500 square feet",
@@ -127,18 +107,18 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.214
+      "retrieval_similarity": 0.235
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
       "bill_numbers_found": [
         "14 feet",
         "500 square feet",
         "45 feet"
       ],
-      "code_section": "20.10.090",
-      "code_text_excerpt": "Automotive uses\n20.10.090\u00a0Automotive uses.\nA.\tMotor Vehicle Repair, Minor. When located in S-D, C-1, C-2 and P-C zoning districts, facilities are subject to the following standards:\n1.\tThe property has frontage on a collector arterial or larger street;\n2.\tA maximum building square footage of four thousand square feet is permitted;\n3.\tA minimum twenty-five foot setback is required from any abutting",
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
       "code_numbers_found": [],
       "shared_categories": [
         "lot_size"
@@ -147,11 +127,11 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.159
+      "retrieval_similarity": 0.215
     },
     {
-      "bill_section": "(unparsed \u2014 check BILL_SECTION_RE)",
-      "bill_text_excerpt": " td { font-family: Courier, Arial, sans-serif; font-size: 10pt; } table { empty-cells:show; } 89R14341 BEE-F By: Hagenbuch S.B. No. 2413 A BILL TO BE ENTITLED AN ACT relating to the applicability of certain laws to tiny homes and tiny home communities. BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as fo",
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
       "bill_numbers_found": [
         "14 feet",
         "500 square feet",
@@ -167,7 +147,27 @@
       "rule_confidence": "medium",
       "needs_manual_review": true,
       "conflict_type": "flagged_for_review",
-      "retrieval_similarity": 0.139
+      "retrieval_similarity": 0.149
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Section 94.002, Property Code, is amended by adding Subsection (c) to read as follows: (c) This chapter does not apply to a tiny home community or tiny home. For purposes of this subsection: (1) \"Tiny home\" means a moveable trailer: (A) with a home affixed to a single chassis: (i) which is a transportable unit that has a body not wider than 14 feet and is designed to provide living quar",
+      "bill_numbers_found": [
+        "14 feet",
+        "500 square feet",
+        "45 feet"
+      ],
+      "code_section": "20.10.090",
+      "code_text_excerpt": "Automotive uses\n20.10.090\u00a0Automotive uses.\nA.\tMotor Vehicle Repair, Minor. When located in S-D, C-1, C-2 and P-C zoning districts, facilities are subject to the following standards:\n1.\tThe property has frontage on a collector arterial or larger street;\n2.\tA maximum building square footage of four thousand square feet is permitted;\n3.\tA minimum twenty-five foot setback is required from any abutting",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.145
     }
   ],
   "gaps": [],

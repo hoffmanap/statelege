@@ -1,5 +1,5 @@
 # Legislative Watch — Weekly Digest
-_Generated 2026-08-04T15:23:09.085876+00:00_
+_Generated 2026-08-04T16:48:12.388808+00:00_
 
 **357 bills tracked** — 0 active, 103 passed, 254 dead
 
@@ -12,11 +12,11 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### HB1360 — Relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Laid on the table subject to call (2025-04-29)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.18.480** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.480** _(priority 5, low confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB1595 — Relating to public housing authorities; authorizing a fee.
@@ -156,11 +156,11 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### HB3298 — Relating to air quality permits for certain concrete batch plants.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Environmental Regulation (2025-03-20)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.680** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.360** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.400** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.370** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.10.400** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.10.680** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.10.145** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.10.360** _(priority 5, low confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB3404 — Relating to certain municipal and county regulation of certain multifamily and mixed-use residential development projects and conversion of certain commercial buildings to mixed-use and multifamily residential occupancy.
@@ -273,11 +273,11 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### HB5109 — Relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Committee report sent to Calendars (2025-04-29)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.280** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.480** _(priority 5, low confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB5166 — Relating to housing; providing property tax exemptions and relief relating to housing; providing a civil penalty; authorizing a fee.
@@ -320,21 +320,21 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### HJR40 — Proposing a constitutional amendment to remove the requirement that a home equity loan be closed only at the office of the lender, an attorney at law, or a title company.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Reported favorably w/o amendment(s) (2025-05-07)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.080** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.680** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.020** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.13.020** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.15.150** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **19.13.020** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.500** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.420** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **19.15.150** _(priority 5, medium confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HJR75 — Proposing a constitutional amendment authorizing the legislature to provide for exceptions to the requirement that a home equity loan be closed only at the office of the lender, an attorney at law, or a title company.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Pensions, Investments & Financial Services (2025-03-06)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.080** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.680** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.020** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.13.020** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.15.150** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **19.13.020** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.500** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.420** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **19.15.150** _(priority 5, medium confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HR1261 — Commemorating the opening of the Advanced Manufacturing and Aerospace Center at The University of Texas at El Paso.
@@ -437,9 +437,9 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### SB2765 — Relating to the treatment of a manufactured home as real property.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Local Government (2025-04-03)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.126** _(priority 5, low confidence, categories: owner_occupancy)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.124** _(priority 5, low confidence, categories: owner_occupancy)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.035** _(priority 5, low confidence, categories: owner_occupancy)_
+  - **SECTION 1.** &rarr; **20.02.126** _(priority 5, low confidence, categories: owner_occupancy)_
+  - **SECTION 1.** &rarr; **20.02.124** _(priority 5, low confidence, categories: owner_occupancy)_
+  - **SECTION 1.** &rarr; **20.10.035** _(priority 5, low confidence, categories: owner_occupancy)_
 
 ### SB2911 — Relating to the creation of the Northeast Houston Redevelopment District; providing authority to issue bonds; providing authority to impose assessments or fees.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Filed (2025-03-14)
@@ -484,11 +484,11 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### SB783 — Relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings.
 - **Lifecycle:** passed · **Overall priority:** 5 · **Last action:** Effective on 9/1/25 (2025-05-20)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.280** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.480** _(priority 5, low confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### SB840 — Relating to certain municipal regulation of certain mixed-use and multifamily residential development projects and conversion of certain commercial buildings to mixed-use and multifamily residential occupancy.
@@ -504,21 +504,21 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### SJR79 — Proposing a constitutional amendment increasing the amount of debt that may be secured by a homestead for purposes of refinancing a loan including those with an extension of credit guaranteed by the United States Department of Veterans Affairs.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Business & Commerce (2025-03-25)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.080** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.680** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.050** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.13.020** _(priority 5, medium confidence, categories: design_review)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.020** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **19.13.020** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.420** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.500** _(priority 5, medium confidence, categories: design_review)_
+  - **SECTION 1.** &rarr; **20.18.430** _(priority 5, medium confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB4695 — Relating to the approval of subdivision plans and plats by a municipality.
 - **Lifecycle:** dead · **Overall priority:** 4 · **Last action:** Referred to Land & Resource Management (2025-04-03)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.50.030** _(priority 4, low confidence, categories: traffic_impact)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.04.380** _(priority 4, low confidence, categories: traffic_impact)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.18.030** _(priority 4, low confidence, categories: traffic_impact)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.363** _(priority 4, low confidence, categories: traffic_impact)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.09.030** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **20.04.380** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.50.030** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.18.030** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.15.010** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.18.020** _(priority 4, low confidence, categories: traffic_impact)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB21 — Relating to housing finance corporations; authorizing a fee.
@@ -534,11 +534,11 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### HB2737 — Relating to land development regulation of communities using manufactured homes and motor vehicles for long-term residences by certain counties.
 - **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Referred to Land & Resource Management (2025-03-18)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.50.030** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.12.020** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.360** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.20.030** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.06.075** _(priority 3, low confidence, categories: density)_
+  - **SECTION 2.** &rarr; **20.12.020** _(priority 3, low confidence, categories: density)_
+  - **SECTION 2.** &rarr; **Appendix B — Residential Mobile Home District / ** _(priority 3, low confidence, categories: density)_
+  - **SECTION 2.** &rarr; **Appendix B — Residential Mobile Home District / ** _(priority 3, low confidence, categories: density)_
+  - **SECTION 2.** &rarr; **19.50.030** _(priority 3, low confidence, categories: density)_
+  - **SECTION 2.** &rarr; **Appendix B — Apartment/Mobile Home Park District / ** _(priority 3, low confidence, categories: density)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB294 — Relating to the regulation by a property owners' association of food production on single-family residential lots.
@@ -564,22 +564,22 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### HB328 — Relating to the regulation of manufactured home rental communities located in certain counties.
 - **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Referred to Land & Resource Management (2025-02-28)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **Appendix B — Residential Mobile Home District / ** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **Appendix B — Residential Mobile Home District / ** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.50.030** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.12.020** _(priority 3, low confidence, categories: density)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **Appendix B — Apartment/Mobile Home Park District / ** _(priority 3, low confidence, categories: density)_
+  - **SECTION 1.** &rarr; **20.12.020** _(priority 3, low confidence, categories: density)_
+  - **SECTION 1.** &rarr; **Appendix B — Residential Mobile Home District / ** _(priority 3, low confidence, categories: density)_
+  - **SECTION 1.** &rarr; **Appendix B — Residential Mobile Home District / ** _(priority 3, low confidence, categories: density)_
+  - **SECTION 1.** &rarr; **19.50.030** _(priority 3, low confidence, categories: density)_
+  - **SECTION 1.** &rarr; **Appendix B — Apartment/Mobile Home Park District / ** _(priority 3, low confidence, categories: density)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB3527 — Relating to the regulation of manufactured homes.
 - **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Laid on the table subject to call (2025-05-01)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.464** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.340** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.11.030** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.50.030** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.790** _(priority 3, medium confidence, categories: lot_size)_
-  - _...and 3 more flag(s), see bill.html for full list_
+  - **SECTION 1.** &rarr; **20.02.464** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **20.10.340** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **19.50.030** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **19.11.030** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **Appendix B — Yes / 25 feet** _(priority 3, medium confidence, categories: lot_size)_
+  - _...and 11 more flag(s), see bill.html for full list_
 
 ### HB3578 — Relating to the authority of a county that borders the United Mexican States to regulate residential land use; creating a criminal offense.
 - **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Left pending in committee (2025-05-01)
@@ -704,12 +704,12 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### SB1341 — Relating to the regulation of manufactured homes.
 - **Lifecycle:** passed · **Overall priority:** 3 · **Last action:** Effective on 9/1/25 (2025-05-19)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.464** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.340** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.11.030** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.50.030** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.790** _(priority 3, medium confidence, categories: lot_size)_
-  - _...and 3 more flag(s), see bill.html for full list_
+  - **SECTION 1.** &rarr; **20.02.464** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **20.10.340** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **19.50.030** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **19.11.030** _(priority 3, low confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **Appendix B — Yes / 25 feet** _(priority 3, medium confidence, categories: lot_size)_
+  - _...and 11 more flag(s), see bill.html for full list_
 
 ### SB2326 — Relating to access to universal changing facilities in places of public accommodation and public buildings.
 - **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Referred to Business & Commerce (2025-03-25)
@@ -724,11 +724,11 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 ### SB2413 — Relating to the applicability of certain laws to tiny homes and tiny home communities.
 - **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Referred to Business & Commerce (2025-03-25)
 
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.464** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.340** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.02.790** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.510** _(priority 3, medium confidence, categories: lot_size)_
-  - **(unparsed — check BILL_SECTION_RE)** &rarr; **19.50.030** _(priority 3, medium confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **20.02.464** _(priority 3, medium confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **20.10.340** _(priority 3, medium confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **20.02.790** _(priority 3, medium confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **20.10.510** _(priority 3, medium confidence, categories: lot_size)_
+  - **SECTION 1.** &rarr; **19.11.030** _(priority 3, medium confidence, categories: lot_size)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### SB2522 — Relating to certain powers, limitations, and duties of a municipality and county in the extraterritorial jurisdiction of the municipality and the unincorporated area of the county.
@@ -875,7 +875,7 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 | HB294 | Relating to the regulation by a property owners' association… | dead | 3 | 8 |
 | HB3172 | Relating to municipal regulation of multifamily and mixed-us… | dead | 3 | 29 |
 | HB328 | Relating to the regulation of manufactured home rental commu… | dead | 3 | 8 |
-| HB3527 | Relating to the regulation of manufactured homes. | dead | 3 | 8 |
+| HB3527 | Relating to the regulation of manufactured homes. | dead | 3 | 16 |
 | HB3578 | Relating to the authority of a county that borders the Unite… | dead | 3 | 16 |
 | HB3892 | Relating to county regulation related to infrastructure plan… | dead | 3 | 8 |
 | HB4582 | Relating to reimbursement of infrastructure costs incurred b… | dead | 3 | 8 |
@@ -888,7 +888,7 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 | HB5682 | Relating to the creation of the Colmena Ranch Municipal Mana… | passed | 3 | 8 |
 | HR1304 | Commemorating the 60th anniversary of Ethicon San Angelo. | passed | 3 | 8 |
 | HR23 | In memory of former Austin City Council member Chris Riley. | passed | 3 | 8 |
-| SB1341 | Relating to the regulation of manufactured homes. | passed | 3 | 8 |
+| SB1341 | Relating to the regulation of manufactured homes. | passed | 3 | 16 |
 | SB2326 | Relating to access to universal changing facilities in place… | dead | 3 | 8 |
 | SB2413 | Relating to the applicability of certain laws to tiny homes … | dead | 3 | 8 |
 | SB2522 | Relating to certain powers, limitations, and duties of a mun… | dead | 3 | 8 |
@@ -903,7 +903,7 @@ _Generated 2026-08-04T15:23:09.085876+00:00_
 | HB3154 | Relating to the creation, powers, duties, and financing of t… | dead | 2 | 24 |
 | HB3333 | Relating to a restriction on permits authorizing direct disc… | passed | 2 | 8 |
 | HB3701 | Relating to the authority of the board of regents of The Tex… | dead | 2 | 8 |
-| HB3781 | Relating to the provision of financial assistance by the Tex… | dead | 2 | 8 |
+| HB3781 | Relating to the provision of financial assistance by the Tex… | dead | 2 | 16 |
 | HB5320 | Relating to the powers, duties, and governance of the Starr … | passed | 2 | 8 |
 | SB1359 | Relating to the creation, powers, duties, and financing of t… | dead | 2 | 24 |
 | SB1468 | Relating to the authority of the board of regents of The Tex… | passed | 2 | 8 |
