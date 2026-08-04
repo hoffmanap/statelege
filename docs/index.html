@@ -225,7 +225,8 @@
 
 <main>
   <div class="controls">
-    <button class="tab active" data-filter="all">All</button>
+    <button class="tab" data-filter="all">All</button>
+    <button class="tab active" data-filter="flagged">Flagged</button>
     <button class="tab" data-filter="active">Active</button>
     <button class="tab" data-filter="passed">Passed</button>
     <button class="tab" data-filter="dead">Dead</button>
@@ -260,7 +261,7 @@
 </footer>
 
 <script>
-  const state = { filter: 'all', search: '', sort: 'severity_desc', bills: [] };
+  const state = { filter: 'flagged', search: '', sort: 'severity_desc', bills: [] };
 
   async function loadData() {
     try {
@@ -285,7 +286,8 @@
 
   function render() {
     let rows = state.bills.filter(b => {
-      if (state.filter !== 'all' && b.lifecycle !== state.filter) return false;
+      if (state.filter === 'flagged' && (b.overall_severity === null || b.overall_severity === undefined)) return false;
+      if (state.filter !== 'all' && state.filter !== 'flagged' && b.lifecycle !== state.filter) return false;
       if (state.search) {
         const q = state.search.toLowerCase();
         return b.bill_number.toLowerCase().includes(q) || b.title.toLowerCase().includes(q);
