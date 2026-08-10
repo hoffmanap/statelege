@@ -1,9 +1,13 @@
 # Legislative Watch — Weekly Digest
-_Generated 2026-08-04T16:48:12.388808+00:00_
+_Generated 2026-08-10T14:25:36.636442+00:00_
 
 **357 bills tracked** — 0 active, 103 passed, 254 dead
 
-**97 bill(s)** have at least one candidate conflict flag against the current code corpus. **82** are priority 3+ and worth reading first.
+**97 bill(s)** have at least one candidate conflict flag against the current code corpus. **79** are priority 3+ and worth reading first.
+
+**66 flagged bill(s) still need the manual LLM upgrade pass** for real conflict analysis (the free pre-screen only found candidate matches, not verdicts): HB1620, HB2082, HB21, HB2246, HB2480, HB2737, HB294, HB2968, HB3064, HB3154, HB3172, HB3174, HB328, HB3333, HB3527, HB3578, HB3701, HB3781, HB3892, HB3919 (+46 more)
+
+Run: `python upgrade_flagged_bills.py --min-priority 4 --relevant-titles-only`
 
 ---
 
@@ -39,16 +43,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **Sec. 525.0151. PLANNING AND DELIVERY OF HEALTH AND HUMAN SERVICES GENERALLY.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
   - _...and 27 more flag(s), see bill.html for full list_
 
-### HB1779 — Relating to regulation of accessory dwelling units by political subdivisions.
-- **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Land & Resource Management (2025-03-14)
-
-  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.035** _(priority 5, high confidence, categories: owner_occupancy, setback, lot_size, open_space)_
-  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
-  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
-  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.04.280** _(priority 3, high confidence, categories: density, lot_size)_
-  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **Appendix B — A-3/0 / Other permitted uses, except as otherwise specified in this title** _(priority 3, high confidence, categories: setback, lot_size, open_space)_
-  - _...and 16 more flag(s), see bill.html for full list_
-
 ### HB203 — Relating to a limitation on increases in the appraised value for ad valorem tax purposes of certain leased residential real property.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Left pending in subcommittee (2025-03-20)
 
@@ -75,16 +69,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **Sec. 231.308. ZONING COMMISSION.** &rarr; **20.10.360** _(priority 5, medium confidence, categories: design_review)_
   - **Sec. 231.308. ZONING COMMISSION.** &rarr; **20.20.080** _(priority 5, medium confidence, categories: design_review)_
   - _...and 35 more flag(s), see bill.html for full list_
-
-### HB2406 — Relating to the regulation of group home facilities, including optional county or municipal permitting requirements; authorizing a fee; creating criminal offenses.
-- **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Human Services (2025-03-17)
-
-  - **Sec. 260E.001. DEFINITIONS.** &rarr; **20.02.738** _(priority 5, low confidence, categories: design_review)_
-  - **Sec. 260E.001. DEFINITIONS.** &rarr; **20.10.140** _(priority 5, low confidence, categories: design_review)_
-  - **Sec. 260E.001. DEFINITIONS.** &rarr; **20.10.450** _(priority 5, low confidence, categories: design_review)_
-  - **Sec. 260E.001. DEFINITIONS.** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
-  - **Sec. 260E.001. DEFINITIONS.** &rarr; **20.18.050** _(priority 5, medium confidence, categories: design_review)_
-  - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB2480 — Relating to municipal and county regulation of accessory dwelling units; authorizing fees.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Land & Resource Management (2025-03-17)
@@ -162,16 +146,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **SECTION 1.** &rarr; **20.10.145** _(priority 5, low confidence, categories: design_review)_
   - **SECTION 1.** &rarr; **20.10.360** _(priority 5, low confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
-
-### HB3404 — Relating to certain municipal and county regulation of certain multifamily and mixed-use residential development projects and conversion of certain commercial buildings to mixed-use and multifamily residential occupancy.
-- **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Land & Resource Management (2025-03-21)
-
-  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.360** _(priority 5, low confidence, categories: design_review)_
-  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.370** _(priority 5, low confidence, categories: design_review)_
-  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.280** _(priority 5, medium confidence, categories: design_review)_
-  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.470** _(priority 5, low confidence, categories: design_review)_
-  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.04.270** _(priority 5, low confidence, categories: design_review)_
-  - _...and 24 more flag(s), see bill.html for full list_
 
 ### HB3680 — Relating to subdivision plat requirements in certain counties; authorizing a fee; authorizing a civil penalty; creating a criminal offense.
 - **Lifecycle:** passed · **Overall priority:** 5 · **Last action:** Effective on 9/1/25 (2025-06-20)
@@ -270,16 +244,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **Sec. 231.304. ADOPTION ELECTION.** &rarr; **20.04.270** _(priority 5, low confidence, categories: design_review)_
   - _...and 35 more flag(s), see bill.html for full list_
 
-### HB5109 — Relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings.
-- **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Committee report sent to Calendars (2025-04-29)
-
-  - **SECTION 1.** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.18.480** _(priority 5, low confidence, categories: design_review)_
-  - _...and 3 more flag(s), see bill.html for full list_
-
 ### HB5166 — Relating to housing; providing property tax exemptions and relief relating to housing; providing a civil penalty; authorizing a fee.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to State Affairs (2025-04-07)
 
@@ -289,16 +253,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS.** &rarr; **20.02.126** _(priority 5, medium confidence, categories: owner_occupancy)_
   - **Sec. 5.17. PROPERTY TAX RELIEF TO RENTAL HOUSEHOLDS.** &rarr; **20.10.035** _(priority 5, medium confidence, categories: owner_occupancy)_
   - _...and 4 more flag(s), see bill.html for full list_
-
-### HB5187 — Relating to certain municipal regulation of conversion of certain office buildings to mixed-use and multifamily residential occupancy.
-- **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Placed on General State Calendar (2025-05-15)
-
-  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.360** _(priority 5, high confidence, categories: design_review, traffic_impact, parking, density, open_space)_
-  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.280** _(priority 5, high confidence, categories: design_review, density, open_space)_
-  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.363** _(priority 4, high confidence, categories: traffic_impact, utility_extension)_
-  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.04.320** _(priority 4, medium confidence, categories: traffic_impact)_
-  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.04.200** _(priority 3, high confidence, categories: density, open_space)_
-  - _...and 8 more flag(s), see bill.html for full list_
 
 ### HB878 — Relating to the regulation of residential land use and accessory dwelling units by a political subdivision; authorizing a fee.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Land & Resource Management (2025-03-06)
@@ -346,16 +300,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
   - **(unparsed — check BILL_SECTION_RE)** &rarr; **20.10.140** _(priority 5, low confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
-
-### SB15 — Relating to size and density requirements for residential lots in certain municipalities; authorizing a fee.
-- **Lifecycle:** passed · **Overall priority:** 5 · **Last action:** Effective on 9/1/25 (2025-06-20)
-
-  - **Sec. 211.055. SMALL LOTS.** &rarr; **19.23.040** _(priority 5, high confidence, categories: design_review, setback, open_space)_
-  - **Sec. 211.051. DEFINITIONS.** &rarr; **20.02.1003** _(priority 3, medium confidence, categories: lot_size)_
-  - **Sec. 211.051. DEFINITIONS.** &rarr; **19.50.030** _(priority 3, medium confidence, categories: lot_size)_
-  - **Sec. 211.051. DEFINITIONS.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
-  - **Sec. 211.051. DEFINITIONS.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
-  - _...and 27 more flag(s), see bill.html for full list_
 
 ### SB1509 — Relating to the authority of a municipality to regulate within its extraterritorial jurisdiction.
 - **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Referred to Local Government (2025-03-06)
@@ -461,16 +405,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **Sec. 481.701. DEFINITION.** &rarr; **20.10.140** _(priority 5, low confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
-### SB673 — Relating to municipal and county regulation of accessory dwelling units; authorizing a fee.
-- **Lifecycle:** dead · **Overall priority:** 5 · **Last action:** Placed on General State Calendar (2025-05-26)
-
-  - **Sec. 249.004. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.035** _(priority 5, high confidence, categories: owner_occupancy, setback, lot_size)_
-  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **20.04.280** _(priority 3, medium confidence, categories: lot_size)_
-  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
-  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
-  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **20.10.035** _(priority 3, medium confidence, categories: lot_size)_
-  - _...and 24 more flag(s), see bill.html for full list_
-
 ### SB766 — Relating to the correction of references to the Texas Natural Resource Conservation Commission.
 - **Lifecycle:** passed · **Overall priority:** 5 · **Last action:** Effective on 9/1/25 (2025-06-20)
 
@@ -480,16 +414,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.** &rarr; **20.10.370** _(priority 5, low confidence, categories: design_review)_
   - **Sec. 395.080. CHAPTER NOT APPLICABLE TO CERTAIN WATER-RELATED SPECIAL DISTRICTS.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
   - _...and 19 more flag(s), see bill.html for full list_
-
-### SB783 — Relating to certain regulations adopted by governmental entities for the construction or alteration of residential or commercial buildings.
-- **Lifecycle:** passed · **Overall priority:** 5 · **Last action:** Effective on 9/1/25 (2025-05-20)
-
-  - **SECTION 1.** &rarr; **20.20.020** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.02.446** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.20.050** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
-  - **SECTION 1.** &rarr; **20.18.480** _(priority 5, low confidence, categories: design_review)_
-  - _...and 3 more flag(s), see bill.html for full list_
 
 ### SB840 — Relating to certain municipal regulation of certain mixed-use and multifamily residential development projects and conversion of certain commercial buildings to mixed-use and multifamily residential occupancy.
 - **Lifecycle:** passed · **Overall priority:** 5 · **Last action:** Effective on 9/1/25 (2025-06-20)
@@ -511,15 +435,55 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **SECTION 1.** &rarr; **20.18.430** _(priority 5, medium confidence, categories: design_review)_
   - _...and 3 more flag(s), see bill.html for full list_
 
-### HB4695 — Relating to the approval of subdivision plans and plats by a municipality.
-- **Lifecycle:** dead · **Overall priority:** 4 · **Last action:** Referred to Land & Resource Management (2025-04-03)
+### HB1779 — Relating to regulation of accessory dwelling units by political subdivisions.
+- **Lifecycle:** dead · **Overall priority:** 4 · **Last action:** Referred to Land & Resource Management (2025-03-14)
 
-  - **SECTION 1.** &rarr; **20.04.380** _(priority 4, low confidence, categories: traffic_impact)_
-  - **SECTION 1.** &rarr; **19.50.030** _(priority 4, low confidence, categories: traffic_impact)_
-  - **SECTION 1.** &rarr; **19.18.030** _(priority 4, low confidence, categories: traffic_impact)_
-  - **SECTION 1.** &rarr; **19.15.010** _(priority 4, low confidence, categories: traffic_impact)_
-  - **SECTION 1.** &rarr; **19.18.020** _(priority 4, low confidence, categories: traffic_impact)_
-  - _...and 3 more flag(s), see bill.html for full list_
+  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.035** _(priority 5, high confidence, categories: owner_occupancy, setback, lot_size, open_space)_
+  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
+  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
+  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.04.280** _(priority 3, high confidence, categories: density, lot_size)_
+  - **Sec. 249.002. CERTAIN REGULATIONS PROHIBITED.** &rarr; **Appendix B — A-3/0 / Other permitted uses, except as otherwise specified in this title** _(priority 3, high confidence, categories: setback, lot_size, open_space)_
+  - _...and 16 more flag(s), see bill.html for full list_
+
+### HB3404 — Relating to certain municipal and county regulation of certain multifamily and mixed-use residential development projects and conversion of certain commercial buildings to mixed-use and multifamily residential occupancy.
+- **Lifecycle:** dead · **Overall priority:** 4 · **Last action:** Referred to Land & Resource Management (2025-03-21)
+
+  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.360** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.370** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.280** _(priority 5, medium confidence, categories: design_review)_
+  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.10.470** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 249.301. CIVIL ACTION.** &rarr; **20.04.270** _(priority 5, low confidence, categories: design_review)_
+  - _...and 24 more flag(s), see bill.html for full list_
+
+### HB5187 — Relating to certain municipal regulation of conversion of certain office buildings to mixed-use and multifamily residential occupancy.
+- **Lifecycle:** dead · **Overall priority:** 4 · **Last action:** Placed on General State Calendar (2025-05-15)
+
+  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.360** _(priority 5, high confidence, categories: design_review, traffic_impact, parking, density, open_space)_
+  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.280** _(priority 5, high confidence, categories: design_review, density, open_space)_
+  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.363** _(priority 4, high confidence, categories: traffic_impact, utility_extension)_
+  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.04.320** _(priority 4, medium confidence, categories: traffic_impact)_
+  - **Sec. 218.102. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.04.200** _(priority 3, high confidence, categories: density, open_space)_
+  - _...and 8 more flag(s), see bill.html for full list_
+
+### SB15 — Relating to size and density requirements for residential lots in certain municipalities; authorizing a fee.
+- **Lifecycle:** passed · **Overall priority:** 4 · **Last action:** Effective on 9/1/25 (2025-06-20)
+
+  - **Sec. 211.055. SMALL LOTS.** &rarr; **19.23.040** _(priority 5, high confidence, categories: design_review, setback, open_space)_
+  - **Sec. 211.051. DEFINITIONS.** &rarr; **20.02.1003** _(priority 3, medium confidence, categories: lot_size)_
+  - **Sec. 211.051. DEFINITIONS.** &rarr; **19.50.030** _(priority 3, medium confidence, categories: lot_size)_
+  - **Sec. 211.051. DEFINITIONS.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
+  - **Sec. 211.051. DEFINITIONS.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
+  - _...and 27 more flag(s), see bill.html for full list_
+
+### SB673 — Relating to municipal and county regulation of accessory dwelling units; authorizing a fee.
+- **Lifecycle:** dead · **Overall priority:** 4 · **Last action:** Placed on General State Calendar (2025-05-26)
+
+  - **Sec. 249.004. CERTAIN REGULATIONS PROHIBITED.** &rarr; **20.10.035** _(priority 5, high confidence, categories: owner_occupancy, setback, lot_size)_
+  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **20.04.280** _(priority 3, medium confidence, categories: lot_size)_
+  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
+  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **Appendix B — 4,000 square feet minimum per unit / ** _(priority 3, high confidence, categories: lot_size)_
+  - **Sec. 249.002. APPLICABILITY OF CHAPTER.** &rarr; **20.10.035** _(priority 3, medium confidence, categories: lot_size)_
+  - _...and 24 more flag(s), see bill.html for full list_
 
 ### HB21 — Relating to housing finance corporations; authorizing a fee.
 - **Lifecycle:** passed · **Overall priority:** 3 · **Last action:** Effective immediately (2025-05-28)
@@ -620,6 +584,16 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
   - **Sec. 232.202. MINIMUM LOT SIZE REQUIREMENT.** &rarr; **19.23.020** _(priority 3, low confidence, categories: lot_size)_
   - **Sec. 232.202. MINIMUM LOT SIZE REQUIREMENT.** &rarr; **20.10.730** _(priority 3, low confidence, categories: lot_size)_
   - _...and 11 more flag(s), see bill.html for full list_
+
+### HB4695 — Relating to the approval of subdivision plans and plats by a municipality.
+- **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Referred to Land & Resource Management (2025-04-03)
+
+  - **SECTION 1.** &rarr; **20.04.380** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.50.030** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.18.030** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.15.010** _(priority 4, low confidence, categories: traffic_impact)_
+  - **SECTION 1.** &rarr; **19.18.020** _(priority 4, low confidence, categories: traffic_impact)_
+  - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB4754 — Relating to access to universal changing facilities in places of public accommodation and public buildings.
 - **Lifecycle:** dead · **Overall priority:** 3 · **Last action:** Referred to State Affairs (2025-04-03)
@@ -820,11 +794,9 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
 | HB1360 | Relating to certain regulations adopted by governmental enti… | dead | 5 | 8 |
 | HB1595 | Relating to public housing authorities; authorizing a fee. | dead | 5 | 8 |
 | HB1620 | Relating to nonsubstantive additions to, revisions of, and c… | passed | 5 | 32 |
-| HB1779 | Relating to regulation of accessory dwelling units by politi… | dead | 5 | 21 |
 | HB203 | Relating to a limitation on increases in the appraised value… | dead | 5 | 3 |
 | HB2082 | Relating to ensuring access to the right to vote by all elig… | dead | 5 | 8 |
 | HB2265 | Relating to county land use regulatory authority in certain … | dead | 5 | 40 |
-| HB2406 | Relating to the regulation of group home facilities, includi… | dead | 5 | 8 |
 | HB2480 | Relating to municipal and county regulation of accessory dwe… | dead | 5 | 16 |
 | HB2512 | Relating to the release of certain areas from a municipality… | passed | 5 | 8 |
 | HB2943 | Relating to post-release housing for inmates released on par… | dead | 5 | 8 |
@@ -833,7 +805,6 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
 | HB3130 | Relating to a limitation on increases in the appraised value… | dead | 5 | 3 |
 | HB3174 | Relating to county and hospital district disease control pil… | dead | 5 | 8 |
 | HB3298 | Relating to air quality permits for certain concrete batch p… | dead | 5 | 8 |
-| HB3404 | Relating to certain municipal and county regulation of certa… | dead | 5 | 29 |
 | HB3680 | Relating to subdivision plat requirements in certain countie… | passed | 5 | 136 |
 | HB3919 | Relating to size and density requirements for residential lo… | dead | 5 | 32 |
 | HB4196 | Relating to the establishment of the Task Force on Modernizi… | dead | 5 | 8 |
@@ -844,15 +815,12 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
 | HB4839 | Relating to the development, promotion, and funding of certa… | dead | 5 | 8 |
 | HB4876 | Relating to the withdrawal of certain deposits placed in esc… | dead | 5 | 8 |
 | HB4946 | Relating to county zoning authority for certain counties; cr… | dead | 5 | 40 |
-| HB5109 | Relating to certain regulations adopted by governmental enti… | dead | 5 | 8 |
 | HB5166 | Relating to housing; providing property tax exemptions and r… | dead | 5 | 9 |
-| HB5187 | Relating to certain municipal regulation of conversion of ce… | dead | 5 | 13 |
 | HB878 | Relating to the regulation of residential land use and acces… | dead | 5 | 101 |
 | HB882 | Relating to building codes applicable in the unincorporated … | dead | 5 | 3 |
 | HJR40 | Proposing a constitutional amendment to remove the requireme… | dead | 5 | 8 |
 | HJR75 | Proposing a constitutional amendment authorizing the legisla… | dead | 5 | 8 |
 | HR1261 | Commemorating the opening of the Advanced Manufacturing and … | passed | 5 | 8 |
-| SB15 | Relating to size and density requirements for residential lo… | passed | 5 | 32 |
 | SB1509 | Relating to the authority of a municipality to regulate with… | dead | 5 | 24 |
 | SB1954 | Relating to the authority of a county to regulate land use i… | dead | 5 | 8 |
 | SB208 | Relating to the establishment of the workforce housing capit… | dead | 5 | 3 |
@@ -864,12 +832,14 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
 | SB2765 | Relating to the treatment of a manufactured home as real pro… | dead | 5 | 3 |
 | SB2911 | Relating to the creation of the Northeast Houston Redevelopm… | dead | 5 | 8 |
 | SB2925 | Relating to the establishment of the Task Force on Modernizi… | passed | 5 | 8 |
-| SB673 | Relating to municipal and county regulation of accessory dwe… | dead | 5 | 29 |
 | SB766 | Relating to the correction of references to the Texas Natura… | passed | 5 | 24 |
-| SB783 | Relating to certain regulations adopted by governmental enti… | passed | 5 | 8 |
 | SB840 | Relating to certain municipal regulation of certain mixed-us… | passed | 5 | 29 |
 | SJR79 | Proposing a constitutional amendment increasing the amount o… | dead | 5 | 8 |
-| HB4695 | Relating to the approval of subdivision plans and plats by a… | dead | 4 | 8 |
+| HB1779 | Relating to regulation of accessory dwelling units by politi… | dead | 4 | 21 |
+| HB3404 | Relating to certain municipal and county regulation of certa… | dead | 4 | 29 |
+| HB5187 | Relating to certain municipal regulation of conversion of ce… | dead | 4 | 13 |
+| SB15 | Relating to size and density requirements for residential lo… | passed | 4 | 32 |
+| SB673 | Relating to municipal and county regulation of accessory dwe… | dead | 4 | 29 |
 | HB21 | Relating to housing finance corporations; authorizing a fee. | passed | 3 | 16 |
 | HB2737 | Relating to land development regulation of communities using… | dead | 3 | 8 |
 | HB294 | Relating to the regulation by a property owners' association… | dead | 3 | 8 |
@@ -880,6 +850,7 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
 | HB3892 | Relating to county regulation related to infrastructure plan… | dead | 3 | 8 |
 | HB4582 | Relating to reimbursement of infrastructure costs incurred b… | dead | 3 | 8 |
 | HB4637 | Relating to the authority of certain counties to regulate su… | dead | 3 | 16 |
+| HB4695 | Relating to the approval of subdivision plans and plats by a… | dead | 3 | 8 |
 | HB4754 | Relating to access to universal changing facilities in place… | dead | 3 | 8 |
 | HB5071 | Relating to the applicability of limits on the authority of … | dead | 3 | 8 |
 | HB5148 | Relating to municipal regulation of stairway requirements in… | dead | 3 | 8 |
@@ -900,6 +871,7 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
 | SB854 | Relating to municipal regulation of multifamily and mixed-us… | dead | 3 | 29 |
 | SB867 | Relating to housing finance corporations; authorizing a fee. | dead | 3 | 16 |
 | HB2246 | Relating to the terminology used in statute to refer to the … | dead | 2 | 24 |
+| HB2406 | Relating to the regulation of group home facilities, includi… | dead | 2 | 8 |
 | HB3154 | Relating to the creation, powers, duties, and financing of t… | dead | 2 | 24 |
 | HB3333 | Relating to a restriction on permits authorizing direct disc… | passed | 2 | 8 |
 | HB3701 | Relating to the authority of the board of regents of The Tex… | dead | 2 | 8 |
@@ -914,6 +886,8 @@ _Generated 2026-08-04T16:48:12.388808+00:00_
 | SB3054 | Relating to the powers, duties, and governance of the Starr … | dead | 2 | 8 |
 | SB6 | Relating to the planning for, interconnection and operation … | passed | 2 | 8 |
 | SB729 | Relating to the operation of rock crushing facilities. | dead | 2 | 8 |
+| HB5109 | Relating to certain regulations adopted by governmental enti… | dead | 1 | 8 |
+| SB783 | Relating to certain regulations adopted by governmental enti… | passed | 1 | 8 |
 
 ---
 
