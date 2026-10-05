@@ -1,5 +1,5 @@
 # Legislative Watch — Weekly Digest
-_Generated 2026-09-28T20:06:25.603668+00:00_
+_Generated 2026-10-05T21:14:33.974775+00:00_
 
 **357 bills tracked** — 0 active, 103 passed, 254 dead
 
