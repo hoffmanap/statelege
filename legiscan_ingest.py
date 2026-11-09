@@ -1,6 +1,6 @@
 """
 LegiScan weekly ingestion script — El Paso housing/zoning bill monitor
-90th Texas Legislature (2027) prep
+90th Texas Legislature (2027) only — the 89th is a frozen archive
 
 Purpose:
   - Pull TX bills matching housing/zoning/subdivision/building-code keywords
@@ -9,7 +9,7 @@ Purpose:
   - Store raw text + metadata locally for the downstream conflict-scoring pipeline
 
 Usage:
-  export LEGISCAN_API_KEY="your_key_here"
+  set LEGISCAN_API_KEY=your_key_here      (Windows cmd)
   python legiscan_ingest.py
 
 Run this weekly via cron. It's idempotent — safe to re-run same week.
@@ -24,6 +24,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+
+import session_config as sc
 
 API_KEY = os.environ.get("LEGISCAN_API_KEY")
 BASE_URL = "https://api.legiscan.com/"
@@ -52,13 +54,13 @@ DB_PATH = Path(__file__).parent / "bill_tracker.db"
 TEXT_STORE = Path(__file__).parent / "bill_texts"
 TEXT_STORE.mkdir(exist_ok=True)
 
-# 90th Texas Legislature regular session window. Update these two dates when
-# the session convenes/adjourns (and again for any special sessions called).
-# This is what lets us call a bill "dead" even when LegiScan hasn't formally
-# marked it Failed — many bills just quietly stop moving and never get a
-# terminal status code.
-SESSION_START = datetime(2027, 1, 12, tzinfo=timezone.utc)
-SESSION_END = datetime(2027, 6, 1, tzinfo=timezone.utc)  # approx sine die + buffer
+# Session window comes from session_config.py. It lets us call a bill "dead"
+# once the session ends even when LegiScan never marked it Failed.
+SESSION = sc.ACTIVE_SESSION
+SESSION_START = sc.SESSIONS[SESSION]["start"]
+SESSION_END = sc.SESSIONS[SESSION]["end"]
+SESSION_YEAR = sc.SESSIONS[SESSION]["year"]
+SESSION_DATA = sc.data_dir(SESSION)
 
 # LegiScan status codes: 1=Introduced, 2=Engrossed, 3=Enrolled,
 # 4=Passed, 5=Vetoed, 6=Failed/Dead
@@ -67,8 +69,9 @@ LEGISCAN_DEAD = (5, 6)
 
 
 def session_is_active(now=None):
+    # Pre-filed bills (before the session convenes) count as active, not dead.
     now = now or datetime.now(timezone.utc)
-    return SESSION_START <= now <= SESSION_END
+    return now <= SESSION_END
 
 
 def bill_lifecycle(status_code):
@@ -107,9 +110,17 @@ def get_conn():
             latest_doc_type TEXT,
             lifecycle TEXT,
             legiscan_status_code INTEGER,
-            needs_review INTEGER DEFAULT 1
+            needs_review INTEGER DEFAULT 1,
+            session TEXT DEFAULT '89'
         )
     """)
+    # Migration for DBs created before the session column existed: all
+    # pre-existing rows are 89th-session bills.
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(bills)")]
+    if "session" not in cols:
+        conn.execute("ALTER TABLE bills ADD COLUMN session TEXT DEFAULT '89'")
+        conn.execute("UPDATE bills SET session = '89' WHERE session IS NULL")
+        conn.commit()
     conn.execute("""
         CREATE TABLE IF NOT EXISTS bill_versions (
             doc_id INTEGER PRIMARY KEY,
@@ -136,8 +147,8 @@ def api_call(op, **params):
 
 
 def search_bills(query):
-    """getSearch: full text + metadata search scoped to TX, current session."""
-    data = api_call("getSearch", state=STATE, query=query)
+    """getSearch scoped to TX and the active session's calendar year."""
+    data = api_call("getSearch", state=STATE, query=query, year=SESSION_YEAR)
     results = data.get("searchresult", {})
     bills = []
     for key, val in results.items():
@@ -145,6 +156,21 @@ def search_bills(query):
             continue
         bills.append(val)
     return bills
+
+
+def resolve_session_ids():
+    """
+    Ask LegiScan which TX session_id(s) belong to the active session's year
+    (regular session plus any called specials). Returns a set of ints, empty
+    if LegiScan hasn't published the session yet.
+    """
+    data = api_call("getSessionList", state=STATE)
+    ids = set()
+    for s in data.get("sessions", []):
+        if int(s.get("year_start", 0)) == SESSION_YEAR:
+            ids.add(int(s["session_id"]))
+            print(f"  LegiScan session {s['session_id']}: {s.get('session_name')}")
+    return ids
 
 
 def get_bill_detail(bill_id):
@@ -202,7 +228,7 @@ def write_bill_base_json(bill_number, bill_id, title, lifecycle, status, history
     than overwriting, so run order (ingest then score) matters but neither
     script clobbers the other's fields.
     """
-    out_dir = Path(__file__).parent / "docs" / "data" / "bills"
+    out_dir = SESSION_DATA / "bills"
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{bill_number}.json"
 
@@ -236,6 +262,19 @@ def run():
         raise SystemExit("Set LEGISCAN_API_KEY environment variable first.")
 
     conn = get_conn()
+    sc.write_sessions_index()
+
+    print(f"Active session: {sc.SESSIONS[SESSION]['label']}")
+    try:
+        session_ids = resolve_session_ids()
+    except Exception as e:
+        print(f"Could not list LegiScan sessions: {e}")
+        session_ids = set()
+    if not session_ids:
+        print(f"LegiScan has no TX session for {SESSION_YEAR} yet — nothing to pull. "
+              f"Re-run once the {sc.SESSIONS[SESSION]['label']} appears.")
+        export_manifest(conn)
+        return
     seen_bill_ids = set()
     new_or_changed = []
 
@@ -268,6 +307,9 @@ def run():
                 print(f"  could not fetch detail for bill {bill_id}: {e}")
                 continue
 
+            if int(detail.get("session_id") or 0) not in session_ids:
+                continue  # belongs to another session (e.g. the 89th) — leave it alone
+
             actual_hash = detail.get("change_hash")
             bill_number = detail.get("bill_number", "")
             title = detail.get("title", "")
@@ -296,8 +338,8 @@ def run():
                 INSERT INTO bills (bill_id, bill_number, title, status, last_action,
                                     last_action_date, change_hash, last_checked,
                                     latest_doc_id, latest_doc_type, lifecycle,
-                                    legiscan_status_code, needs_review)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1)
+                                    legiscan_status_code, needs_review, session)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1, ?)
                 ON CONFLICT(bill_id) DO UPDATE SET
                     title=excluded.title,
                     status=excluded.status,
@@ -314,7 +356,7 @@ def run():
                 bill_id, bill_number, title, status, last_action, last_action_date,
                 actual_hash, datetime.now(timezone.utc).isoformat(),
                 lv["doc_id"] if lv else None, lv.get("type") if lv else None,
-                lifecycle, status_code,
+                lifecycle, status_code, SESSION,
             ))
             conn.commit()
 
@@ -342,6 +384,45 @@ def run():
     export_manifest(conn)
 
 
+STAGES = ["introduced", "engrossed", "enrolled", "passed"]
+
+
+def bucket_stage(action_text):
+    """
+    Mirrors bill.html's JS bucketStage() logic, so the list page and detail
+    page agree on what stage a bill is in. Returns the highest stage found
+    across the bill's full history, or None if history is empty/unclear.
+    """
+    t = (action_text or "").lower()
+    if "enrolled" in t:
+        return "enrolled"
+    if "engrossed" in t or "passed senate" in t or "passed house" in t:
+        return "engrossed"
+    if "signed" in t or "effective" in t or "governor" in t:
+        return "passed"
+    if "filed" in t or "introduced" in t:
+        return "introduced"
+    return None
+
+
+def highest_stage_for_bill(bill_number):
+    bill_path = SESSION_DATA / "bills" / f"{bill_number}.json"
+    if not bill_path.exists():
+        return None
+    try:
+        bill = json.loads(bill_path.read_text(encoding="utf-8-sig"))
+    except (json.JSONDecodeError, OSError):
+        return None
+
+    history = bill.get("progress", [])
+    reached = {bucket_stage(h.get("action")) for h in history}
+    reached.discard(None)
+    for stage in reversed(STAGES):  # check from most advanced backward
+        if stage in reached:
+            return stage
+    return None
+
+
 def export_manifest(conn):
     """
     Write data/manifest.json for the GitHub Pages front end. This is the
@@ -357,8 +438,8 @@ def export_manifest(conn):
     one exists) and carries forward each bill's previously-scored severity/
     scope, only defaulting to null for bills that are genuinely new.
     """
-    out_dir = Path(__file__).parent / "docs" / "data"
-    out_dir.mkdir(exist_ok=True)
+    out_dir = SESSION_DATA
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     manifest_path = out_dir / "manifest.json"
     previous_scores = {}
@@ -376,8 +457,9 @@ def export_manifest(conn):
         SELECT bill_number, title, lifecycle, status, last_action,
                last_action_date, bill_id
         FROM bills
+        WHERE session = ?
         ORDER BY last_action_date DESC
-    """).fetchall()
+    """, (SESSION,)).fetchall()
 
     manifest = []
     for r in rows:
@@ -388,6 +470,7 @@ def export_manifest(conn):
             "bill_number": bill_number,
             "title": r[1],
             "lifecycle": r[2],          # active / passed / dead
+            "stage": highest_stage_for_bill(bill_number),  # introduced / engrossed / enrolled / passed / None
             "legiscan_status": r[3],
             "last_action": r[4],
             "last_action_date": r[5],
@@ -403,7 +486,7 @@ def export_manifest(conn):
         "updated_at": datetime.now(timezone.utc).isoformat()
     }, indent=2), encoding="utf-8")
 
-    print(f"Wrote data/manifest.json ({len(manifest)} bills) and last_updated.json")
+    print(f"Wrote data/{SESSION}/manifest.json ({len(manifest)} bills) and last_updated.json")
 
 
 if __name__ == "__main__":

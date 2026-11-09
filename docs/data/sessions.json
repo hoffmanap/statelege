@@ -1,0 +1,15 @@
+{
+  "default": "90",
+  "sessions": [
+    {
+      "id": "90",
+      "label": "90th Legislature (2027)",
+      "year": 2027
+    },
+    {
+      "id": "89",
+      "label": "89th Legislature (2025)",
+      "year": 2025
+    }
+  ]
+}

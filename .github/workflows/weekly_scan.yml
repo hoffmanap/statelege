@@ -27,13 +27,13 @@ jobs:
       - name: Run LegiScan ingestion
         env:
           LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
-        run: python legiscan_ingest.py
+        run: python legiscan_ingest.py   # 90th session only
 
       - name: Run rule-based conflict pre-screen (no API key, no cost)
-        run: python prescreen_conflicts.py
+        run: python prescreen_conflicts.py --session 90
 
       - name: Generate weekly digest
-        run: python weekly_digest.py
+        run: python weekly_digest.py --session 90
 
       - name: Commit and push updated data
         run: |

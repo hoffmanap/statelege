@@ -42,8 +42,10 @@ from pathlib import Path
 
 from anthropic import Anthropic
 
-BILLS_DIR = Path(__file__).parent / "docs" / "data" / "bills"
-MANIFEST_PATH = Path(__file__).parent / "docs" / "data" / "manifest.json"
+import session_config as sc
+
+BILLS_DIR = sc.data_dir(sc.ACTIVE_SESSION) / "bills"          # set by --session in __main__
+MANIFEST_PATH = sc.data_dir(sc.ACTIVE_SESSION) / "manifest.json"
 
 client = Anthropic()
 
@@ -272,6 +274,9 @@ if __name__ == "__main__":
     parser.add_argument("--relevant-titles-only", action="store_true",
                          help="Skip bills whose title doesn't mention a housing/zoning/development "
                               "keyword, even if they were flagged on incidental category overlap")
+    sc.add_session_arg(parser)
     args = parser.parse_args()
+    BILLS_DIR = sc.data_dir(args.session) / "bills"
+    MANIFEST_PATH = sc.data_dir(args.session) / "manifest.json"
     run(only_bill=args.bill, limit=args.limit, min_priority=args.min_priority, force=args.force,
         require_relevant_title=args.relevant_titles_only)
