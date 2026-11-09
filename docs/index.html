@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>El Paso Legislative Watch — 90th Texas Legislature</title>
+<title>Legislative Watch — Texas Legislature</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -212,14 +212,16 @@
   }
 
   a { color: inherit; }
+.session-select { font:500 14px 'Inter',sans-serif; margin:6px 0 4px; padding:8px 12px; border:1px solid #d9d2c0; border-radius:6px; background:#fffdf7; color:#1f1d18; cursor:pointer; }
+.empty-note { padding:28px 8px; color:#7a7463; font-size:14px; }
 </style>
 </head>
 <body>
 
 <header>
-  <div class="eyebrow">City of El Paso — Development Services</div>
   <h1>Legislative Watch</h1>
-  <p class="subhead">Bills before the 90th Texas Legislature touching housing, zoning, subdivision, and building code — scored against Titles 18, 19, 20 &amp; 21 of the City Code.</p>
+  <p class="subhead">Bills before the Texas Legislature touching housing, zoning, subdivision, and building code — scored against Titles 18, 19, 20 &amp; 21 of the City Code.</p>
+  <select class="session-select" id="session-select" aria-label="Legislative session"></select>
   <div class="status-line" id="last-updated">Last updated —</div>
 </header>
 
@@ -271,20 +273,67 @@
 <script>
   const state = { filter: 'flagged', search: '', sort: 'severity_desc', stage: '', bills: [] };
 
+  let sessions = [{ id: '90', label: '90th Legislature (2027)' }, { id: '89', label: '89th Legislature (2025)' }];
+
+  function pickSession(defaultId) {
+    const fromUrl = new URLSearchParams(location.search).get('session');
+    let saved = null;
+    try { saved = localStorage.getItem('lw_session'); } catch (e) {}
+    const ok = id => id && sessions.some(s => s.id === id);
+    return [fromUrl, saved, defaultId].find(ok) || sessions[0].id;
+  }
+
+  function renderToggle() {
+    const sel = document.getElementById('session-select');
+    sel.innerHTML = '';
+    sessions.forEach(x => {
+      const o = document.createElement('option');
+      o.value = x.id; o.textContent = x.label;
+      if (x.id === state.session) o.selected = true;
+      sel.appendChild(o);
+    });
+    sel.onchange = () => switchSession(sel.value);
+  }
+
+  async function switchSession(id) {
+    state.session = id;
+    try { localStorage.setItem('lw_session', id); } catch (e) {}
+    const url = new URL(location.href);
+    url.searchParams.set('session', id);
+    history.replaceState(null, '', url);
+    renderToggle();
+    await loadData();
+  }
+
   async function loadData() {
+    state.bills = [];
+    const base = `data/${state.session}/`;
     try {
-      const [manifestRes, updatedRes] = await Promise.all([
-        fetch('data/manifest.json'),
-        fetch('data/last_updated.json')
-      ]);
+      const manifestRes = await fetch(base + 'manifest.json');
+      if (!manifestRes.ok) throw new Error('no manifest');
       state.bills = await manifestRes.json();
-      const updated = await updatedRes.json();
-      document.getElementById('last-updated').textContent =
-        'Last updated ' + new Date(updated.updated_at).toLocaleString();
+      document.getElementById('last-updated').textContent = 'Last updated —';
+      try {
+        const updated = await (await fetch(base + 'last_updated.json')).json();
+        document.getElementById('last-updated').textContent =
+          'Last updated ' + new Date(updated.updated_at).toLocaleString();
+      } catch (e) {}
     } catch (e) {
-      document.getElementById('last-updated').textContent = 'Could not load data/manifest.json';
+      document.getElementById('last-updated').textContent =
+        'No bills tracked yet for this session — data appears after the first weekly scan.';
     }
     render();
+  }
+
+  async function init() {
+    let def = null;
+    try {
+      const r = await fetch('data/sessions.json');
+      if (r.ok) { const j = await r.json(); sessions = j.sessions; def = j.default; }
+    } catch (e) {}
+    state.session = pickSession(def);
+    renderToggle();
+    await loadData();
   }
 
   function severityClass(sev) {
@@ -317,7 +366,7 @@
 
     rows.forEach(b => {
       const tr = document.createElement('tr');
-      tr.onclick = () => window.location.href = `bill.html?bill=${encodeURIComponent(b.bill_number)}`;
+      tr.onclick = () => window.location.href = `bill.html?bill=${encodeURIComponent(b.bill_number)}&session=${state.session}`;
       tr.innerHTML = `
         <td class="bill-number">${b.bill_number}</td>
         <td class="bill-title">${b.title}</td>
@@ -355,7 +404,7 @@
     render();
   });
 
-  loadData();
+  init();
 </script>
 
 </body>
