@@ -32,14 +32,15 @@ import re
 import sqlite3
 from pathlib import Path
 
+import session_config as sc
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 DB_PATH = Path(__file__).parent / "bill_tracker.db"
 CODE_DIR = Path(__file__).parent / "docs" / "city_code"
-DATA_DIR = Path(__file__).parent / "docs" / "data"
+SESSION = sc.ACTIVE_SESSION          # overridden by --session in __main__
+DATA_DIR = sc.data_dir(SESSION)
 BILLS_OUT = DATA_DIR / "bills"
-BILLS_OUT.mkdir(parents=True, exist_ok=True)
 
 TOP_K_CANDIDATES = 8  # per category-filtered pool, not the whole corpus — see top_candidates()
 
@@ -315,10 +316,10 @@ def score_bill(bill_meta, bill_text, vectorizer, matrix, records):
 # ---------- Bill text loading ----------
 
 def get_bills_needing_review(conn, rescan_all=False):
-    query = "SELECT bill_id, bill_number, title, lifecycle, status, last_action, last_action_date FROM bills"
+    query = "SELECT bill_id, bill_number, title, lifecycle, status, last_action, last_action_date FROM bills WHERE session = ?"
     if not rescan_all:
-        query += " WHERE needs_review = 1"
-    rows = conn.execute(query).fetchall()
+        query += " AND needs_review = 1"
+    rows = conn.execute(query, (SESSION,)).fetchall()
     cols = ["bill_id", "bill_number", "title", "lifecycle", "status", "last_action", "last_action_date"]
     return [dict(zip(cols, r)) for r in rows]
 
@@ -378,6 +379,8 @@ def update_manifest(bill_result):
 
 
 def run(rescan_all=False):
+    BILLS_OUT.mkdir(parents=True, exist_ok=True)
+    print(f"Session: {sc.SESSIONS[SESSION]['label']}")
     print("Loading city code corpus...")
     records = load_code_corpus()
     print(f"  {len(records)} code record(s) loaded")
@@ -422,5 +425,9 @@ if __name__ == "__main__":
                          help="Re-screen every bill in the tracker, ignoring needs_review "
                               "(use after changing CATEGORIES, regex, or fixing a bug like "
                               "the PDF extraction fix — not needed for a normal weekly run)")
+    sc.add_session_arg(parser)
     args = parser.parse_args()
+    SESSION = args.session
+    DATA_DIR = sc.data_dir(SESSION)
+    BILLS_OUT = DATA_DIR / "bills"
     run(rescan_all=args.rescan_all)

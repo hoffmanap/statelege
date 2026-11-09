@@ -23,7 +23,9 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-DATA_DIR = Path(__file__).parent / "docs" / "data"
+import session_config as sc
+
+DATA_DIR = sc.data_dir(sc.ACTIVE_SESSION)   # overridden by --session in __main__
 BILLS_DIR = DATA_DIR / "bills"
 
 # Only include bills whose priority/severity meets this floor in the
@@ -97,7 +99,7 @@ def render_markdown(summary, generated_at):
         lines.append(f"**{summary['not_llm_verified_count']} flagged bill(s) still need the manual "
                       f"LLM upgrade pass** for real conflict analysis (the free pre-screen only "
                       f"found candidate matches, not verdicts): {bill_list}{more}\n\n"
-                      f"Run: `python upgrade_flagged_bills.py --min-priority 4 --relevant-titles-only`\n")
+                      f"Run: `python upgrade_flagged_bills.py --session {sc.ACTIVE_SESSION} --min-priority 4 --relevant-titles-only`\n")
 
     lines.append("---\n")
     lines.append("## Priority bills — read these first\n")
@@ -169,4 +171,10 @@ def run():
 
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Weekly digest")
+    sc.add_session_arg(parser)
+    args = parser.parse_args()
+    DATA_DIR = sc.data_dir(args.session)
+    BILLS_DIR = DATA_DIR / "bills"
     run()
