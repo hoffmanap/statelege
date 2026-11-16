@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-11-10T16:37:27.657104+00:00",
-  "total_bills_tracked": 0,
+  "generated_at": "2026-11-16T22:50:36.717990+00:00",
+  "total_bills_tracked": 151,
   "lifecycle_counts": {
-    "active": 0,
+    "active": 151,
     "passed": 0,
     "dead": 0
   },
-  "flagged_count": 0,
-  "high_priority_count": 0,
-  "high_priority_bill_numbers": []
+  "flagged_count": 20,
+  "high_priority_count": 19,
+  "high_priority_bill_numbers": [
+    "HB1011",
+    "HB113",
+    "HB1149",
+    "HB281",
+    "HB530",
+    "HB605",
+    "HB743",
+    "HB801",
+    "SB313",
+    "SB339",
+    "SB362",
+    "SB62",
+    "SB98",
+    "HB338",
+    "HB706",
+    "SB179",
+    "SB296",
+    "SB338",
+    "SB34"
+  ]
 }

@@ -1,0 +1,173 @@
+{
+  "bill_id": 2162240,
+  "bill_number": "HB706",
+  "title": "Relating to election and public hearing requirements before a municipality may enter into a data center development agreement under certain economic development programs.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB706/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.141
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.111
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "20.10.625",
+      "code_text_excerpt": "Small lot development\n20.10.625\u00a0Small lot development.\nA.\tThe standards in this section supersede the base zoning districts standards.\nB.\tTo meet the requirements of a small lot development, the parcel to be platted shall meet all the following requirements:\n1.\tShall be five acres or more:\n2.\tHave no previously recorded plat: and\n3.\tLots shall not exceed four thousand square feet.\nC.\tWhen all the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.101
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "20.10.550",
+      "code_text_excerpt": "Restricted residential mixed-use development\n20.10.550\u00a0Restricted residential mixed-use development.\nA.\tPurpose. The purpose of a restricted residential mixed-use development is to create a unique environment for a hub of activity and a focal point for a given area, reflecting the identity of the area by providing a variety of land uses that coexist in a multi-use residential setting. The mix of l",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.1
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "19.26.020",
+      "code_text_excerpt": "Infill development\n19.26.020\u00a0Infill development.\nA.\tIntent and Purpose. The following guidelines are designed to meet the intent and purpose of the infill sections, requirements and references in Title 20, the zoning ordinance to reinvigorate existing communities and neighborhoods and support new compact, single or mixed-use development. This chapter is intended to reduce barriers to infill develo",
+      "code_numbers_found": [
+        "50 percent"
+      ],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.09
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.085
+    },
+    {
+      "bill_section": "SECTION 1.",
+      "bill_text_excerpt": "SECTION 1. Chapter 380, Local Government Code, is amended by adding Section 380.005 to read as follows: Sec. 380.005. DEVELOPMENT AGREEMENTS FOR DATA CENTERS; ELECTION; PUBLIC HEARING. (a) In this section, \"data center\" means at least 100,000 square feet of space in a building or portion of a building located in this state, in which the space: (1) is specifically constructed or refurbished and act",
+      "bill_numbers_found": [
+        "100,000 square feet"
+      ],
+      "code_section": "20.12.050",
+      "code_text_excerpt": "Supplemental density regulations\n20.12.050\u00a0Supplemental density regulations.\nDensity regulations may be modified in the following instances:\nA.\tLot area per unit requirements shall not apply to dormitories, fraternities, sororities, nursing homes or other similar group quarters where no cooking facilities are provided in individual rooms or apartments;\nB.\tIn any special use permit for a planned re",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.079
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
+}

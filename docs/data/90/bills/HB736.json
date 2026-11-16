@@ -1,0 +1,24 @@
+{
+  "bill_id": 2162279,
+  "bill_number": "HB736",
+  "title": "Relating to the liability of a person operating a detention facility in this state for the death of or injury to an individual in custody and for the failure to maintain and disclose custody records; providing a civil cause of action.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB736/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
+}

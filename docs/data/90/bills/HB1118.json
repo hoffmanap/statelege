@@ -1,0 +1,24 @@
+{
+  "bill_id": 2163187,
+  "bill_number": "HB1118",
+  "title": "Relating to requirements for commercial and residential property insurance policies regarding coverage for a structure other than the primary structure covered under the policy.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1118/2027",
+  "progress": [
+    {
+      "date": "2026-11-12",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Filed",
+  "last_action_date": "2026-11-12",
+  "scoring_method": "rule_based_prescreen"
+}

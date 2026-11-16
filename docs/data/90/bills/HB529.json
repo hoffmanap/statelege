@@ -1,0 +1,21 @@
+{
+  "bill_id": 2162415,
+  "bill_number": "HB529",
+  "title": "Relating to water conservation plans, data center and related facility water use and wastewater reporting, water resource impact assessments, notice to local entities, public participation, and public disclosure; providing for enforcement and fees.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB529/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null
+}

@@ -1,0 +1,24 @@
+{
+  "bill_id": 2162717,
+  "bill_number": "HB734",
+  "title": "Relating to the public disclosure of local economic development agreements involving data centers.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB734/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
+}

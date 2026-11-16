@@ -1,0 +1,418 @@
+{
+  "bill_id": 2162922,
+  "bill_number": "SB62",
+  "title": "Relating to the regulation and licensing of reroofing contractors by the Texas Department of Licensing and Regulation; providing administrative and civil penalties; authorizing fees.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB62/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.075
+    },
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "20.04.150",
+      "code_text_excerpt": "Procedure\n20.04.150\u00a0Procedure.\nA.\tAn application for detailed site development plan shall be prepared in accordance with the specifications outlined in Section 20.04.160, except where the development is for apartments, or mixed-use residential development that meet all minimum requirements set forth in Chapter 20.12 (Density and Dimensional Standards) and Section 20.10.363, a detailed site develop",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.074
+    },
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.068
+    },
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "19.15.150",
+      "code_text_excerpt": "Private streets\n19.15.150\u00a0Private streets.\nA.\tPermitted Only as Local Street. Private streets shall require approval as an exception at the time of preliminary plat approval by the city plan commission in accordance with this title. No streets or thoroughfares shown on the adopted thoroughfare plan may be a nonpublic street. Construction and development of private streets shall meet the standards ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.057
+    },
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.043
+    },
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "19.23.040",
+      "code_text_excerpt": "Lots\u2014Determination and regulation of size\n19.23.040\u00a0Lots\u2014Determination and regulation of size.\nA.\tZoning Lot District Requirements, if Applicable. Lots shall conform to the minimum requirements of the established zoning district in which they are located, if located within the city's corporate limits. For small lot development as defined in El Paso City Code Title 20, the development shall meet th",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.042
+    },
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "20.10.145",
+      "code_text_excerpt": "Civic buildings, public spaces, and educational facilities\n20.10.145\u00a0Civic buildings, public spaces, and educational facilities.\nAny civic building, public space, and/or educational facilities as defined in this title shall conform to, in addition to all other applicable code provisions, the development standards set forth herein.\nA.\tFor purposes of this ordinance, a civic building and/or public s",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.04
+    },
+    {
+      "bill_section": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP.",
+      "bill_text_excerpt": "Sec. 1306.103. ADVISORY BOARD MEMBERSHIP. (a) The advisory board is composed of seven members as follows: (1) six members appointed by the presiding officer of the commission with the commission's approval as follows: (A) four members who are licensed reroofing contractors; and (B) two public members; and (2) one member who is the administrative head, or the administrative head's designee, of a st",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.039
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.077
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "19.15.150",
+      "code_text_excerpt": "Private streets\n19.15.150\u00a0Private streets.\nA.\tPermitted Only as Local Street. Private streets shall require approval as an exception at the time of preliminary plat approval by the city plan commission in accordance with this title. No streets or thoroughfares shown on the adopted thoroughfare plan may be a nonpublic street. Construction and development of private streets shall meet the standards ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.067
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.057
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.054
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "20.18.050",
+      "code_text_excerpt": "Definitions\n20.18.050\u00a0Definitions.\nDefinitions. For purposes of this chapter, the following terms have these specially defined meanings. If a term is not defined hereunder, the definition contained in chapter 20.02 shall apply, provided, however, where there is conflict the definition contained in this chapter shall apply.\n\"Add-ons,\" in the context of billboards, means a design element that extend",
+      "code_numbers_found": [
+        "72 square feet"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.051
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "20.10.145",
+      "code_text_excerpt": "Civic buildings, public spaces, and educational facilities\n20.10.145\u00a0Civic buildings, public spaces, and educational facilities.\nAny civic building, public space, and/or educational facilities as defined in this title shall conform to, in addition to all other applicable code provisions, the development standards set forth herein.\nA.\tFor purposes of this ordinance, a civic building and/or public s",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.048
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "19.21.030",
+      "code_text_excerpt": "Sidewalk requirements for new streets\n19.21.030\u00a0Sidewalk requirements for new streets.\nA.\tSides of the Street. Sidewalks shall be required on both sides of all new streets except in accordance with Chapter 13.04.\nB.\tTiming of improvements.\n1.\tSidewalks, landscape and curb ramps shall be provided by the developer at the time of road construction on all new freeway frontage roads unless disallowed b",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.047
+    },
+    {
+      "bill_section": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS.",
+      "bill_text_excerpt": "Sec. 1306.104. ELIGIBILITY OF PUBLIC MEMBERS. A person is not eligible for appointment as a public member of the advisory board if the person or the person's spouse: (1) is licensed by an occupational regulatory agency in the reroofing or construction industry; (2) is employed by or participates in the management of an agency or business entity related to the reroofing or construction industry; or",
+      "bill_numbers_found": [],
+      "code_section": "20.18.500",
+      "code_text_excerpt": "Temporary on-premises signs\n20.18.500\u00a0Temporary on-premises signs.\nA.\tTemporary real estate signs shall comply with the following requirements:\n1.\tPermit required: no;\n2.\tMaximum number: no maximum, a minimum of fifty feet is required between each sign;\n3.\tMaximum sign area: thirty-two square feet for C-1, C-2, C-3, C-4, C-5, Q, M-1, M-2 and M-3 districts; six square feet for all other districts, ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.046
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "20.10.450",
+      "code_text_excerpt": "Personal care facilities\n20.10.450\u00a0Personal care facilities.\nPersonal care facilities operated in a residential zoning district shall comply with the following:\n1.\tBe licensed in accordance with state and/or city regulations;\n2.\tPermitted signs shall be limited to a one square foot nameplate attached to and not projecting more than one inch beyond the face of the building. The nameplate shall cont",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.047
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "20.10.140",
+      "code_text_excerpt": "Child care facilities\n20.10.140\u00a0Child care facilities.\nA.\tHome occupation - child care facilities shall comply with the following:\n1.\tA license shall be maintained at all times as required by law or ordinance;\n2.\tThe home child care facility shall be clearly incidental and secondary to the principal use of the property;\n3.\tA caregiver shall be required;\n4.\tThe front, side and side street yards sha",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.044
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "20.02.874",
+      "code_text_excerpt": "Sign\n20.02.874\u00a0Sign.\n\"Sign\" means any outdoor display surface, structure, search light, banner, pennant, inflatable and airborne device, whether mounted on land, air, or water, which is visible from any portion of the public right-of-way to vehicular or pedestrian traffic, a principal purpose of which is to attract attention to a communicative visual or graphic image. The term \"sign\" includes any ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.041
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "20.10.680",
+      "code_text_excerpt": "Temporary uses\n20.10.680\u00a0Temporary uses.\nA.\tIntent and purpose. The intent of this section is to accommodate reasonable requests for interim or temporary uses when such activities are desirable for the community, or are temporarily required in the process of establishing a permitted use or constructing a public facility. Temporary uses allowed under this section shall be consistent with the health",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.039
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.037
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.03
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.029
+    },
+    {
+      "bill_section": "Sec. 1306.106. PRESIDING OFFICER.",
+      "bill_text_excerpt": "Sec. 1306.106. PRESIDING OFFICER. (a) The governor shall designate a member of the advisory board as the presiding officer of the board to serve in that capacity at the pleasure of the governor. (b) The presiding officer of the advisory board must be a licensed reroofing contractor. SUBCHAPTER D. REROOFING CONTRACTOR LICENSE Sec. 1306.151. REROOFING CONTRACTOR LICENSE; USE OF TITLE. A reroofing co",
+      "bill_numbers_found": [],
+      "code_section": "19.13.020",
+      "code_text_excerpt": "The El Paso Water Utilities Wastewater System\n19.13.020\u00a0The El Paso Water Utilities Wastewater System.\nA.\tExtension. Extension of the EPWU wastewater system shall be required for any subdivision within city limits. Extension of municipal wastewater lines shall be done in accordance with adopted policies and rules and regulations of the EPWU/PSB.\nB.\tDesign Requirements. Where wastewater is to be pr",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.028
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
+}

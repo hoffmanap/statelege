@@ -1,0 +1,24 @@
+{
+  "bill_id": 2162301,
+  "bill_number": "HB582",
+  "title": "Relating to creation of the criminal offense of possessing a burning tobacco product or smoking tobacco inside or on the grounds of state buildings containing state offices.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB582/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
+}

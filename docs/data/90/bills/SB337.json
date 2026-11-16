@@ -1,0 +1,31 @@
+{
+  "bill_id": 2163150,
+  "bill_number": "SB337",
+  "title": "Relating to mail theft and certain criminal offenses committed against an employee or contractor of a common carrier or delivery service delivering mail; increasing criminal penalties.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB337/2027",
+  "progress": [
+    {
+      "date": "2026-11-10",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2026-11-10",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Filed",
+  "last_action_date": "2026-11-10",
+  "scoring_method": "rule_based_prescreen"
+}

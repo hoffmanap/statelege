@@ -1,0 +1,162 @@
+{
+  "bill_id": 2163073,
+  "bill_number": "SB313",
+  "title": "Relating to a \"Texas solution\" to reforming and addressing issues related to the Medicaid program, including the creation of an alternative program designed to ensure health benefit plan coverage to certain low-income individuals through the private marketplace; requiring a fee.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB313/2027",
+  "progress": [
+    {
+      "date": "2026-11-10",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2026-11-10",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.144
+    },
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "20.04.150",
+      "code_text_excerpt": "Procedure\n20.04.150\u00a0Procedure.\nA.\tAn application for detailed site development plan shall be prepared in accordance with the specifications outlined in Section 20.04.160, except where the development is for apartments, or mixed-use residential development that meet all minimum requirements set forth in Chapter 20.12 (Density and Dimensional Standards) and Section 20.10.363, a detailed site develop",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.13
+    },
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.128
+    },
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.102
+    },
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.097
+    },
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.095
+    },
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "20.10.140",
+      "code_text_excerpt": "Child care facilities\n20.10.140\u00a0Child care facilities.\nA.\tHome occupation - child care facilities shall comply with the following:\n1.\tA license shall be maintained at all times as required by law or ordinance;\n2.\tThe home child care facility shall be clearly incidental and secondary to the principal use of the property;\n3.\tA caregiver shall be required;\n4.\tThe front, side and side street yards sha",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.092
+    },
+    {
+      "bill_section": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS.",
+      "bill_text_excerpt": "Sec. 32.078. HOUSING BENEFITS FOR CERTAIN RECIPIENTS. To the extent allowed by federal law, the commission shall provide housing payment assistance for recipients receiving home and community-based services and supports under the medical assistance program established under this chapter. SECTION 3.03. (a) The Health and Human Services Commission shall conduct a study to examine the estate recovery",
+      "bill_numbers_found": [],
+      "code_section": "19.23.040",
+      "code_text_excerpt": "Lots\u2014Determination and regulation of size\n19.23.040\u00a0Lots\u2014Determination and regulation of size.\nA.\tZoning Lot District Requirements, if Applicable. Lots shall conform to the minimum requirements of the established zoning district in which they are located, if located within the city's corporate limits. For small lot development as defined in El Paso City Code Title 20, the development shall meet th",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.092
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Filed",
+  "last_action_date": "2026-11-10",
+  "scoring_method": "rule_based_prescreen"
+}

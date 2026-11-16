@@ -1,0 +1,158 @@
+{
+  "bill_id": 2162607,
+  "bill_number": "HB530",
+  "title": "Relating to measures to address student hunger at postsecondary educational institutions.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB530/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "20.20.020",
+      "code_text_excerpt": "Definitions\n20.20.020\u00a0Definitions.\nA.\tIn addition to the definitions of Chapter 20.02, the following definitions apply only to this chapter of the code, and control if in conflict with Chapter 20.02.\n1.\t\"Addition\" means a completely new structure or new component to an existing structure.\n2.\t\"Administrative review\" means the approval process by which the historic preservation officer (HPO) or his ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.09
+    },
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "20.20.050",
+      "code_text_excerpt": "Historic landmarks designation criteria\n20.20.050\u00a0Historic landmarks designation criteria.\nIn making designations set forth in this chapter, the HLC, the city plan commission, and city council shall consider, but shall not be limited to, one or more of the following criteria:\nA.\tCharacter, interest or value as part of the development, heritage or cultural characteristics of the city, state or the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.09
+    },
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "20.20.080",
+      "code_text_excerpt": "Alterations and changes to landmarks and H-overlay properties\n20.20.080\u00a0Alterations and changes to landmarks and H-overlay properties.\nA.\tNo person or entity shall construct, reconstruct, alter, change, remove, demolish, or fail to maintain, any of the following, unless a certificate of appropriateness or a certificate of demolition has been approved by the HLC or approval granted through administ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.08
+    },
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "20.10.680",
+      "code_text_excerpt": "Temporary uses\n20.10.680\u00a0Temporary uses.\nA.\tIntent and purpose. The intent of this section is to accommodate reasonable requests for interim or temporary uses when such activities are desirable for the community, or are temporarily required in the process of establishing a permitted use or constructing a public facility. Temporary uses allowed under this section shall be consistent with the health",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.077
+    },
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "20.10.400",
+      "code_text_excerpt": "Neighborhood conservancy overlay\n20.10.400\u00a0Neighborhood conservancy overlay.\nA.\tPurpose. The purpose of a neighborhood conservancy overlay (NCO) is to regulate the construction, reconstruction, renovation and alteration of buildings and other structures in designated places and areas of historic, cultural, or architectural importance and significance within the city. These designated places and ar",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.076
+    },
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.069
+    },
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "20.02.446",
+      "code_text_excerpt": "Historic landmark\n20.02.446\u00a0Historic landmark.\n\"Historic landmark\" means a building, structure, site district, area or land of architectural, historical, archaeological or cultural importance or value, which the city council determines shall be protected, enhanced and preserved in the interest of the culture, prosperity, education and general welfare of the people.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "low",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.065
+    },
+    {
+      "bill_section": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM.",
+      "bill_text_excerpt": "Sec. 61.0763. HUNGER-FREE CAMPUS PROGRAM. (a) The board shall establish and administer a hunger-free campus program to support institutions of higher education in establishing essential and sustainable solutions to hunger at institution campuses in this state. The solutions must include: (1) allowing students to donate meal credits from the student's meal plan to be distributed to peers who may be",
+      "bill_numbers_found": [],
+      "code_section": "Appendix B \u2014 1.9 / Camouflage and Screening",
+      "code_text_excerpt": "1.9 Camouflage and Screening 0.0:  Zoning Districts: Camouflage and Screening A. Residential and Apartment Districts (including RF, SRR, PR-I, PR-II, & PMD): i. All ground-mounted PWSF shall be camouflaged. Camouflaging is a method of disguising or concealing the appearance of an object by changing its usual color, modifying its shape, or locating it in a structure that complements the natural set",
+      "code_numbers_found": [
+        "1,000 feet",
+        "1,000 feet",
+        "1,000 feet",
+        "1,000 feet"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.062
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
+}

@@ -1,0 +1,186 @@
+{
+  "bill_id": 2162977,
+  "bill_number": "SB98",
+  "title": "Relating to public education and the public school finance system.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB98/2027",
+  "progress": [
+    {
+      "date": "2026-11-09",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 0
+    },
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "S",
+      "chamber_id": 92,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.04.270",
+      "code_text_excerpt": "Special permits for planned residential developments\n20.04.270\u00a0Special permits for planned residential developments.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning di",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.151
+    },
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.10.360",
+      "code_text_excerpt": "Mixed-use development\n20.10.360\u00a0Mixed-use development.\nWhere section 20.10.363 (Mixed-Use Residential or Apartment Development) applies, it supersedes any requirements under 20.10.360 that may be in conflict.\nA.\tSpecial Development (S-D).\n1.\tDesign Requirements\u2014Open Space and Recreation Area. The amount and arrangement of open space and recreation area should be in accord with standards of the com",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.139
+    },
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.10.470",
+      "code_text_excerpt": "Planned residential development\n20.10.470\u00a0Planned residential development.\nA.\tA planned residential development shall occupy at least the minimum site area established in the district regulations. City council may approve a special permit for a planned residential development with general lot sizes and setbacks below the minimum of the underlying zoning district. The proposed development shall add",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.136
+    },
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.06.020",
+      "code_text_excerpt": "Purpose of districts\n20.06.020\u00a0Purpose of districts.\nA.\tResidential Districts.\n1.\tLight Residential Districts. The purpose of these districts is to promote and preserve residential development within the city to create basic neighborhood units. It is intended that the district regulations maintain a low density of dwelling units supporting a suburban-urban interface that permits developments utili",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.123
+    },
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.10.610",
+      "code_text_excerpt": "Self-storage warehousing\n20.10.610\u00a0Self-storage warehousing.\nIn A-1, A-2 and A-3 (Apartment), A-M (Apartment-Manufactured home), A-O (Apartment/Office), A/3-0 (Apartment/Office High Density), RMU (Residential Mixed Use), GMU (General Mixed Use), C-1 and C-2 (Commercial) Districts the following conditions apply:\nA.\tA minimum site area of two acres shall be required, unless adjacent to and abutting ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.123
+    },
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.10.280",
+      "code_text_excerpt": "Infill development\n20.10.280\u00a0Infill development.\nA.\tPurpose. The purpose of these regulations is to encourage infill development by simplifying procedures for plan approval, provide a more flexible approach to design and development of infill development, permit the conversion or adaptive reuse of buildings and properties, encourage planning and design flexibility and innovations, create a communi",
+      "code_numbers_found": [
+        "80 percent"
+      ],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "high",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.119
+    },
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.02.446",
+      "code_text_excerpt": "Historic landmark\n20.02.446\u00a0Historic landmark.\n\"Historic landmark\" means a building, structure, site district, area or land of architectural, historical, archaeological or cultural importance or value, which the city council determines shall be protected, enhanced and preserved in the interest of the culture, prosperity, education and general welfare of the people.\n(Ord. 16653 \u00a7 2 (part), 2007)",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    },
+    {
+      "bill_section": "Sec. 48.102. SPECIAL EDUCATION.",
+      "bill_text_excerpt": "Sec. 48.102. SPECIAL EDUCATION. (a) For each student in average enrollment [ daily attendance ] in a special education program under Subchapter A, Chapter 29, [ in a mainstream instructional arrangement, ] a school district is entitled to an annual allotment equal to the basic allotment, or, if applicable, the sum of the basic allotment and the allotment under Section 48.101 to which the district ",
+      "bill_numbers_found": [
+        "55 percent",
+        "75 percent"
+      ],
+      "code_section": "20.10.370",
+      "code_text_excerpt": "Mountain development\n20.10.370\u00a0Mountain development.\nA.\tPurpose. The purpose of these regulations is to promote the following city objectives within mountain development areas:\n1.\tTo protect significant natural features of the mountain development area and preserve the city's unique visual setting as part of the comprehensive plan;\n2.\tTo provide an alternative approach to conventional flat land de",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "design_review"
+      ],
+      "priority": 5,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.105
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 5,
+  "scope": "needs_manual_review",
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
+}
