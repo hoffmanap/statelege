@@ -17,5 +17,8 @@
   "conflicts": [],
   "gaps": [],
   "overall_severity": null,
-  "scope": null
+  "scope": null,
+  "last_action": "Filed",
+  "last_action_date": "2026-11-09",
+  "scoring_method": "rule_based_prescreen"
 }

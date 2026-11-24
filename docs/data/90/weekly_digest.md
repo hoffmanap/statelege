@@ -1,13 +1,11 @@
 # Legislative Watch — Weekly Digest
-_Generated 2026-11-16T22:50:36.717990+00:00_
+_Generated 2026-11-24T00:40:56.826722+00:00_
 
-**151 bills tracked** — 151 active, 0 passed, 0 dead
+**177 bills tracked** — 177 active, 0 passed, 0 dead
 
-**20 bill(s)** have at least one candidate conflict flag against the current code corpus. **19** are priority 3+ and worth reading first.
+**25 bill(s)** have at least one candidate conflict flag against the current code corpus. **24** are priority 3+ and worth reading first.
 
-_Note: 1 bill(s) in the tracker have not been scored yet — run prescreen_conflicts.py to cover them._
-
-**20 flagged bill(s) still need the manual LLM upgrade pass** for real conflict analysis (the free pre-screen only found candidate matches, not verdicts): HB1011, HB113, HB1149, HB281, HB338, HB530, HB605, HB706, HB743, HB801, SB179, SB296, SB313, SB338, SB339, SB34, SB362, SB62, SB85, SB98
+**25 flagged bill(s) still need the manual LLM upgrade pass** for real conflict analysis (the free pre-screen only found candidate matches, not verdicts): HB1011, HB113, HB1149, HB1261, HB1273, HB180, HB281, HB338, HB530, HB605, HB706, HB743, HB801, HB878, SB179, SB296, SB313, SB338, SB339, SB34 (+5 more)
 
 Run: `python upgrade_flagged_bills.py --session 90 --min-priority 4 --relevant-titles-only`
 
@@ -47,6 +45,17 @@ Run: `python upgrade_flagged_bills.py --session 90 --min-priority 4 --relevant-t
   - **Sec. 21.132. TEXAS AIRPORT INVESTMENT PARTNERSHIP PROGRAM.** &rarr; **20.18.470** _(priority 5, high confidence, categories: design_review)_
   - **Sec. 21.132. TEXAS AIRPORT INVESTMENT PARTNERSHIP PROGRAM.** &rarr; **20.18.460** _(priority 5, medium confidence, categories: design_review)_
   - _...and 11 more flag(s), see bill.html for full list_
+
+### HB180 — Relating to ensuring access to the right to vote by all eligible voters.
+- **Lifecycle:** active · **Overall priority:** 5 · **Last action:** Filed (2026-11-09)
+- [View on LegiScan](https://legiscan.com/TX/bill/HB180/2027)
+
+  - **Sec. 86.0031. ELECTRONIC METHOD OF PROVIDING BALLOT.** &rarr; **20.20.080** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 86.0031. ELECTRONIC METHOD OF PROVIDING BALLOT.** &rarr; **20.10.400** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 86.0031. ELECTRONIC METHOD OF PROVIDING BALLOT.** &rarr; **20.18.405** _(priority 5, medium confidence, categories: design_review)_
+  - **Sec. 86.0031. ELECTRONIC METHOD OF PROVIDING BALLOT.** &rarr; **20.10.360** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 86.0031. ELECTRONIC METHOD OF PROVIDING BALLOT.** &rarr; **20.10.280** _(priority 5, medium confidence, categories: design_review)_
+  - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB281 — Relating to the regulation of residential treatment centers, including requirements related to public education for certain children who reside in residential treatment centers; creating a criminal offense.
 - **Lifecycle:** active · **Overall priority:** 5 · **Last action:** Filed (2026-11-09)
@@ -97,6 +106,14 @@ Run: `python upgrade_flagged_bills.py --session 90 --min-priority 4 --relevant-t
   - **Sec. 233.155. ENFORCEMENT OF STANDARDS.** &rarr; **20.10.035** _(priority 5, low confidence, categories: owner_occupancy)_
   - **Sec. 233.155. ENFORCEMENT OF STANDARDS.** &rarr; **20.02.124** _(priority 5, low confidence, categories: owner_occupancy)_
 
+### HB878 — Relating to the acquisition of single-family homes in this state by corporate owners for use as rental property, the attribution of ownership among persons under common control, and the registration of those owners; providing a civil penalty.
+- **Lifecycle:** active · **Overall priority:** 5 · **Last action:** Filed (2026-11-09)
+- [View on LegiScan](https://legiscan.com/TX/bill/HB878/2027)
+
+  - **Sec. 5.304. EXEMPTIONS.** &rarr; **20.02.126** _(priority 5, medium confidence, categories: owner_occupancy)_
+  - **Sec. 5.304. EXEMPTIONS.** &rarr; **20.10.035** _(priority 5, medium confidence, categories: owner_occupancy)_
+  - **Sec. 5.304. EXEMPTIONS.** &rarr; **20.02.124** _(priority 5, medium confidence, categories: owner_occupancy)_
+
 ### SB313 — Relating to a "Texas solution" to reforming and addressing issues related to the Medicaid program, including the creation of an alternative program designed to ensure health benefit plan coverage to certain low-income individuals through the private marketplace; requiring a fee.
 - **Lifecycle:** active · **Overall priority:** 5 · **Last action:** Filed (2026-11-10)
 - [View on LegiScan](https://legiscan.com/TX/bill/SB313/2027)
@@ -130,6 +147,17 @@ Run: `python upgrade_flagged_bills.py --session 90 --min-priority 4 --relevant-t
   - **Sec. 51.0412. JURISDICTION OVER INCOMPLETE PROCEEDINGS.** &rarr; **20.04.150** _(priority 5, low confidence, categories: design_review)_
   - _...and 11 more flag(s), see bill.html for full list_
 
+### SB403 — Relating to the transfer of students between public schools.
+- **Lifecycle:** active · **Overall priority:** 5 · **Last action:** Filed (2026-11-17)
+- [View on LegiScan](https://legiscan.com/TX/bill/SB403/2027)
+
+  - **Sec. 25.036. TRANSFER OF STUDENT.** &rarr; **20.06.020** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 25.036. TRANSFER OF STUDENT.** &rarr; **20.04.270** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 25.036. TRANSFER OF STUDENT.** &rarr; **20.10.360** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 25.036. TRANSFER OF STUDENT.** &rarr; **20.10.470** _(priority 5, low confidence, categories: design_review)_
+  - **Sec. 25.036. TRANSFER OF STUDENT.** &rarr; **20.10.370** _(priority 5, low confidence, categories: design_review)_
+  - _...and 3 more flag(s), see bill.html for full list_
+
 ### SB62 — Relating to the regulation and licensing of reroofing contractors by the Texas Department of Licensing and Regulation; providing administrative and civil penalties; authorizing fees.
 - **Lifecycle:** active · **Overall priority:** 5 · **Last action:** Filed (2026-11-09)
 - [View on LegiScan](https://legiscan.com/TX/bill/SB62/2027)
@@ -150,6 +178,27 @@ Run: `python upgrade_flagged_bills.py --session 90 --min-priority 4 --relevant-t
   - **Sec. 48.102. SPECIAL EDUCATION.** &rarr; **20.10.470** _(priority 5, medium confidence, categories: design_review)_
   - **Sec. 48.102. SPECIAL EDUCATION.** &rarr; **20.06.020** _(priority 5, medium confidence, categories: design_review)_
   - **Sec. 48.102. SPECIAL EDUCATION.** &rarr; **20.10.610** _(priority 5, medium confidence, categories: design_review)_
+  - _...and 3 more flag(s), see bill.html for full list_
+
+### HB1261 — Relating to the exercise of eminent domain for a demonstrated public necessity; limiting certain condemnation powers; requiring independent review, public hearings and county elections, enhanced compensation, repurchase rights, and revenue accounting; providing court review, injunctive relief, recovery of costs, and enforcement; contingent in part on a constitutional amendment.
+- **Lifecycle:** active · **Overall priority:** 3 · **Last action:** Filed (2026-11-20)
+- [View on LegiScan](https://legiscan.com/TX/bill/HB1261/2027)
+
+  - **Sec. 2206.203. PROHIBITED PURPOSES AND NONDELEGATION.** &rarr; **20.20.020** _(priority 3, low confidence, categories: permit_process)_
+  - **Sec. 2206.203. PROHIBITED PURPOSES AND NONDELEGATION.** &rarr; **19.26.020** _(priority 3, medium confidence, categories: permit_process)_
+  - **Sec. 2206.203. PROHIBITED PURPOSES AND NONDELEGATION.** &rarr; **20.10.240** _(priority 3, low confidence, categories: permit_process)_
+  - **Sec. 2206.203. PROHIBITED PURPOSES AND NONDELEGATION.** &rarr; **19.07.010** _(priority 3, low confidence, categories: permit_process)_
+  - **Sec. 2206.203. PROHIBITED PURPOSES AND NONDELEGATION.** &rarr; **20.12.050** _(priority 3, low confidence, categories: permit_process)_
+
+### HB1273 — Relating to the siting, construction, permitting, and operation of certain data centers; requiring local option elections; imposing a temporary moratorium; establishing an annual payments to county residents; repealing certain tax exemptions; providing civil penalties.
+- **Lifecycle:** active · **Overall priority:** 3 · **Last action:** Filed (2026-11-20)
+- [View on LegiScan](https://legiscan.com/TX/bill/HB1273/2027)
+
+  - **Sec. 398.001. DEFINITIONS.** &rarr; **19.50.030** _(priority 3, medium confidence, categories: lot_size)_
+  - **Sec. 398.001. DEFINITIONS.** &rarr; **20.10.680** _(priority 3, medium confidence, categories: lot_size)_
+  - **Sec. 398.001. DEFINITIONS.** &rarr; **20.10.490** _(priority 3, medium confidence, categories: lot_size)_
+  - **Sec. 398.001. DEFINITIONS.** &rarr; **20.10.140** _(priority 3, medium confidence, categories: lot_size)_
+  - **Sec. 398.001. DEFINITIONS.** &rarr; **20.02.871** _(priority 3, medium confidence, categories: lot_size)_
   - _...and 3 more flag(s), see bill.html for full list_
 
 ### HB338 — Relating to reimbursement of infrastructure costs incurred by a developer of attainable housing developments by certain municipalities and counties.
@@ -227,16 +276,21 @@ Run: `python upgrade_flagged_bills.py --session 90 --min-priority 4 --relevant-t
 | HB1011 | Relating to county and hospital district disease control pil… | active | 5 | 8 |
 | HB113 | Relating to a "Texas solution" to reforming and addressing i… | active | 5 | 8 |
 | HB1149 | Relating to the establishment of the Texas airport investmen… | active | 5 | 16 |
+| HB180 | Relating to ensuring access to the right to vote by all elig… | active | 5 | 8 |
 | HB281 | Relating to the regulation of residential treatment centers,… | active | 5 | 8 |
 | HB530 | Relating to measures to address student hunger at postsecond… | active | 5 | 8 |
 | HB605 | Relating to the establishment of the Texas Department of Art… | active | 5 | 8 |
 | HB743 | Relating to the physician assistant licensure compact; autho… | active | 5 | 3 |
 | HB801 | Relating to building codes applicable in the unincorporated … | active | 5 | 3 |
+| HB878 | Relating to the acquisition of single-family homes in this s… | active | 5 | 3 |
 | SB313 | Relating to a "Texas solution" to reforming and addressing i… | active | 5 | 8 |
 | SB339 | Relating to the authority of a county to regulate land use i… | active | 5 | 8 |
 | SB362 | Relating to the age of criminal responsibility and to certai… | active | 5 | 16 |
+| SB403 | Relating to the transfer of students between public schools. | active | 5 | 8 |
 | SB62 | Relating to the regulation and licensing of reroofing contra… | active | 5 | 24 |
 | SB98 | Relating to public education and the public school finance s… | active | 5 | 8 |
+| HB1261 | Relating to the exercise of eminent domain for a demonstrate… | active | 3 | 5 |
+| HB1273 | Relating to the siting, construction, permitting, and operat… | active | 3 | 8 |
 | HB338 | Relating to reimbursement of infrastructure costs incurred b… | active | 3 | 8 |
 | HB706 | Relating to election and public hearing requirements before … | active | 3 | 8 |
 | SB179 | Relating to the applicability of certain laws to tiny homes … | active | 3 | 8 |

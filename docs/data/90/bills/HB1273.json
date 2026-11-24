@@ -1,0 +1,177 @@
+{
+  "bill_id": 2164335,
+  "bill_number": "HB1273",
+  "title": "Relating to the siting, construction, permitting, and operation of certain data centers; requiring local option elections; imposing a temporary moratorium; establishing an annual payments to county residents; repealing certain tax exemptions; providing civil penalties.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1273/2027",
+  "progress": [
+    {
+      "date": "2026-11-20",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "19.50.030",
+      "code_text_excerpt": "Definitions\n19.50.030\u00a0Definitions.\nAs used in this title:\n\"Abutting\" as defined in the zoning ordinance, also meaning \"adjacent,\" \"adjoining\" and \"contiguous to.\" It may also mean having a lot line in common with a right-of-way or easement, or with a physical improvement such as a street, waterline, park, Arroyo or open space.\nAccess or Accessway, Public or Private. \"Public or private access or ac",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.21
+    },
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "20.10.680",
+      "code_text_excerpt": "Temporary uses\n20.10.680\u00a0Temporary uses.\nA.\tIntent and purpose. The intent of this section is to accommodate reasonable requests for interim or temporary uses when such activities are desirable for the community, or are temporarily required in the process of establishing a permitted use or constructing a public facility. Temporary uses allowed under this section shall be consistent with the health",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.131
+    },
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "20.10.490",
+      "code_text_excerpt": "Processing facilities\n20.10.490\u00a0Processing facilities.\nA.\tLight Processing Facilities. Light processing facilities are limited to baling, briqueting, crushing, compacting, grinding, shredding and sorting of source-separated recyclable materials and repairing of reusable materials. Where permitted in a district, by special permit, light processing facilities shall comply with the following standard",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.128
+    },
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "20.10.140",
+      "code_text_excerpt": "Child care facilities\n20.10.140\u00a0Child care facilities.\nA.\tHome occupation - child care facilities shall comply with the following:\n1.\tA license shall be maintained at all times as required by law or ordinance;\n2.\tThe home child care facility shall be clearly incidental and secondary to the principal use of the property;\n3.\tA caregiver shall be required;\n4.\tThe front, side and side street yards sha",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.121
+    },
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "20.02.871",
+      "code_text_excerpt": "Superregional shopping center\n20.02.871\u00a0Superregional shopping center.\n\"Superregional Shopping Center\" means a shopping center consisting of three or more anchors and only a minimum amount of small specialty tenants. Compared to traditional regional shopping centers, superregional shopping centers include more anchor stores, offer a deeper selection of merchandise, and draw from a larger populatio",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.117
+    },
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "20.04.200",
+      "code_text_excerpt": "Master zoning plan\n20.04.200\u00a0Master zoning plan.\nA.\tMaster Zoning Plan (MZP).\n1.\tAs part of any zoning application for a mixed use district, a master zoning plan shall be required and shall accompany the application. The MZP shall provide sufficient details necessary about the proposed land uses and proposed development so that the El Paso City Council may determine their compatibility within the ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.116
+    },
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "20.10.520",
+      "code_text_excerpt": "Recycling collection facilities\n20.10.520\u00a0Recycling collection facilities.\nA.\tSmall Collection Facilities. Small collection facilities may be located in commercial, manufacturing and industrial zones provided they comply with the following standards:\n1.\tShall be established as an accessory use to a permitted commercial, manufacturing or industrial use which is in compliance with the zoning, buildi",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.106
+    },
+    {
+      "bill_section": "Sec. 398.001. DEFINITIONS.",
+      "bill_text_excerpt": "Sec. 398.001. DEFINITIONS. In this chapter: (1) \"Artificial intelligence compute occupant\" means a person that owns, leases, controls, or uses computing equipment at a covered data center primarily to train, develop, fine-tune, or operate a generative or other machine-learning model for commercial consideration. The term includes a person receiving dedicated computing capacity through a contract w",
+      "bill_numbers_found": [
+        "50,000 square feet",
+        "25,000 square feet"
+      ],
+      "code_section": "19.21.010",
+      "code_text_excerpt": "Purpose and applicability\n19.21.010\u00a0Purpose and applicability.\nA.\tPurpose. Sidewalks are required as a part of subdivision plat approval as outlined within this chapter and in Title 13, Chapter 04 to help the City of El Paso achieve the following:\n1.\tPromote the mobility, health, safety, and welfare of residents, property owners, and visitors to the City of El Paso and to implement objectives and ",
+      "code_numbers_found": [],
+      "shared_categories": [
+        "lot_size"
+      ],
+      "priority": 3,
+      "rule_confidence": "medium",
+      "needs_manual_review": true,
+      "conflict_type": "flagged_for_review",
+      "retrieval_similarity": 0.103
+    }
+  ],
+  "gaps": [],
+  "overall_severity": 3,
+  "scope": "needs_manual_review",
+  "last_action": "Filed",
+  "last_action_date": "2026-11-20",
+  "scoring_method": "rule_based_prescreen"
+}

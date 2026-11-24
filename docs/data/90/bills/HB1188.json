@@ -1,0 +1,24 @@
+{
+  "bill_id": 2163572,
+  "bill_number": "HB1188",
+  "title": "Relating to measures to support kindergarten readiness and early literacy and numeracy skills for public school students, including an early childhood parental support program and prekindergarten programs in public schools, and to funding under the Foundation School Program for certain school districts and to support those measures.",
+  "lifecycle": "active",
+  "legiscan_status": "1",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1188/2027",
+  "progress": [
+    {
+      "date": "2026-11-16",
+      "action": "Filed",
+      "chamber": "H",
+      "chamber_id": 91,
+      "importance": 1
+    }
+  ],
+  "conflicts": [],
+  "gaps": [],
+  "overall_severity": null,
+  "scope": null,
+  "last_action": "Filed",
+  "last_action_date": "2026-11-16",
+  "scoring_method": "rule_based_prescreen"
+}
